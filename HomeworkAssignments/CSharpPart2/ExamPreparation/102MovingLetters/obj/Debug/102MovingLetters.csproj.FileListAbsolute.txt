@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\102MovingLetters\bin\Debug\102MovingLetters.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\102MovingLetters\bin\Debug\102MovingLetters.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\102MovingLetters\bin\Debug\102MovingLetters.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\102MovingLetters\obj\Debug\102MovingLetters.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\102MovingLetters\obj\Debug\102MovingLetters.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\102MovingLetters\obj\Debug\102MovingLetters.pdb

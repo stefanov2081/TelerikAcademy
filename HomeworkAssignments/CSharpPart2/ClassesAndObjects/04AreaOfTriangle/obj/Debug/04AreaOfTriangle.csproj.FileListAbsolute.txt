@@ -1,0 +1,6 @@
+c:\users\mandjah\documents\visual studio 2012\Projects\ClassesAndObjects\04AreaOfTriangle\bin\Debug\04AreaOfTriangle.exe.config
+c:\users\mandjah\documents\visual studio 2012\Projects\ClassesAndObjects\04AreaOfTriangle\bin\Debug\04AreaOfTriangle.exe
+c:\users\mandjah\documents\visual studio 2012\Projects\ClassesAndObjects\04AreaOfTriangle\bin\Debug\04AreaOfTriangle.pdb
+c:\users\mandjah\documents\visual studio 2012\Projects\ClassesAndObjects\04AreaOfTriangle\obj\Debug\04AreaOfTriangle.csprojResolveAssemblyReference.cache
+c:\users\mandjah\documents\visual studio 2012\Projects\ClassesAndObjects\04AreaOfTriangle\obj\Debug\04AreaOfTriangle.exe
+c:\users\mandjah\documents\visual studio 2012\Projects\ClassesAndObjects\04AreaOfTriangle\obj\Debug\04AreaOfTriangle.pdb

@@ -1,0 +1,6 @@
+c:\users\mandjah\documents\visual studio 2012\Projects\ClassesAndObjects\02TenRandomValues\bin\Debug\02TenRandomValues.exe.config
+c:\users\mandjah\documents\visual studio 2012\Projects\ClassesAndObjects\02TenRandomValues\bin\Debug\02TenRandomValues.exe
+c:\users\mandjah\documents\visual studio 2012\Projects\ClassesAndObjects\02TenRandomValues\bin\Debug\02TenRandomValues.pdb
+c:\users\mandjah\documents\visual studio 2012\Projects\ClassesAndObjects\02TenRandomValues\obj\Debug\02TenRandomValues.exe
+c:\users\mandjah\documents\visual studio 2012\Projects\ClassesAndObjects\02TenRandomValues\obj\Debug\02TenRandomValues.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ClassesAndObjects\02TenRandomValues\obj\Debug\02TenRandomValues.csprojResolveAssemblyReference.cache

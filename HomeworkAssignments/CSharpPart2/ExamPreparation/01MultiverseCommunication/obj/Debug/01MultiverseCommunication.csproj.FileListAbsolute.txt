@@ -1,0 +1,6 @@
+c:\users\mandjah\documents\visual studio 2012\Projects\ExamPreparation\01MultiverseCommunication\bin\Debug\01MultiverseCommunication.exe.config
+c:\users\mandjah\documents\visual studio 2012\Projects\ExamPreparation\01MultiverseCommunication\bin\Debug\01MultiverseCommunication.exe
+c:\users\mandjah\documents\visual studio 2012\Projects\ExamPreparation\01MultiverseCommunication\bin\Debug\01MultiverseCommunication.pdb
+c:\users\mandjah\documents\visual studio 2012\Projects\ExamPreparation\01MultiverseCommunication\obj\Debug\01MultiverseCommunication.exe
+c:\users\mandjah\documents\visual studio 2012\Projects\ExamPreparation\01MultiverseCommunication\obj\Debug\01MultiverseCommunication.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\01MultiverseCommunication\obj\Debug\01MultiverseCommunication.csprojResolveAssemblyReference.cache

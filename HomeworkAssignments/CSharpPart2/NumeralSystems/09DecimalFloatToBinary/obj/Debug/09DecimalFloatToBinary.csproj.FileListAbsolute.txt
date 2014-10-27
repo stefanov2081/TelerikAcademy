@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\NumeralSystems\09DecimalFloatToBinary\bin\Debug\09DecimalFloatToBinary.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\NumeralSystems\09DecimalFloatToBinary\bin\Debug\09DecimalFloatToBinary.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\NumeralSystems\09DecimalFloatToBinary\bin\Debug\09DecimalFloatToBinary.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\NumeralSystems\09DecimalFloatToBinary\obj\Debug\09DecimalFloatToBinary.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\NumeralSystems\09DecimalFloatToBinary\obj\Debug\09DecimalFloatToBinary.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\NumeralSystems\09DecimalFloatToBinary\obj\Debug\09DecimalFloatToBinary.pdb

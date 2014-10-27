@@ -1,0 +1,6 @@
+c:\users\mandjah\documents\visual studio 2012\Projects\ExamCS2\03Patterns\bin\Debug\03Patterns.exe.config
+c:\users\mandjah\documents\visual studio 2012\Projects\ExamCS2\03Patterns\bin\Debug\03Patterns.exe
+c:\users\mandjah\documents\visual studio 2012\Projects\ExamCS2\03Patterns\bin\Debug\03Patterns.pdb
+c:\users\mandjah\documents\visual studio 2012\Projects\ExamCS2\03Patterns\obj\Debug\03Patterns.exe
+c:\users\mandjah\documents\visual studio 2012\Projects\ExamCS2\03Patterns\obj\Debug\03Patterns.pdb
+c:\users\mandjah\documents\visual studio 2012\Projects\ExamCS2\03Patterns\obj\Debug\03Patterns.csprojResolveAssemblyReference.cache

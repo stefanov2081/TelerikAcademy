@@ -1,0 +1,9 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\07IsNPrime\bin\Debug\07IsNPrime.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\07IsNPrime\bin\Debug\07IsNPrime.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\07IsNPrime\bin\Debug\07IsNPrime.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\07IsNPrime\obj\Debug\07IsNPrime.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\07IsNPrime\obj\Debug\07IsNPrime.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\07IsNPrime\obj\Debug\07IsNPrime.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart1\OperatorsAndExpressions\07IsNPrime\bin\Debug\07IsNPrime.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart1\OperatorsAndExpressions\07IsNPrime\obj\Debug\07IsNPrime.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart1\OperatorsAndExpressions\07IsNPrime\obj\Debug\07IsNPrime.pdb

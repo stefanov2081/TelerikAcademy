@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Arrays\05FindMaxIncreasingSubsetInArray\bin\Debug\05FindMaxIncreasingSubsetInArray.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Arrays\05FindMaxIncreasingSubsetInArray\bin\Debug\05FindMaxIncreasingSubsetInArray.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Arrays\05FindMaxIncreasingSubsetInArray\bin\Debug\05FindMaxIncreasingSubsetInArray.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Arrays\05FindMaxIncreasingSubsetInArray\obj\Debug\05FindMaxIncreasingSubsetInArray.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Arrays\05FindMaxIncreasingSubsetInArray\obj\Debug\05FindMaxIncreasingSubsetInArray.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Arrays\05FindMaxIncreasingSubsetInArray\obj\Debug\05FindMaxIncreasingSubsetInArray.pdb

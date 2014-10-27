@@ -1,0 +1,9 @@
+c:\users\mandjah\documents\visual studio 2012\Projects\StringsAndTextProcessing\01StringClass\bin\Debug\01StringClass.exe.config
+c:\users\mandjah\documents\visual studio 2012\Projects\StringsAndTextProcessing\01StringClass\bin\Debug\01StringClass.exe
+c:\users\mandjah\documents\visual studio 2012\Projects\StringsAndTextProcessing\01StringClass\bin\Debug\01StringClass.pdb
+c:\users\mandjah\documents\visual studio 2012\Projects\StringsAndTextProcessing\01StringClass\obj\Debug\01StringClass.csprojResolveAssemblyReference.cache
+c:\users\mandjah\documents\visual studio 2012\Projects\StringsAndTextProcessing\01StringClass\obj\Debug\01StringClass.exe
+c:\users\mandjah\documents\visual studio 2012\Projects\StringsAndTextProcessing\01StringClass\obj\Debug\01StringClass.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart2\StringsAndTextProcessing\01StringClass\bin\Debug\01StringClass.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart2\StringsAndTextProcessing\01StringClass\obj\Debug\01StringClass.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart2\StringsAndTextProcessing\01StringClass\obj\Debug\01StringClass.pdb

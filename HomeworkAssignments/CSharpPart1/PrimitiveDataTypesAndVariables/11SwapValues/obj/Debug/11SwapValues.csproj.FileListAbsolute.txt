@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\11SwapValues\bin\Debug\11SwapValues.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\11SwapValues\bin\Debug\11SwapValues.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\11SwapValues\bin\Debug\11SwapValues.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\11SwapValues\obj\Debug\11SwapValues.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\11SwapValues\obj\Debug\11SwapValues.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\11SwapValues\obj\Debug\11SwapValues.csprojResolveAssemblyReference.cache

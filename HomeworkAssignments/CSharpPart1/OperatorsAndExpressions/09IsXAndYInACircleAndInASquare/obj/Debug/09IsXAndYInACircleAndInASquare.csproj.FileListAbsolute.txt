@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\09IsXAndYInACircleAndInASquare\bin\Debug\09IsXAndYInACircleAndInASquare.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\09IsXAndYInACircleAndInASquare\bin\Debug\09IsXAndYInACircleAndInASquare.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\09IsXAndYInACircleAndInASquare\bin\Debug\09IsXAndYInACircleAndInASquare.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\09IsXAndYInACircleAndInASquare\obj\Debug\09IsXAndYInACircleAndInASquare.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\09IsXAndYInACircleAndInASquare\obj\Debug\09IsXAndYInACircleAndInASquare.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\09IsXAndYInACircleAndInASquare\obj\Debug\09IsXAndYInACircleAndInASquare.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+c:\users\mandjah\documents\visual studio 2012\Projects\TextFiles\01ReadFromFile\bin\Debug\01ReadFromFile.exe.config
+c:\users\mandjah\documents\visual studio 2012\Projects\TextFiles\01ReadFromFile\bin\Debug\01ReadFromFile.exe
+c:\users\mandjah\documents\visual studio 2012\Projects\TextFiles\01ReadFromFile\bin\Debug\01ReadFromFile.pdb
+c:\users\mandjah\documents\visual studio 2012\Projects\TextFiles\01ReadFromFile\obj\Debug\01ReadFromFile.exe
+c:\users\mandjah\documents\visual studio 2012\Projects\TextFiles\01ReadFromFile\obj\Debug\01ReadFromFile.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart2\TextFiles\01ReadFromFile\bin\Debug\01ReadFromFile.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart2\TextFiles\01ReadFromFile\obj\Debug\01ReadFromFile.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart2\TextFiles\01ReadFromFile\obj\Debug\01ReadFromFile.pdb

@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\101Zerg\bin\Debug\101Zerg.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\101Zerg\bin\Debug\101Zerg.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\101Zerg\bin\Debug\101Zerg.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\101Zerg\obj\Debug\101Zerg.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\101Zerg\obj\Debug\101Zerg.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\101Zerg\obj\Debug\101Zerg.pdb

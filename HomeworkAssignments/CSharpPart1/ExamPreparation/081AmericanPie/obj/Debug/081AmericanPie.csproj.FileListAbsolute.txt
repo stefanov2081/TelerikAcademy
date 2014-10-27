@@ -1,0 +1,9 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\081AmericanPie\bin\Debug\081AmericanPie.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\081AmericanPie\bin\Debug\081AmericanPie.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\081AmericanPie\bin\Debug\081AmericanPie.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\081AmericanPie\obj\Debug\081AmericanPie.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\081AmericanPie\obj\Debug\081AmericanPie.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\081AmericanPie\obj\Debug\081AmericanPie.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\New folder\CSharpPart1\ExamPreparation\081AmericanPie\bin\Debug\081AmericanPie.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\New folder\CSharpPart1\ExamPreparation\081AmericanPie\obj\Debug\081AmericanPie.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\New folder\CSharpPart1\ExamPreparation\081AmericanPie\obj\Debug\081AmericanPie.pdb

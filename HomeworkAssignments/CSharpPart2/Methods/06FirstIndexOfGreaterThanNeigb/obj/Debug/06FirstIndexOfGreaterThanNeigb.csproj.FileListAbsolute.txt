@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Methods\06FirstIndexOfGreaterThanNeigb\bin\Debug\06FirstIndexOfGreaterThanNeigb.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Methods\06FirstIndexOfGreaterThanNeigb\bin\Debug\06FirstIndexOfGreaterThanNeigb.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Methods\06FirstIndexOfGreaterThanNeigb\bin\Debug\06FirstIndexOfGreaterThanNeigb.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Methods\06FirstIndexOfGreaterThanNeigb\obj\Debug\06FirstIndexOfGreaterThanNeigb.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Methods\06FirstIndexOfGreaterThanNeigb\obj\Debug\06FirstIndexOfGreaterThanNeigb.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Methods\06FirstIndexOfGreaterThanNeigb\obj\Debug\06FirstIndexOfGreaterThanNeigb.pdb

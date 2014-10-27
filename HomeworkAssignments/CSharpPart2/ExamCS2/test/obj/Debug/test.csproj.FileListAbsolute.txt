@@ -1,0 +1,5 @@
+c:\users\mandjah\documents\visual studio 2012\Projects\ExamCS2\test\bin\Debug\test.exe.config
+c:\users\mandjah\documents\visual studio 2012\Projects\ExamCS2\test\bin\Debug\test.exe
+c:\users\mandjah\documents\visual studio 2012\Projects\ExamCS2\test\bin\Debug\test.pdb
+c:\users\mandjah\documents\visual studio 2012\Projects\ExamCS2\test\obj\Debug\test.exe
+c:\users\mandjah\documents\visual studio 2012\Projects\ExamCS2\test\obj\Debug\test.pdb

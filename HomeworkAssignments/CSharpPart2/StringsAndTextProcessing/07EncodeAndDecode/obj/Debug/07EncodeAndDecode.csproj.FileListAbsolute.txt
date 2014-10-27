@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\StringsAndTextProcessing\07EncodeAndDecode\bin\Debug\07EncodeAndDecode.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\StringsAndTextProcessing\07EncodeAndDecode\bin\Debug\07EncodeAndDecode.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\StringsAndTextProcessing\07EncodeAndDecode\bin\Debug\07EncodeAndDecode.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\StringsAndTextProcessing\07EncodeAndDecode\obj\Debug\07EncodeAndDecode.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\StringsAndTextProcessing\07EncodeAndDecode\obj\Debug\07EncodeAndDecode.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\StringsAndTextProcessing\07EncodeAndDecode\obj\Debug\07EncodeAndDecode.pdb

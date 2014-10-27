@@ -1,0 +1,9 @@
+c:\users\mandjah\documents\visual studio 2012\Projects\012-4-8\012-4-8\bin\Debug\012-4-8.exe.config
+c:\users\mandjah\documents\visual studio 2012\Projects\012-4-8\012-4-8\bin\Debug\012-4-8.exe
+c:\users\mandjah\documents\visual studio 2012\Projects\012-4-8\012-4-8\bin\Debug\012-4-8.pdb
+c:\users\mandjah\documents\visual studio 2012\Projects\012-4-8\012-4-8\obj\Debug\012-4-8.csprojResolveAssemblyReference.cache
+c:\users\mandjah\documents\visual studio 2012\Projects\012-4-8\012-4-8\obj\Debug\012-4-8.exe
+c:\users\mandjah\documents\visual studio 2012\Projects\012-4-8\012-4-8\obj\Debug\012-4-8.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart1\012-4-8\012-4-8\bin\Debug\012-4-8.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart1\012-4-8\012-4-8\obj\Debug\012-4-8.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart1\012-4-8\012-4-8\obj\Debug\012-4-8.pdb

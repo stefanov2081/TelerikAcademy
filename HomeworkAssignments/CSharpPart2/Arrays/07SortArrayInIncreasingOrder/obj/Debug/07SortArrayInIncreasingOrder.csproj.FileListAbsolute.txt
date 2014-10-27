@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Arrays\07SortArrayInIncreasingOrder\bin\Debug\07SortArrayInIncreasingOrder.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Arrays\07SortArrayInIncreasingOrder\bin\Debug\07SortArrayInIncreasingOrder.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Arrays\07SortArrayInIncreasingOrder\bin\Debug\07SortArrayInIncreasingOrder.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Arrays\07SortArrayInIncreasingOrder\obj\Debug\07SortArrayInIncreasingOrder.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Arrays\07SortArrayInIncreasingOrder\obj\Debug\07SortArrayInIncreasingOrder.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Arrays\07SortArrayInIncreasingOrder\obj\Debug\07SortArrayInIncreasingOrder.pdb

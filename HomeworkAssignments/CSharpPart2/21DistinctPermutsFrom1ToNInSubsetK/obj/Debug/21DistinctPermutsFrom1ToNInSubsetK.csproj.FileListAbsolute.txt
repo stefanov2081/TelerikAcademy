@@ -1,0 +1,14 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Arrays\21DistinctPermutsFrom1ToNInSubsetK\bin\Debug\21DistinctPermutsFrom1ToNInSubsetK.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Arrays\21DistinctPermutsFrom1ToNInSubsetK\bin\Debug\21DistinctPermutsFrom1ToNInSubsetK.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Arrays\21DistinctPermutsFrom1ToNInSubsetK\bin\Debug\21DistinctPermutsFrom1ToNInSubsetK.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Arrays\21DistinctPermutsFrom1ToNInSubsetK\obj\Debug\21DistinctPermutsFrom1ToNInSubsetK.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Arrays\21DistinctPermutsFrom1ToNInSubsetK\obj\Debug\21DistinctPermutsFrom1ToNInSubsetK.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\21DistinctPermutsFrom1ToNInSubsetK\bin\Debug\21DistinctPermutsFrom1ToNInSubsetK.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\21DistinctPermutsFrom1ToNInSubsetK\obj\Debug\21DistinctPermutsFrom1ToNInSubsetK.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\21DistinctPermutsFrom1ToNInSubsetK\obj\Debug\21DistinctPermutsFrom1ToNInSubsetK.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart2\21DistinctPermutsFrom1ToNInSubsetK\bin\Debug\21DistinctPermutsFrom1ToNInSubsetK.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart2\21DistinctPermutsFrom1ToNInSubsetK\obj\Debug\21DistinctPermutsFrom1ToNInSubsetK.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart2\21DistinctPermutsFrom1ToNInSubsetK\obj\Debug\21DistinctPermutsFrom1ToNInSubsetK.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart2\21DistinctPermutsFrom1ToNInSubsetK\bin\Debug\21DistinctPermutsFrom1ToNInSubsetK.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart2\21DistinctPermutsFrom1ToNInSubsetK\bin\Debug\21DistinctPermutsFrom1ToNInSubsetK.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart2\21DistinctPermutsFrom1ToNInSubsetK\obj\Debug\21DistinctPermutsFrom1ToNInSubsetK.csprojResolveAssemblyReference.cache

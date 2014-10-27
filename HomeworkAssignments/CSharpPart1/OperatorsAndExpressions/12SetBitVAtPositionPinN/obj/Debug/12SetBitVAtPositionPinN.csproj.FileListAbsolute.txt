@@ -1,0 +1,9 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\12SetBitVAtPositionPinN\bin\Debug\12SetBitVAtPositionPinN.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\12SetBitVAtPositionPinN\bin\Debug\12SetBitVAtPositionPinN.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\12SetBitVAtPositionPinN\bin\Debug\12SetBitVAtPositionPinN.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\12SetBitVAtPositionPinN\obj\Debug\12SetBitVAtPositionPinN.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\12SetBitVAtPositionPinN\obj\Debug\12SetBitVAtPositionPinN.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\12SetBitVAtPositionPinN\obj\Debug\12SetBitVAtPositionPinN.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart1\OperatorsAndExpressions\12SetBitVAtPositionPinN\bin\Debug\12SetBitVAtPositionPinN.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart1\OperatorsAndExpressions\12SetBitVAtPositionPinN\obj\Debug\12SetBitVAtPositionPinN.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart1\OperatorsAndExpressions\12SetBitVAtPositionPinN\obj\Debug\12SetBitVAtPositionPinN.pdb

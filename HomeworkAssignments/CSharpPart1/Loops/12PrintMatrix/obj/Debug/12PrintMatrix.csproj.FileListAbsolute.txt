@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Loops\12PrintMatrix\bin\Debug\12PrintMatrix.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Loops\12PrintMatrix\bin\Debug\12PrintMatrix.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Loops\12PrintMatrix\bin\Debug\12PrintMatrix.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Loops\12PrintMatrix\obj\Debug\12PrintMatrix.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Loops\12PrintMatrix\obj\Debug\12PrintMatrix.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Loops\12PrintMatrix\obj\Debug\12PrintMatrix.pdb

@@ -1,0 +1,8 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\NumeralSystems\03DecimalToHexaDecimal\bin\Debug\03DecimalToHexaDecimal.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\NumeralSystems\03DecimalToHexaDecimal\bin\Debug\03DecimalToHexaDecimal.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\NumeralSystems\03DecimalToHexaDecimal\bin\Debug\03DecimalToHexaDecimal.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\NumeralSystems\03DecimalToHexaDecimal\obj\Debug\03DecimalToHexaDecimal.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\NumeralSystems\03DecimalToHexaDecimal\obj\Debug\03DecimalToHexaDecimal.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\NumeralSystems\03DecimalToHexaDecimal\obj\Debug\03DecimalToHexaDecimal.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\NumeralSystems\03DecimalToHexaDecimal\bin\Debug\01DecimalToBinary.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\NumeralSystems\03DecimalToHexaDecimal\bin\Debug\01DecimalToBinary.pdb

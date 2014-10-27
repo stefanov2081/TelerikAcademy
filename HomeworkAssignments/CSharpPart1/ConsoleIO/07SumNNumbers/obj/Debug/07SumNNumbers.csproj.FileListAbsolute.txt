@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ConsoleIO\07SumNNumbers\bin\Debug\07SumNNumbers.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ConsoleIO\07SumNNumbers\bin\Debug\07SumNNumbers.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ConsoleIO\07SumNNumbers\bin\Debug\07SumNNumbers.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ConsoleIO\07SumNNumbers\obj\Debug\07SumNNumbers.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ConsoleIO\07SumNNumbers\obj\Debug\07SumNNumbers.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ConsoleIO\07SumNNumbers\obj\Debug\07SumNNumbers.csprojResolveAssemblyReference.cache

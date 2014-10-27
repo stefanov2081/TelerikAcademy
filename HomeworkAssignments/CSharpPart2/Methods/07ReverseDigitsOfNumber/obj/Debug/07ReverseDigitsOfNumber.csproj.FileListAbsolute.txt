@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Methods\07ReverseDigitsOfNumber\bin\Debug\07ReverseDigitsOfNumber.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Methods\07ReverseDigitsOfNumber\bin\Debug\07ReverseDigitsOfNumber.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Methods\07ReverseDigitsOfNumber\bin\Debug\07ReverseDigitsOfNumber.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Methods\07ReverseDigitsOfNumber\obj\Debug\07ReverseDigitsOfNumber.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Methods\07ReverseDigitsOfNumber\obj\Debug\07ReverseDigitsOfNumber.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Methods\07ReverseDigitsOfNumber\obj\Debug\07ReverseDigitsOfNumber.pdb

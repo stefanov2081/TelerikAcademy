@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\10VarDescriptiveNames\bin\Debug\10VarDescriptiveNames.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\10VarDescriptiveNames\bin\Debug\10VarDescriptiveNames.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\10VarDescriptiveNames\bin\Debug\10VarDescriptiveNames.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\10VarDescriptiveNames\obj\Debug\10VarDescriptiveNames.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\10VarDescriptiveNames\obj\Debug\10VarDescriptiveNames.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\10VarDescriptiveNames\obj\Debug\10EmployeeRecord.csprojResolveAssemblyReference.cache

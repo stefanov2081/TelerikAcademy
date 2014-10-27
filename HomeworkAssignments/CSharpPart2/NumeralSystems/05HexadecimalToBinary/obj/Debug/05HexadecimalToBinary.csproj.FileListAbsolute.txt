@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\NumeralSystems\05HexadecimalToBinary\bin\Debug\05HexadecimalToBinary.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\NumeralSystems\05HexadecimalToBinary\bin\Debug\05HexadecimalToBinary.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\NumeralSystems\05HexadecimalToBinary\bin\Debug\05HexadecimalToBinary.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\NumeralSystems\05HexadecimalToBinary\obj\Debug\05HexadecimalToBinary.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\NumeralSystems\05HexadecimalToBinary\obj\Debug\05HexadecimalToBinary.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\NumeralSystems\05HexadecimalToBinary\obj\Debug\05HexadecimalToBinary.pdb

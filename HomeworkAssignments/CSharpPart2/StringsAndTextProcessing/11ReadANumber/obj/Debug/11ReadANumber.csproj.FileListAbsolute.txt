@@ -1,0 +1,5 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\StringsAndTextProcessing\11ReadANumber\bin\Debug\11ReadANumber.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\StringsAndTextProcessing\11ReadANumber\bin\Debug\11ReadANumber.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\StringsAndTextProcessing\11ReadANumber\bin\Debug\11ReadANumber.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\StringsAndTextProcessing\11ReadANumber\obj\Debug\11ReadANumber.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\StringsAndTextProcessing\11ReadANumber\obj\Debug\11ReadANumber.pdb

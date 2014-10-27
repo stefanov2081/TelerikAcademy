@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\05SortStringArrayByLength\bin\Debug\05SortStringArrayByLength.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\05SortStringArrayByLength\bin\Debug\05SortStringArrayByLength.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\05SortStringArrayByLength\bin\Debug\05SortStringArrayByLength.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\05SortStringArrayByLength\obj\Debug\05SortStringArrayByLength.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\05SortStringArrayByLength\obj\Debug\05SortStringArrayByLength.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\05SortStringArrayByLength\obj\Debug\05SortStringArrayByLength.csprojResolveAssemblyReference.cache

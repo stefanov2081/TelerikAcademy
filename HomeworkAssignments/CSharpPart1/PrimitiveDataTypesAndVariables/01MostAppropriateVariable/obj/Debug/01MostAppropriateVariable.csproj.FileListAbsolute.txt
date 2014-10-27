@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\01MostAppropriateVariable\bin\Debug\01MostAppropriateVariable.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\01MostAppropriateVariable\bin\Debug\01MostAppropriateVariable.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\01MostAppropriateVariable\bin\Debug\01MostAppropriateVariable.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\01MostAppropriateVariable\obj\Debug\01MostAppropriateVariable.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\01MostAppropriateVariable\obj\Debug\01MostAppropriateVariable.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\01MostAppropriateVariable\obj\Debug\01MostAppropriateVariable.pdb

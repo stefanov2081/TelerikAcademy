@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\10IsBitAtPositionP1\bin\Debug\10IsBitAtPositionP1.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\10IsBitAtPositionP1\bin\Debug\10IsBitAtPositionP1.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\10IsBitAtPositionP1\bin\Debug\10IsBitAtPositionP1.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\10IsBitAtPositionP1\obj\Debug\10IsBitAtPositionP1.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\10IsBitAtPositionP1\obj\Debug\10IsBitAtPositionP1.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\10IsBitAtPositionP1\obj\Debug\10IsBitAtPositionP1.pdb

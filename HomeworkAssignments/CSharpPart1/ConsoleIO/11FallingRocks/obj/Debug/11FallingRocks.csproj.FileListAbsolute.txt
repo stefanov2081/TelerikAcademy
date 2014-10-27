@@ -1,0 +1,12 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ConsoleIO\11FallingRocks\bin\Debug\11FallingRocks.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ConsoleIO\11FallingRocks\bin\Debug\11FallingRocks.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ConsoleIO\11FallingRocks\bin\Debug\11FallingRocks.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ConsoleIO\11FallingRocks\obj\Debug\11FallingRocks.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ConsoleIO\11FallingRocks\obj\Debug\11FallingRocks.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ConsoleIO\11FallingRocks\obj\Debug\11FallingRocks.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart1\ConsoleIO\11FallingRocks\bin\Debug\11FallingRocks.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart1\ConsoleIO\11FallingRocks\obj\Debug\11FallingRocks.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart1\ConsoleIO\11FallingRocks\obj\Debug\11FallingRocks.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart1\ConsoleIO\11FallingRocks\bin\Debug\11FallingRocks.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart1\ConsoleIO\11FallingRocks\bin\Debug\11FallingRocks.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart1\ConsoleIO\11FallingRocks\obj\Debug\11FallingRocks.csprojResolveAssemblyReference.cache

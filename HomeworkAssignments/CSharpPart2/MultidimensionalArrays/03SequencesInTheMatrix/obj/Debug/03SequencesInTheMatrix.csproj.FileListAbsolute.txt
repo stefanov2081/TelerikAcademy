@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\03SequencesInTheMatrix\bin\Debug\03SequencesInTheMatrix.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\03SequencesInTheMatrix\obj\Debug\03SequencesInTheMatrix.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\03SequencesInTheMatrix\bin\Debug\03SequencesInTheMatrix.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\03SequencesInTheMatrix\bin\Debug\03SequencesInTheMatrix.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\03SequencesInTheMatrix\obj\Debug\03SequencesInTheMatrix.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\03SequencesInTheMatrix\obj\Debug\03SequencesInTheMatrix.pdb

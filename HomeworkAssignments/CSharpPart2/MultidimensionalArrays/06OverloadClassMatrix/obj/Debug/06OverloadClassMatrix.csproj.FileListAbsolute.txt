@@ -1,0 +1,12 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\06OverloadClassMatrix\bin\Debug\06OverloadClassMatrix.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\06OverloadClassMatrix\bin\Debug\06OverloadClassMatrix.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\06OverloadClassMatrix\bin\Debug\06OverloadClassMatrix.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\06OverloadClassMatrix\obj\Debug\06OverloadClassMatrix.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\06OverloadClassMatrix\obj\Debug\06OverloadClassMatrix.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\06OverloadClassMatrix\obj\Debug\06OverloadClassMatrix.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart2\MultidimensionalArrays\06OverloadClassMatrix\bin\Debug\06OverloadClassMatrix.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart2\MultidimensionalArrays\06OverloadClassMatrix\obj\Debug\06OverloadClassMatrix.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart2\MultidimensionalArrays\06OverloadClassMatrix\obj\Debug\06OverloadClassMatrix.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart2\MultidimensionalArrays\06OverloadClassMatrix\bin\Debug\06OverloadClassMatrix.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart2\MultidimensionalArrays\06OverloadClassMatrix\bin\Debug\06OverloadClassMatrix.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart2\MultidimensionalArrays\06OverloadClassMatrix\obj\Debug\06OverloadClassMatrix.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\014BinaryDigitsCount\bin\Debug\014BinaryDigitsCount.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\014BinaryDigitsCount\bin\Debug\014BinaryDigitsCount.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\014BinaryDigitsCount\bin\Debug\014BinaryDigitsCount.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\014BinaryDigitsCount\obj\Debug\014BinaryDigitsCount.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\014BinaryDigitsCount\obj\Debug\014BinaryDigitsCount.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\014BinaryDigitsCount\obj\Debug\014BinaryDigitsCount.csprojResolveAssemblyReference.cache

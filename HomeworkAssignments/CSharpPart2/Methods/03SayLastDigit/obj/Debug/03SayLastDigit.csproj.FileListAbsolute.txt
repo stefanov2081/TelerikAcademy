@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Methods\03SayLastDigit\bin\Debug\03SayLastDigit.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Methods\03SayLastDigit\bin\Debug\03SayLastDigit.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Methods\03SayLastDigit\bin\Debug\03SayLastDigit.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Methods\03SayLastDigit\obj\Debug\03SayLastDigit.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Methods\03SayLastDigit\obj\Debug\03SayLastDigit.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Methods\03SayLastDigit\obj\Debug\03SayLastDigit.csprojResolveAssemblyReference.cache

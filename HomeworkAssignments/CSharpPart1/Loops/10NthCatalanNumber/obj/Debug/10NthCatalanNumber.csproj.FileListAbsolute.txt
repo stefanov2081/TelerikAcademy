@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Loops\10NthCatalanNumber\bin\Debug\10NthCatalanNumber.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Loops\10NthCatalanNumber\bin\Debug\10NthCatalanNumber.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Loops\10NthCatalanNumber\bin\Debug\10NthCatalanNumber.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Loops\10NthCatalanNumber\obj\Debug\10NthCatalanNumber.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Loops\10NthCatalanNumber\obj\Debug\10NthCatalanNumber.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Loops\10NthCatalanNumber\obj\Debug\10NthCatalanNumber.pdb

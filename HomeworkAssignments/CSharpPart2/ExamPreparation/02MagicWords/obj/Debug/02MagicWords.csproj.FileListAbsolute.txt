@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\02MagicWords\bin\Debug\02MagicWords.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\02MagicWords\bin\Debug\02MagicWords.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\02MagicWords\bin\Debug\02MagicWords.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\02MagicWords\obj\Debug\02MagicWords.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\02MagicWords\obj\Debug\02MagicWords.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\02MagicWords\obj\Debug\02MagicWords.csprojResolveAssemblyReference.cache

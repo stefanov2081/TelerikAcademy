@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ConditionalStatements\05PrintNameOfNumber\bin\Debug\05PrintNameOfNumber.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ConditionalStatements\05PrintNameOfNumber\bin\Debug\05PrintNameOfNumber.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ConditionalStatements\05PrintNameOfNumber\bin\Debug\05PrintNameOfNumber.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ConditionalStatements\05PrintNameOfNumber\obj\Debug\05PrintNameOfNumber.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ConditionalStatements\05PrintNameOfNumber\obj\Debug\05PrintNameOfNumber.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ConditionalStatements\05PrintNameOfNumber\obj\Debug\05PrintNameOfNumber.pdb

@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\07ObjHelloWorld\bin\Debug\07ObjHelloWorld.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\07ObjHelloWorld\bin\Debug\07ObjHelloWorld.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\07ObjHelloWorld\bin\Debug\07ObjHelloWorld.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\07ObjHelloWorld\obj\Debug\07ObjHelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\07ObjHelloWorld\obj\Debug\07ObjHelloWorld.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\07ObjHelloWorld\obj\Debug\07ObjHelloWorld.pdb

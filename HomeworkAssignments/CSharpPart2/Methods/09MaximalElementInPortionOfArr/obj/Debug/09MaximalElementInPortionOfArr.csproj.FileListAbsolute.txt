@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Methods\09MaximalElementInPortionOfArr\bin\Debug\09MaximalElementInPortionOfArr.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Methods\09MaximalElementInPortionOfArr\bin\Debug\09MaximalElementInPortionOfArr.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Methods\09MaximalElementInPortionOfArr\bin\Debug\09MaximalElementInPortionOfArr.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Methods\09MaximalElementInPortionOfArr\obj\Debug\09MaximalElementInPortionOfArr.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Methods\09MaximalElementInPortionOfArr\obj\Debug\09MaximalElementInPortionOfArr.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Methods\09MaximalElementInPortionOfArr\obj\Debug\09MaximalElementInPortionOfArr.pdb

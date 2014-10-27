@@ -1,0 +1,9 @@
+c:\users\mandjah\documents\visual studio 2012\Projects\OperatorsAndExpressions\01IntOddOrEven\bin\Debug\01IntOddOrEven.exe.config
+c:\users\mandjah\documents\visual studio 2012\Projects\OperatorsAndExpressions\01IntOddOrEven\bin\Debug\01IntOddOrEven.exe
+c:\users\mandjah\documents\visual studio 2012\Projects\OperatorsAndExpressions\01IntOddOrEven\bin\Debug\01IntOddOrEven.pdb
+c:\users\mandjah\documents\visual studio 2012\Projects\OperatorsAndExpressions\01IntOddOrEven\obj\Debug\01IntOddOrEven.csprojResolveAssemblyReference.cache
+c:\users\mandjah\documents\visual studio 2012\Projects\OperatorsAndExpressions\01IntOddOrEven\obj\Debug\01IntOddOrEven.exe
+c:\users\mandjah\documents\visual studio 2012\Projects\OperatorsAndExpressions\01IntOddOrEven\obj\Debug\01IntOddOrEven.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart1\OperatorsAndExpressions\01IntOddOrEven\bin\Debug\01IntOddOrEven.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart1\OperatorsAndExpressions\01IntOddOrEven\obj\Debug\01IntOddOrEven.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart1\OperatorsAndExpressions\01IntOddOrEven\obj\Debug\01IntOddOrEven.pdb

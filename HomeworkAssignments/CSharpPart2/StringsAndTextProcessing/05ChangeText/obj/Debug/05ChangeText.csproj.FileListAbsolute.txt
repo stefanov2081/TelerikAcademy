@@ -1,0 +1,6 @@
+c:\users\mandjah\documents\visual studio 2012\Projects\StringsAndTextProcessing\05ChangeText\bin\Debug\05ChangeText.exe.config
+c:\users\mandjah\documents\visual studio 2012\Projects\StringsAndTextProcessing\05ChangeText\bin\Debug\05ChangeText.exe
+c:\users\mandjah\documents\visual studio 2012\Projects\StringsAndTextProcessing\05ChangeText\bin\Debug\05ChangeText.pdb
+c:\users\mandjah\documents\visual studio 2012\Projects\StringsAndTextProcessing\05ChangeText\obj\Debug\05ChangeText.exe
+c:\users\mandjah\documents\visual studio 2012\Projects\StringsAndTextProcessing\05ChangeText\obj\Debug\05ChangeText.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\StringsAndTextProcessing\05ChangeText\obj\Debug\05ChangeText.csprojResolveAssemblyReference.cache

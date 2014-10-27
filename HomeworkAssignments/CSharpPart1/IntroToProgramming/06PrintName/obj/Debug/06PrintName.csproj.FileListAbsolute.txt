@@ -1,0 +1,5 @@
+c:\Users\mandjah\Documents\Visual Studio 2012\Projects\IntroToProgramming\06PrintName\bin\Debug\06PrintName.exe.config
+c:\Users\mandjah\Documents\Visual Studio 2012\Projects\IntroToProgramming\06PrintName\bin\Debug\06PrintName.exe
+c:\Users\mandjah\Documents\Visual Studio 2012\Projects\IntroToProgramming\06PrintName\bin\Debug\06PrintName.pdb
+c:\Users\mandjah\Documents\Visual Studio 2012\Projects\IntroToProgramming\06PrintName\obj\Debug\06PrintName.exe
+c:\Users\mandjah\Documents\Visual Studio 2012\Projects\IntroToProgramming\06PrintName\obj\Debug\06PrintName.pdb

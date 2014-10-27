@@ -1,0 +1,9 @@
+c:\users\mandjah\documents\visual studio 2012\Projects\ClassesAndObjects\01IsItALeapYear\bin\Debug\01IsItALeapYear.exe.config
+c:\users\mandjah\documents\visual studio 2012\Projects\ClassesAndObjects\01IsItALeapYear\bin\Debug\01IsItALeapYear.exe
+c:\users\mandjah\documents\visual studio 2012\Projects\ClassesAndObjects\01IsItALeapYear\bin\Debug\01IsItALeapYear.pdb
+c:\users\mandjah\documents\visual studio 2012\Projects\ClassesAndObjects\01IsItALeapYear\obj\Debug\01IsItALeapYear.csprojResolveAssemblyReference.cache
+c:\users\mandjah\documents\visual studio 2012\Projects\ClassesAndObjects\01IsItALeapYear\obj\Debug\01IsItALeapYear.exe
+c:\users\mandjah\documents\visual studio 2012\Projects\ClassesAndObjects\01IsItALeapYear\obj\Debug\01IsItALeapYear.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart2\ClassesAndObjects\01IsItALeapYear\bin\Debug\01IsItALeapYear.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart2\ClassesAndObjects\01IsItALeapYear\obj\Debug\01IsItALeapYear.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart2\ClassesAndObjects\01IsItALeapYear\obj\Debug\01IsItALeapYear.pdb

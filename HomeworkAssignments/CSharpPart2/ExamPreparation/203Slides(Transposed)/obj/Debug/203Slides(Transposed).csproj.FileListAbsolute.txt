@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\203Slides(Transposed)\bin\Debug\203Slides(Transposed).exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\203Slides(Transposed)\bin\Debug\203Slides(Transposed).exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\203Slides(Transposed)\bin\Debug\203Slides(Transposed).pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\203Slides(Transposed)\obj\Debug\203Slides(Transposed).exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\203Slides(Transposed)\obj\Debug\203Slides(Transposed).pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\203Slides(Transposed)\obj\Debug\203Slides(Transposed).csprojResolveAssemblyReference.cache

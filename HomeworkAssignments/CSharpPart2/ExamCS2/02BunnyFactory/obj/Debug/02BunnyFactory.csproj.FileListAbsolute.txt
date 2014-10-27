@@ -1,0 +1,6 @@
+c:\users\mandjah\documents\visual studio 2012\Projects\ExamCS2\02BunnyFactory\bin\Debug\02BunnyFactory.exe.config
+c:\users\mandjah\documents\visual studio 2012\Projects\ExamCS2\02BunnyFactory\bin\Debug\02BunnyFactory.exe
+c:\users\mandjah\documents\visual studio 2012\Projects\ExamCS2\02BunnyFactory\bin\Debug\02BunnyFactory.pdb
+c:\users\mandjah\documents\visual studio 2012\Projects\ExamCS2\02BunnyFactory\obj\Debug\02BunnyFactory.exe
+c:\users\mandjah\documents\visual studio 2012\Projects\ExamCS2\02BunnyFactory\obj\Debug\02BunnyFactory.pdb
+c:\users\mandjah\documents\visual studio 2012\Projects\ExamCS2\02BunnyFactory\obj\Debug\02BunnyFactory.csprojResolveAssemblyReference.cache

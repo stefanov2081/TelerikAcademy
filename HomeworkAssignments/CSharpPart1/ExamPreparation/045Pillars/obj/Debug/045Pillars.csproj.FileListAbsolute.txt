@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\045Pillars\bin\Debug\045Pillars.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\045Pillars\bin\Debug\045Pillars.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\045Pillars\bin\Debug\045Pillars.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\045Pillars\obj\Debug\045Pillars.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\045Pillars\obj\Debug\045Pillars.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\045Pillars\obj\Debug\045Pillars.pdb

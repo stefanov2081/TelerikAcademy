@@ -1,0 +1,5 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\02Find3x3MaxSumInMatrix\bin\Debug\02Find3x3MaxSumInMatrix.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\02Find3x3MaxSumInMatrix\bin\Debug\02Find3x3MaxSumInMatrix.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\02Find3x3MaxSumInMatrix\bin\Debug\02Find3x3MaxSumInMatrix.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\02Find3x3MaxSumInMatrix\obj\Debug\02Find3x3MaxSumInMatrix.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\02Find3x3MaxSumInMatrix\obj\Debug\02Find3x3MaxSumInMatrix.pdb

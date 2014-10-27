@@ -1,0 +1,5 @@
+c:\Users\mandjah\Documents\Visual Studio 2012\Projects\IntroToProgramming\09PrintNumFromSequence\bin\Debug\09PrintNumFromSequence.exe.config
+c:\Users\mandjah\Documents\Visual Studio 2012\Projects\IntroToProgramming\09PrintNumFromSequence\bin\Debug\09PrintNumFromSequence.exe
+c:\Users\mandjah\Documents\Visual Studio 2012\Projects\IntroToProgramming\09PrintNumFromSequence\bin\Debug\09PrintNumFromSequence.pdb
+c:\Users\mandjah\Documents\Visual Studio 2012\Projects\IntroToProgramming\09PrintNumFromSequence\obj\Debug\09PrintNumFromSequence.exe
+c:\Users\mandjah\Documents\Visual Studio 2012\Projects\IntroToProgramming\09PrintNumFromSequence\obj\Debug\09PrintNumFromSequence.pdb

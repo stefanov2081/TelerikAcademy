@@ -1,0 +1,5 @@
+c:\users\mandjah\documents\visual studio 2012\Projects\ClassesAndObjects\03PrintToday\bin\Debug\03PrintToday.exe.config
+c:\users\mandjah\documents\visual studio 2012\Projects\ClassesAndObjects\03PrintToday\bin\Debug\03PrintToday.exe
+c:\users\mandjah\documents\visual studio 2012\Projects\ClassesAndObjects\03PrintToday\bin\Debug\03PrintToday.pdb
+c:\users\mandjah\documents\visual studio 2012\Projects\ClassesAndObjects\03PrintToday\obj\Debug\03PrintToday.exe
+c:\users\mandjah\documents\visual studio 2012\Projects\ClassesAndObjects\03PrintToday\obj\Debug\03PrintToday.pdb

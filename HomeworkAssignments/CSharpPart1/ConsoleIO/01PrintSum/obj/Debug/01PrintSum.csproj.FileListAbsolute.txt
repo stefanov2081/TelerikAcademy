@@ -1,0 +1,9 @@
+c:\users\mandjah\documents\visual studio 2012\Projects\ConsoleIO\01PrintSum\bin\Debug\01PrintSum.exe.config
+c:\users\mandjah\documents\visual studio 2012\Projects\ConsoleIO\01PrintSum\bin\Debug\01PrintSum.exe
+c:\users\mandjah\documents\visual studio 2012\Projects\ConsoleIO\01PrintSum\bin\Debug\01PrintSum.pdb
+c:\users\mandjah\documents\visual studio 2012\Projects\ConsoleIO\01PrintSum\obj\Debug\01PrintSum.csprojResolveAssemblyReference.cache
+c:\users\mandjah\documents\visual studio 2012\Projects\ConsoleIO\01PrintSum\obj\Debug\01PrintSum.exe
+c:\users\mandjah\documents\visual studio 2012\Projects\ConsoleIO\01PrintSum\obj\Debug\01PrintSum.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart1\ConsoleIO\01PrintSum\bin\Debug\01PrintSum.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart1\ConsoleIO\01PrintSum\obj\Debug\01PrintSum.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart1\ConsoleIO\01PrintSum\obj\Debug\01PrintSum.pdb

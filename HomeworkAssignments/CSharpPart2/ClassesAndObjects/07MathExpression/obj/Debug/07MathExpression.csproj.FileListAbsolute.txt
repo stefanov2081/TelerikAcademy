@@ -1,0 +1,9 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ClassesAndObjects\07MathExpression\bin\Debug\07MathExpression.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ClassesAndObjects\07MathExpression\bin\Debug\07MathExpression.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ClassesAndObjects\07MathExpression\bin\Debug\07MathExpression.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ClassesAndObjects\07MathExpression\obj\Debug\07MathExpression.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ClassesAndObjects\07MathExpression\obj\Debug\07MathExpression.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ClassesAndObjects\07MathExpression\obj\Debug\07MathExpression.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart2\ClassesAndObjects\07MathExpression\bin\Debug\07MathExpression.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart2\ClassesAndObjects\07MathExpression\obj\Debug\07MathExpression.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart2\ClassesAndObjects\07MathExpression\obj\Debug\07MathExpression.pdb

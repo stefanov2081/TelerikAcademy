@@ -1,0 +1,6 @@
+c:\users\mandjah\documents\visual studio 2012\Projects\ExamPreparation\01BasicBASIC\bin\Debug\01BasicBASIC.exe.config
+c:\users\mandjah\documents\visual studio 2012\Projects\ExamPreparation\01BasicBASIC\bin\Debug\01BasicBASIC.exe
+c:\users\mandjah\documents\visual studio 2012\Projects\ExamPreparation\01BasicBASIC\bin\Debug\01BasicBASIC.pdb
+c:\users\mandjah\documents\visual studio 2012\Projects\ExamPreparation\01BasicBASIC\obj\Debug\01BasicBASIC.csprojResolveAssemblyReference.cache
+c:\users\mandjah\documents\visual studio 2012\Projects\ExamPreparation\01BasicBASIC\obj\Debug\01BasicBASIC.exe
+c:\users\mandjah\documents\visual studio 2012\Projects\ExamPreparation\01BasicBASIC\obj\Debug\01BasicBASIC.pdb

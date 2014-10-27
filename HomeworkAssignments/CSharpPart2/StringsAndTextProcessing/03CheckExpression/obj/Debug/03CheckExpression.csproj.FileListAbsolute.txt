@@ -1,0 +1,5 @@
+c:\users\mandjah\documents\visual studio 2012\Projects\StringsAndTextProcessing\03CheckExpression\bin\Debug\03CheckExpression.exe.config
+c:\users\mandjah\documents\visual studio 2012\Projects\StringsAndTextProcessing\03CheckExpression\bin\Debug\03CheckExpression.exe
+c:\users\mandjah\documents\visual studio 2012\Projects\StringsAndTextProcessing\03CheckExpression\bin\Debug\03CheckExpression.pdb
+c:\users\mandjah\documents\visual studio 2012\Projects\StringsAndTextProcessing\03CheckExpression\obj\Debug\03CheckExpression.exe
+c:\users\mandjah\documents\visual studio 2012\Projects\StringsAndTextProcessing\03CheckExpression\obj\Debug\03CheckExpression.pdb

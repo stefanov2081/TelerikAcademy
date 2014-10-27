@@ -1,0 +1,6 @@
+c:\users\mandjah\documents\visual studio 2012\Projects\Loops\08GCDOfAAndB\bin\Debug\08GCDOfAAndB.exe.config
+c:\users\mandjah\documents\visual studio 2012\Projects\Loops\08GCDOfAAndB\bin\Debug\08GCDOfAAndB.exe
+c:\users\mandjah\documents\visual studio 2012\Projects\Loops\08GCDOfAAndB\bin\Debug\08GCDOfAAndB.pdb
+c:\users\mandjah\documents\visual studio 2012\Projects\Loops\08GCDOfAAndB\obj\Debug\08GCDOfAAndB.csprojResolveAssemblyReference.cache
+c:\users\mandjah\documents\visual studio 2012\Projects\Loops\08GCDOfAAndB\obj\Debug\08GCDOfAAndB.exe
+c:\users\mandjah\documents\visual studio 2012\Projects\Loops\08GCDOfAAndB\obj\Debug\08GCDOfAAndB.pdb

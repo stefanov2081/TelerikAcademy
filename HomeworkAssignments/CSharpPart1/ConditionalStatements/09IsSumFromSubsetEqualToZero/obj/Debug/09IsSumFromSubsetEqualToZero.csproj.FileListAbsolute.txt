@@ -1,0 +1,8 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ConditionalStatements\09IsSumFromSubsetEqualToZero\bin\Debug\09IsSumFromSubsetEqualToZero.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ConditionalStatements\09IsSumFromSubsetEqualToZero\bin\Debug\09IsSumFromSubsetEqualToZero.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ConditionalStatements\09IsSumFromSubsetEqualToZero\bin\Debug\09IsSumFromSubsetEqualToZero.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ConditionalStatements\09IsSumFromSubsetEqualToZero\obj\Debug\09IsSumFromSubsetEqualToZero.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ConditionalStatements\09IsSumFromSubsetEqualToZero\obj\Debug\09IsSumFromSubsetEqualToZero.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart1\ConditionalStatements\09IsSumFromSubsetEqualToZero\bin\Debug\09IsSumFromSubsetEqualToZero.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart1\ConditionalStatements\09IsSumFromSubsetEqualToZero\obj\Debug\09IsSumFromSubsetEqualToZero.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart1\ConditionalStatements\09IsSumFromSubsetEqualToZero\obj\Debug\09IsSumFromSubsetEqualToZero.pdb

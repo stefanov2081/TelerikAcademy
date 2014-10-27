@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\042Tribonacci\bin\Debug\042Tribonacci.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\042Tribonacci\bin\Debug\042Tribonacci.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\042Tribonacci\bin\Debug\042Tribonacci.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\042Tribonacci\obj\Debug\042Tribonacci.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\042Tribonacci\obj\Debug\042Tribonacci.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\042Tribonacci\obj\Debug\042Tribonacci.pdb

@@ -1,0 +1,6 @@
+c:\users\mandjah\documents\visual studio 2012\Projects\ExceptionHandling\01CalculateSqrt\bin\Debug\01CalculateSqrt.exe.config
+c:\users\mandjah\documents\visual studio 2012\Projects\ExceptionHandling\01CalculateSqrt\bin\Debug\01CalculateSqrt.exe
+c:\users\mandjah\documents\visual studio 2012\Projects\ExceptionHandling\01CalculateSqrt\bin\Debug\01CalculateSqrt.pdb
+c:\users\mandjah\documents\visual studio 2012\Projects\ExceptionHandling\01CalculateSqrt\obj\Debug\01CalculateSqrt.csprojResolveAssemblyReference.cache
+c:\users\mandjah\documents\visual studio 2012\Projects\ExceptionHandling\01CalculateSqrt\obj\Debug\01CalculateSqrt.exe
+c:\users\mandjah\documents\visual studio 2012\Projects\ExceptionHandling\01CalculateSqrt\obj\Debug\01CalculateSqrt.pdb

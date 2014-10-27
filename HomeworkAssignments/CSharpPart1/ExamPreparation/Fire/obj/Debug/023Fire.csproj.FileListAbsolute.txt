@@ -1,0 +1,3 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\Fire\bin\Debug\Fire.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\Fire\obj\Debug\Fire.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\Fire\obj\Debug\Fire.pdb

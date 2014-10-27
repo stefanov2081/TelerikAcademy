@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Arrays\12PrintIndexOfEachLetterInAWord\bin\Debug\12PrintIndexOfEachLetterInAWord.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Arrays\12PrintIndexOfEachLetterInAWord\bin\Debug\12PrintIndexOfEachLetterInAWord.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Arrays\12PrintIndexOfEachLetterInAWord\bin\Debug\12PrintIndexOfEachLetterInAWord.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Arrays\12PrintIndexOfEachLetterInAWord\obj\Debug\12PrintIndexOfEachLetterInAWord.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Arrays\12PrintIndexOfEachLetterInAWord\obj\Debug\12PrintIndexOfEachLetterInAWord.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Arrays\12PrintIndexOfEachLetterInAWord\obj\Debug\12PrintIndexOfEachLetterInAWord.pdb

@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\04Value254InHex\bin\Debug\04Value254InHex.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\04Value254InHex\bin\Debug\04Value254InHex.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\04Value254InHex\bin\Debug\04Value254InHex.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\04Value254InHex\obj\Debug\04Value254InHex.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\04Value254InHex\obj\Debug\04Value254InHex.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\04Value254InHex\obj\Debug\04Value254InHex.pdb

@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\203Slides\bin\Debug\203Slides.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\203Slides\bin\Debug\203Slides.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\203Slides\bin\Debug\203Slides.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\203Slides\obj\Debug\203Slides.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\203Slides\obj\Debug\203Slides.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\203Slides\obj\Debug\203Slides.csprojResolveAssemblyReference.cache

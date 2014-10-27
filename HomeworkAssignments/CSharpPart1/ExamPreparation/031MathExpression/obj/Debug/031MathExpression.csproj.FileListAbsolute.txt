@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\031MathExpression\bin\Debug\031MathExpression.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\031MathExpression\bin\Debug\031MathExpression.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\031MathExpression\bin\Debug\031MathExpression.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\031MathExpression\obj\Debug\031MathExpression.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\031MathExpression\obj\Debug\031MathExpression.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\031MathExpression\obj\Debug\031MathExpression.pdb

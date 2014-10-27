@@ -1,0 +1,6 @@
+c:\users\mandjah\documents\visual studio 2012\Projects\ExceptionHandling\03ReadFromFile\bin\Debug\03ReadFromFile.exe.config
+c:\users\mandjah\documents\visual studio 2012\Projects\ExceptionHandling\03ReadFromFile\bin\Debug\03ReadFromFile.exe
+c:\users\mandjah\documents\visual studio 2012\Projects\ExceptionHandling\03ReadFromFile\bin\Debug\03ReadFromFile.pdb
+c:\users\mandjah\documents\visual studio 2012\Projects\ExceptionHandling\03ReadFromFile\obj\Debug\03ReadFromFile.csprojResolveAssemblyReference.cache
+c:\users\mandjah\documents\visual studio 2012\Projects\ExceptionHandling\03ReadFromFile\obj\Debug\03ReadFromFile.exe
+c:\users\mandjah\documents\visual studio 2012\Projects\ExceptionHandling\03ReadFromFile\obj\Debug\03ReadFromFile.pdb

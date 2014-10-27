@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\08FindTrapezoidArea\bin\Debug\08FindTrapezoidArea.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\08FindTrapezoidArea\bin\Debug\08FindTrapezoidArea.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\08FindTrapezoidArea\bin\Debug\08FindTrapezoidArea.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\08FindTrapezoidArea\obj\Debug\08FindTrapezoidArea.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\08FindTrapezoidArea\obj\Debug\08FindTrapezoidArea.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\08FindTrapezoidArea\obj\Debug\08FindTrapezoidArea.pdb

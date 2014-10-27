@@ -1,0 +1,5 @@
+c:\users\mandjah\documents\visual studio 2012\Projects\ConsoleIO\02PerAndAreaOfACircle\bin\Debug\02PerAndAreaOfACircle.exe.config
+c:\users\mandjah\documents\visual studio 2012\Projects\ConsoleIO\02PerAndAreaOfACircle\bin\Debug\02PerAndAreaOfACircle.exe
+c:\users\mandjah\documents\visual studio 2012\Projects\ConsoleIO\02PerAndAreaOfACircle\bin\Debug\02PerAndAreaOfACircle.pdb
+c:\users\mandjah\documents\visual studio 2012\Projects\ConsoleIO\02PerAndAreaOfACircle\obj\Debug\02PerAndAreaOfACircle.exe
+c:\users\mandjah\documents\visual studio 2012\Projects\ConsoleIO\02PerAndAreaOfACircle\obj\Debug\02PerAndAreaOfACircle.pdb

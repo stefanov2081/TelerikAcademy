@@ -1,0 +1,5 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\deleteme\bin\Debug\deleteme.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\deleteme\bin\Debug\deleteme.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\deleteme\bin\Debug\deleteme.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\deleteme\obj\Debug\deleteme.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\deleteme\obj\Debug\deleteme.pdb

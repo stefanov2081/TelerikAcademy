@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\201KaspichanNumbers\bin\Debug\201KaspichanNumbers.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\201KaspichanNumbers\bin\Debug\201KaspichanNumbers.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\201KaspichanNumbers\bin\Debug\201KaspichanNumbers.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\201KaspichanNumbers\obj\Debug\201KaspichanNumbers.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\201KaspichanNumbers\obj\Debug\201KaspichanNumbers.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\201KaspichanNumbers\obj\Debug\201KaspichanNumbers.pdb

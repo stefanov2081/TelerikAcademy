@@ -1,0 +1,5 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\08stringQuotation\bin\Debug\08stringQuotation.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\08stringQuotation\bin\Debug\08stringQuotation.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\08stringQuotation\bin\Debug\08stringQuotation.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\08stringQuotation\obj\Debug\08stringQuotation.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\08stringQuotation\obj\Debug\08stringQuotation.pdb

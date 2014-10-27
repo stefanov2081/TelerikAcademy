@@ -1,0 +1,9 @@
+c:\Users\mandjah\documents\visual studio 2012\Projects\012-4-8\03Enigmation\bin\Debug\03Enigmation.exe.config
+c:\Users\mandjah\documents\visual studio 2012\Projects\012-4-8\03Enigmation\bin\Debug\03Enigmation.exe
+c:\Users\mandjah\documents\visual studio 2012\Projects\012-4-8\03Enigmation\bin\Debug\03Enigmation.pdb
+c:\Users\mandjah\documents\visual studio 2012\Projects\012-4-8\03Enigmation\obj\Debug\03Enigmation.exe
+c:\Users\mandjah\documents\visual studio 2012\Projects\012-4-8\03Enigmation\obj\Debug\03Enigmation.pdb
+c:\Users\mandjah\documents\visual studio 2012\Projects\012-4-8\03Enigmation\obj\Debug\03Enigmation.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart1\012-4-8\03Enigmation\bin\Debug\03Enigmation.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart1\012-4-8\03Enigmation\obj\Debug\03Enigmation.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart1\012-4-8\03Enigmation\obj\Debug\03Enigmation.pdb

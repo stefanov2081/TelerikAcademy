@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\041ShipDamage\bin\Debug\041ShipDamage.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\041ShipDamage\bin\Debug\041ShipDamage.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\041ShipDamage\bin\Debug\041ShipDamage.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\041ShipDamage\obj\Debug\041ShipDamage.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\041ShipDamage\obj\Debug\041ShipDamage.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\041ShipDamage\obj\Debug\041ShipDamage.pdb

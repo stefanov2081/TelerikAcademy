@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ConditionalStatements\02IsProductPlusOrMinus\bin\Debug\02IsProductPlusOrMinus.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ConditionalStatements\02IsProductPlusOrMinus\bin\Debug\02IsProductPlusOrMinus.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ConditionalStatements\02IsProductPlusOrMinus\bin\Debug\02IsProductPlusOrMinus.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ConditionalStatements\02IsProductPlusOrMinus\obj\Debug\02IsProductPlusOrMinus.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ConditionalStatements\02IsProductPlusOrMinus\obj\Debug\02IsProductPlusOrMinus.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ConditionalStatements\02IsProductPlusOrMinus\obj\Debug\02IsProductPlusOrMinus.csprojResolveAssemblyReference.cache

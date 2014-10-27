@@ -1,0 +1,5 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\TextFiles\08ReplaceInFile\bin\Debug\08ReplaceInFile.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\TextFiles\08ReplaceInFile\bin\Debug\08ReplaceInFile.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\TextFiles\08ReplaceInFile\bin\Debug\08ReplaceInFile.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\TextFiles\08ReplaceInFile\obj\Debug\08ReplaceInFile.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\TextFiles\08ReplaceInFile\obj\Debug\08ReplaceInFile.pdb

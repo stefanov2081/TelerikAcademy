@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Methods\05IsNGreaterThanTwoNeighbours\bin\Debug\05IsNGreaterThanTwoNeighbours.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Methods\05IsNGreaterThanTwoNeighbours\bin\Debug\05IsNGreaterThanTwoNeighbours.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Methods\05IsNGreaterThanTwoNeighbours\bin\Debug\05IsNGreaterThanTwoNeighbours.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Methods\05IsNGreaterThanTwoNeighbours\obj\Debug\05IsNGreaterThanTwoNeighbours.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Methods\05IsNGreaterThanTwoNeighbours\obj\Debug\05IsNGreaterThanTwoNeighbours.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Methods\05IsNGreaterThanTwoNeighbours\obj\Debug\05IsNGreaterThanTwoNeighbours.pdb

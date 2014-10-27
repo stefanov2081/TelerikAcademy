@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Methods\10FactorialFrom1To100\bin\Debug\10FactorialFrom1To100.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Methods\10FactorialFrom1To100\bin\Debug\10FactorialFrom1To100.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Methods\10FactorialFrom1To100\bin\Debug\10FactorialFrom1To100.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Methods\10FactorialFrom1To100\obj\Debug\10FactorialFrom1To100.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Methods\10FactorialFrom1To100\obj\Debug\10FactorialFrom1To100.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Methods\10FactorialFrom1To100\obj\Debug\10FactorialFrom1To100.pdb

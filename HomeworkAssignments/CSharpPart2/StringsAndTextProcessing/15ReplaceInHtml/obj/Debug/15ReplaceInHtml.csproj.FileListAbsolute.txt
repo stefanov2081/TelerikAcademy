@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\StringsAndTextProcessing\15ReplaceInHtml\bin\Debug\15ReplaceInHtml.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\StringsAndTextProcessing\15ReplaceInHtml\bin\Debug\15ReplaceInHtml.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\StringsAndTextProcessing\15ReplaceInHtml\bin\Debug\15ReplaceInHtml.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\StringsAndTextProcessing\15ReplaceInHtml\obj\Debug\15ReplaceInHtml.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\StringsAndTextProcessing\15ReplaceInHtml\obj\Debug\15ReplaceInHtml.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\StringsAndTextProcessing\15ReplaceInHtml\obj\Debug\15ReplaceInHtml.pdb

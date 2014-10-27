@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\deleteme3\bin\Debug\deleteme3.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\deleteme3\bin\Debug\deleteme3.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\deleteme3\bin\Debug\deleteme3.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\deleteme3\obj\Debug\deleteme3.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\deleteme3\obj\Debug\deleteme3.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\deleteme3\obj\Debug\deleteme3.pdb

@@ -1,0 +1,12 @@
+c:\users\mandjah\documents\visual studio 2012\Projects\NumeralSystems\01DecimalToBinary\bin\Debug\01DecimalToBinary.exe.config
+c:\users\mandjah\documents\visual studio 2012\Projects\NumeralSystems\01DecimalToBinary\bin\Debug\01DecimalToBinary.exe
+c:\users\mandjah\documents\visual studio 2012\Projects\NumeralSystems\01DecimalToBinary\bin\Debug\01DecimalToBinary.pdb
+c:\users\mandjah\documents\visual studio 2012\Projects\NumeralSystems\01DecimalToBinary\obj\Debug\01DecimalToBinary.csprojResolveAssemblyReference.cache
+c:\users\mandjah\documents\visual studio 2012\Projects\NumeralSystems\01DecimalToBinary\obj\Debug\01DecimalToBinary.exe
+c:\users\mandjah\documents\visual studio 2012\Projects\NumeralSystems\01DecimalToBinary\obj\Debug\01DecimalToBinary.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart2\NumeralSystems\01DecimalToBinary\bin\Debug\01DecimalToBinary.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart2\NumeralSystems\01DecimalToBinary\obj\Debug\01DecimalToBinary.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart2\NumeralSystems\01DecimalToBinary\obj\Debug\01DecimalToBinary.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart2\NumeralSystems\01DecimalToBinary\bin\Debug\01DecimalToBinary.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart2\NumeralSystems\01DecimalToBinary\bin\Debug\01DecimalToBinary.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart2\NumeralSystems\01DecimalToBinary\obj\Debug\01DecimalToBinary.csprojResolveAssemblyReference.cache

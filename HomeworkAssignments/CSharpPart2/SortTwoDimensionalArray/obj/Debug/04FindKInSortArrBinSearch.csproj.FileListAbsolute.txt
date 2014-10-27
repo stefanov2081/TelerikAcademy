@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\04FindKInSortArrBinSearch\bin\Debug\04FindKInSortArrBinSearch.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\04FindKInSortArrBinSearch\bin\Debug\04FindKInSortArrBinSearch.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\04FindKInSortArrBinSearch\bin\Debug\04FindKInSortArrBinSearch.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\04FindKInSortArrBinSearch\obj\Debug\04FindKInSortArrBinSearch.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\04FindKInSortArrBinSearch\obj\Debug\04FindKInSortArrBinSearch.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\04FindKInSortArrBinSearch\obj\Debug\04FindKInSortArrBinSearch.pdb

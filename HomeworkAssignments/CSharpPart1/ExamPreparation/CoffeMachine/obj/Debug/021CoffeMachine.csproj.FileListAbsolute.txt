@@ -1,0 +1,9 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\CoffeMachine\bin\Debug\CoffeMachine.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\CoffeMachine\obj\Debug\CoffeMachine.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\CoffeMachine\obj\Debug\CoffeMachine.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart1\ExamPreparation\CoffeMachine\bin\Debug\CoffeMachine.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart1\ExamPreparation\CoffeMachine\obj\Debug\CoffeMachine.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart1\ExamPreparation\CoffeMachine\obj\Debug\CoffeMachine.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\New folder\CSharpPart1\ExamPreparation\CoffeMachine\bin\Debug\CoffeMachine.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\New folder\CSharpPart1\ExamPreparation\CoffeMachine\obj\Debug\CoffeMachine.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\New folder\CSharpPart1\ExamPreparation\CoffeMachine\obj\Debug\CoffeMachine.pdb

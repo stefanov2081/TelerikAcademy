@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ClassesAndObjects\06SumOfSequence\bin\Debug\06SumOfSequence.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ClassesAndObjects\06SumOfSequence\bin\Debug\06SumOfSequence.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ClassesAndObjects\06SumOfSequence\bin\Debug\06SumOfSequence.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ClassesAndObjects\06SumOfSequence\obj\Debug\06SumOfSequence.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ClassesAndObjects\06SumOfSequence\obj\Debug\06SumOfSequence.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ClassesAndObjects\06SumOfSequence\obj\Debug\06SumOfSequence.pdb

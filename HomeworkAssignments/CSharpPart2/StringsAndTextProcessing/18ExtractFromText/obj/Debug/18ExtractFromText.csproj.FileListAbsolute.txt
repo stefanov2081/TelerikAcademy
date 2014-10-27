@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\StringsAndTextProcessing\18ExtractFromText\bin\Debug\18ExtractFromText.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\StringsAndTextProcessing\18ExtractFromText\bin\Debug\18ExtractFromText.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\StringsAndTextProcessing\18ExtractFromText\bin\Debug\18ExtractFromText.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\StringsAndTextProcessing\18ExtractFromText\obj\Debug\18ExtractFromText.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\StringsAndTextProcessing\18ExtractFromText\obj\Debug\18ExtractFromText.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\StringsAndTextProcessing\18ExtractFromText\obj\Debug\18ExtractFromText.pdb

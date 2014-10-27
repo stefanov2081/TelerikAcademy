@@ -1,0 +1,6 @@
+c:\users\mandjah\documents\visual studio 2012\Projects\StringsAndTextProcessing\04CountOccurrence\bin\Debug\04CountOccurrence.exe.config
+c:\users\mandjah\documents\visual studio 2012\Projects\StringsAndTextProcessing\04CountOccurrence\bin\Debug\04CountOccurrence.exe
+c:\users\mandjah\documents\visual studio 2012\Projects\StringsAndTextProcessing\04CountOccurrence\bin\Debug\04CountOccurrence.pdb
+c:\users\mandjah\documents\visual studio 2012\Projects\StringsAndTextProcessing\04CountOccurrence\obj\Debug\04CountOccurrence.csprojResolveAssemblyReference.cache
+c:\users\mandjah\documents\visual studio 2012\Projects\StringsAndTextProcessing\04CountOccurrence\obj\Debug\04CountOccurrence.exe
+c:\users\mandjah\documents\visual studio 2012\Projects\StringsAndTextProcessing\04CountOccurrence\obj\Debug\04CountOccurrence.pdb

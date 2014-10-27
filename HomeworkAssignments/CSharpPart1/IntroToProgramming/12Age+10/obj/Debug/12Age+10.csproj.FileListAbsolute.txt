@@ -1,0 +1,6 @@
+c:\Users\mandjah\Documents\Visual Studio 2012\Projects\IntroToProgramming\12Age+10\bin\Debug\12Age+10.exe.config
+c:\Users\mandjah\Documents\Visual Studio 2012\Projects\IntroToProgramming\12Age+10\bin\Debug\12Age+10.exe
+c:\Users\mandjah\Documents\Visual Studio 2012\Projects\IntroToProgramming\12Age+10\bin\Debug\12Age+10.pdb
+c:\Users\mandjah\Documents\Visual Studio 2012\Projects\IntroToProgramming\12Age+10\obj\Debug\12Age+10.exe
+c:\Users\mandjah\Documents\Visual Studio 2012\Projects\IntroToProgramming\12Age+10\obj\Debug\12Age+10.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\IntroToProgramming\12Age+10\obj\Debug\12Age+10.csprojResolveAssemblyReference.cache

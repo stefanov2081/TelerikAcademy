@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\03FindRectangleArea\bin\Debug\03FindRectangleArea.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\03FindRectangleArea\bin\Debug\03FindRectangleArea.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\03FindRectangleArea\bin\Debug\03FindRectangleArea.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\03FindRectangleArea\obj\Debug\03FindRectangleArea.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\03FindRectangleArea\obj\Debug\03FindRectangleArea.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\03FindRectangleArea\obj\Debug\03FindRectangleArea.pdb

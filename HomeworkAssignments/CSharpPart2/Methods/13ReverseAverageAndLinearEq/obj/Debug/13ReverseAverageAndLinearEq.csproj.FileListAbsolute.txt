@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Methods\13ReverseAverageAndLinearEq\bin\Debug\13ReverseAverageAndLinearEq.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Methods\13ReverseAverageAndLinearEq\bin\Debug\13ReverseAverageAndLinearEq.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Methods\13ReverseAverageAndLinearEq\bin\Debug\13ReverseAverageAndLinearEq.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Methods\13ReverseAverageAndLinearEq\obj\Debug\13ReverseAverageAndLinearEq.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Methods\13ReverseAverageAndLinearEq\obj\Debug\13ReverseAverageAndLinearEq.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Methods\13ReverseAverageAndLinearEq\obj\Debug\13ReverseAverageAndLinearEq.pdb

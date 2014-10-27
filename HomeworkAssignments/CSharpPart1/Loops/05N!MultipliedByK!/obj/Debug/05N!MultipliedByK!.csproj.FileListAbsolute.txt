@@ -1,0 +1,12 @@
+c:\users\mandjah\documents\visual studio 2012\Projects\Loops\05N!MultipliedByK!\bin\Debug\05N!MultipliedByK!.exe.config
+c:\users\mandjah\documents\visual studio 2012\Projects\Loops\05N!MultipliedByK!\bin\Debug\05N!MultipliedByK!.exe
+c:\users\mandjah\documents\visual studio 2012\Projects\Loops\05N!MultipliedByK!\bin\Debug\05N!MultipliedByK!.pdb
+c:\users\mandjah\documents\visual studio 2012\Projects\Loops\05N!MultipliedByK!\obj\Debug\05N!MultipliedByK!.exe
+c:\users\mandjah\documents\visual studio 2012\Projects\Loops\05N!MultipliedByK!\obj\Debug\05N!MultipliedByK!.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Loops\05N!MultipliedByK!\obj\Debug\05N!MultipliedByK!.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart1\Loops\05N!MultipliedByK!\bin\Debug\05N!MultipliedByK!.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart1\Loops\05N!MultipliedByK!\obj\Debug\05N!MultipliedByK!.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart1\Loops\05N!MultipliedByK!\obj\Debug\05N!MultipliedByK!.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart1\Loops\05N!MultipliedByK!\bin\Debug\05N!MultipliedByK!.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart1\Loops\05N!MultipliedByK!\bin\Debug\05N!MultipliedByK!.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart1\Loops\05N!MultipliedByK!\obj\Debug\05N!MultipliedByK!.csprojResolveAssemblyReference.cache

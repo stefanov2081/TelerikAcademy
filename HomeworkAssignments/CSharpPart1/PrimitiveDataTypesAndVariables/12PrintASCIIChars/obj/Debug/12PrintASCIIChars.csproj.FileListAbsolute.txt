@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\12PrintASCIIChars\bin\Debug\12PrintASCIIChars.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\12PrintASCIIChars\bin\Debug\12PrintASCIIChars.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\12PrintASCIIChars\bin\Debug\12PrintASCIIChars.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\12PrintASCIIChars\obj\Debug\12PrintASCIIChars.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\12PrintASCIIChars\obj\Debug\12PrintASCIIChars.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\12PrintASCIIChars\obj\Debug\12PrintASCIIChars.pdb

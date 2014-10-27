@@ -1,0 +1,6 @@
+c:\Users\mandjah\documents\visual studio 2012\Projects\012-4-8\02NightmareOnCodeStreet\bin\Debug\02NightmareOnCodeStreet.exe.config
+c:\Users\mandjah\documents\visual studio 2012\Projects\012-4-8\02NightmareOnCodeStreet\bin\Debug\02NightmareOnCodeStreet.exe
+c:\Users\mandjah\documents\visual studio 2012\Projects\012-4-8\02NightmareOnCodeStreet\bin\Debug\02NightmareOnCodeStreet.pdb
+c:\Users\mandjah\documents\visual studio 2012\Projects\012-4-8\02NightmareOnCodeStreet\obj\Debug\02NightmareOnCodeStreet.exe
+c:\Users\mandjah\documents\visual studio 2012\Projects\012-4-8\02NightmareOnCodeStreet\obj\Debug\02NightmareOnCodeStreet.pdb
+c:\Users\mandjah\documents\visual studio 2012\Projects\012-4-8\02NightmareOnCodeStreet\obj\Debug\02NightmareOnCodeStreet.csprojResolveAssemblyReference.cache

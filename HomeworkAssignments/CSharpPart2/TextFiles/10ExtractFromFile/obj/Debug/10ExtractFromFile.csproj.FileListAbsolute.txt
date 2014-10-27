@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\TextFiles\10ExtractFromFile\bin\Debug\10ExtractFromFile.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\TextFiles\10ExtractFromFile\bin\Debug\10ExtractFromFile.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\TextFiles\10ExtractFromFile\bin\Debug\10ExtractFromFile.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\TextFiles\10ExtractFromFile\obj\Debug\10ExtractFromFile.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\TextFiles\10ExtractFromFile\obj\Debug\10ExtractFromFile.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\TextFiles\10ExtractFromFile\obj\Debug\10ExtractFromFile.pdb

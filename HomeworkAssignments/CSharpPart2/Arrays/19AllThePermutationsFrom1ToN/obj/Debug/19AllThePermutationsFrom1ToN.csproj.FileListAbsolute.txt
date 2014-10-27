@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Arrays\19AllThePermutationsFrom1ToN\bin\Debug\19AllThePermutationsFrom1ToN.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Arrays\19AllThePermutationsFrom1ToN\bin\Debug\19AllThePermutationsFrom1ToN.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Arrays\19AllThePermutationsFrom1ToN\bin\Debug\19AllThePermutationsFrom1ToN.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Arrays\19AllThePermutationsFrom1ToN\obj\Debug\19AllThePermutationsFrom1ToN.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Arrays\19AllThePermutationsFrom1ToN\obj\Debug\19AllThePermutationsFrom1ToN.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Arrays\19AllThePermutationsFrom1ToN\obj\Debug\19AllThePermutationsFrom1ToN.pdb

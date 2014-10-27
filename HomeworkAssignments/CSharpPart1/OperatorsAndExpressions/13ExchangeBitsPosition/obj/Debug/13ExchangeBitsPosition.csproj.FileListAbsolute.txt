@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\13ExchangeBitsPosition\bin\Debug\13ExchangeBitsPosition.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\13ExchangeBitsPosition\bin\Debug\13ExchangeBitsPosition.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\13ExchangeBitsPosition\bin\Debug\13ExchangeBitsPosition.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\13ExchangeBitsPosition\obj\Debug\13ExchangeBitsPosition.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\13ExchangeBitsPosition\obj\Debug\13ExchangeBitsPosition.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\13ExchangeBitsPosition\obj\Debug\13ExchangeBitsPosition.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\063SandGlass\bin\Debug\063SandGlass.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\063SandGlass\bin\Debug\063SandGlass.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\063SandGlass\bin\Debug\063SandGlass.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\063SandGlass\obj\Debug\063SandGlass.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\063SandGlass\obj\Debug\063SandGlass.pdb

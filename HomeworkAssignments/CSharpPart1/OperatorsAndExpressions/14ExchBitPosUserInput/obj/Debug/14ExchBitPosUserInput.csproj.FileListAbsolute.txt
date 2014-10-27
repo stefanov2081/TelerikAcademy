@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\14ExchBitPosUserInput\bin\Debug\14ExchBitPosUserInput.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\14ExchBitPosUserInput\bin\Debug\14ExchBitPosUserInput.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\14ExchBitPosUserInput\bin\Debug\14ExchBitPosUserInput.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\14ExchBitPosUserInput\obj\Debug\14ExchBitPosUserInput.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\14ExchBitPosUserInput\obj\Debug\14ExchBitPosUserInput.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\14ExchBitPosUserInput\obj\Debug\14ExchBitPosUserInput.pdb

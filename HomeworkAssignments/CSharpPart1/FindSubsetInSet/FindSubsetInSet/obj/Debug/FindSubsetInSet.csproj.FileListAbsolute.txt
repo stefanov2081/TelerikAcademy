@@ -1,0 +1,12 @@
+c:\users\mandjah\documents\visual studio 2012\Projects\FindSubsetInSet\FindSubsetInSet\bin\Debug\FindSubsetInSet.exe.config
+c:\users\mandjah\documents\visual studio 2012\Projects\FindSubsetInSet\FindSubsetInSet\bin\Debug\FindSubsetInSet.exe
+c:\users\mandjah\documents\visual studio 2012\Projects\FindSubsetInSet\FindSubsetInSet\bin\Debug\FindSubsetInSet.pdb
+c:\users\mandjah\documents\visual studio 2012\Projects\FindSubsetInSet\FindSubsetInSet\obj\Debug\FindSubsetInSet.csprojResolveAssemblyReference.cache
+c:\users\mandjah\documents\visual studio 2012\Projects\FindSubsetInSet\FindSubsetInSet\obj\Debug\FindSubsetInSet.exe
+c:\users\mandjah\documents\visual studio 2012\Projects\FindSubsetInSet\FindSubsetInSet\obj\Debug\FindSubsetInSet.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart1\FindSubsetInSet\FindSubsetInSet\bin\Debug\FindSubsetInSet.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart1\FindSubsetInSet\FindSubsetInSet\obj\Debug\FindSubsetInSet.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart1\FindSubsetInSet\FindSubsetInSet\obj\Debug\FindSubsetInSet.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart1\FindSubsetInSet\FindSubsetInSet\bin\Debug\FindSubsetInSet.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart1\FindSubsetInSet\FindSubsetInSet\bin\Debug\FindSubsetInSet.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart1\FindSubsetInSet\FindSubsetInSet\obj\Debug\FindSubsetInSet.csprojResolveAssemblyReference.cache

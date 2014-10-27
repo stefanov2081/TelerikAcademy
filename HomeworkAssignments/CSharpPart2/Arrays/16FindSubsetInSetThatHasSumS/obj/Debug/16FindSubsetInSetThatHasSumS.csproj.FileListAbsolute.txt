@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Arrays\16FindSubsetInSetThatHasSumS\bin\Debug\16FindSubsetInSetThatHasSumS.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Arrays\16FindSubsetInSetThatHasSumS\bin\Debug\16FindSubsetInSetThatHasSumS.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Arrays\16FindSubsetInSetThatHasSumS\bin\Debug\16FindSubsetInSetThatHasSumS.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Arrays\16FindSubsetInSetThatHasSumS\obj\Debug\16FindSubsetInSetThatHasSumS.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Arrays\16FindSubsetInSetThatHasSumS\obj\Debug\16FindSubsetInSetThatHasSumS.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Arrays\16FindSubsetInSetThatHasSumS\obj\Debug\16FindSubsetInSetThatHasSumS.csprojResolveAssemblyReference.cache

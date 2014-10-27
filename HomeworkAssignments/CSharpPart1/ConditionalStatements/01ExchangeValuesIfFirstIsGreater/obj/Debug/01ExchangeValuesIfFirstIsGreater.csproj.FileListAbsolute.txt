@@ -1,0 +1,9 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ConditionalStatements\01ExchangeValuesIfFirstIsGreater\bin\Debug\01ExchangeValuesIfFirstIsGreater.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ConditionalStatements\01ExchangeValuesIfFirstIsGreater\bin\Debug\01ExchangeValuesIfFirstIsGreater.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ConditionalStatements\01ExchangeValuesIfFirstIsGreater\bin\Debug\01ExchangeValuesIfFirstIsGreater.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ConditionalStatements\01ExchangeValuesIfFirstIsGreater\obj\Debug\01ExchangeValuesIfFirstIsGreater.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ConditionalStatements\01ExchangeValuesIfFirstIsGreater\obj\Debug\01ExchangeValuesIfFirstIsGreater.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ConditionalStatements\01ExchangeValuesIfFirstIsGreater\obj\Debug\01ExchangeValuesIfFirstIsGreater.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart1\ConditionalStatements\01ExchangeValuesIfFirstIsGreater\bin\Debug\01ExchangeValuesIfFirstIsGreater.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart1\ConditionalStatements\01ExchangeValuesIfFirstIsGreater\obj\Debug\01ExchangeValuesIfFirstIsGreater.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart1\ConditionalStatements\01ExchangeValuesIfFirstIsGreater\obj\Debug\01ExchangeValuesIfFirstIsGreater.pdb

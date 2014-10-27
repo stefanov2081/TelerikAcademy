@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Methods\08AddTwoIntegers\bin\Debug\08AddTwoIntegers.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Methods\08AddTwoIntegers\bin\Debug\08AddTwoIntegers.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Methods\08AddTwoIntegers\bin\Debug\08AddTwoIntegers.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Methods\08AddTwoIntegers\obj\Debug\08AddTwoIntegers.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Methods\08AddTwoIntegers\obj\Debug\08AddTwoIntegers.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Methods\08AddTwoIntegers\obj\Debug\08AddTwoIntegers.csprojResolveAssemblyReference.cache

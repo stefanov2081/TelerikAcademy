@@ -1,0 +1,6 @@
+c:\users\mandjah\documents\visual studio 2012\Projects\ExamCS2\01TRES4Numbers\bin\Debug\01TRES4Numbers.exe.config
+c:\users\mandjah\documents\visual studio 2012\Projects\ExamCS2\01TRES4Numbers\bin\Debug\01TRES4Numbers.exe
+c:\users\mandjah\documents\visual studio 2012\Projects\ExamCS2\01TRES4Numbers\bin\Debug\01TRES4Numbers.pdb
+c:\users\mandjah\documents\visual studio 2012\Projects\ExamCS2\01TRES4Numbers\obj\Debug\01TRES4Numbers.csprojResolveAssemblyReference.cache
+c:\users\mandjah\documents\visual studio 2012\Projects\ExamCS2\01TRES4Numbers\obj\Debug\01TRES4Numbers.exe
+c:\users\mandjah\documents\visual studio 2012\Projects\ExamCS2\01TRES4Numbers\obj\Debug\01TRES4Numbers.pdb

@@ -1,0 +1,5 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\05IsTheThirdBit0Or1\bin\Debug\05IsTheThirdBit0Or1.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\05IsTheThirdBit0Or1\bin\Debug\05IsTheThirdBit0Or1.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\05IsTheThirdBit0Or1\bin\Debug\05IsTheThirdBit0Or1.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\05IsTheThirdBit0Or1\obj\Debug\05IsTheThirdBit0Or1.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\05IsTheThirdBit0Or1\obj\Debug\05IsTheThirdBit0Or1.pdb

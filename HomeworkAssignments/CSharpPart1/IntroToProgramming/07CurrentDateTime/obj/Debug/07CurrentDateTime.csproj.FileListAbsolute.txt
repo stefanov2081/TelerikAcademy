@@ -1,0 +1,5 @@
+c:\Users\mandjah\Documents\Visual Studio 2012\Projects\IntroToProgramming\07CurrentDateTime\bin\Debug\07CurrentDateTime.exe.config
+c:\Users\mandjah\Documents\Visual Studio 2012\Projects\IntroToProgramming\07CurrentDateTime\bin\Debug\07CurrentDateTime.exe
+c:\Users\mandjah\Documents\Visual Studio 2012\Projects\IntroToProgramming\07CurrentDateTime\bin\Debug\07CurrentDateTime.pdb
+c:\Users\mandjah\Documents\Visual Studio 2012\Projects\IntroToProgramming\07CurrentDateTime\obj\Debug\07CurrentDateTime.exe
+c:\Users\mandjah\Documents\Visual Studio 2012\Projects\IntroToProgramming\07CurrentDateTime\obj\Debug\07CurrentDateTime.pdb

@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\053CardWarsBatka\bin\Debug\053CardWarsBatka.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\053CardWarsBatka\bin\Debug\053CardWarsBatka.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\053CardWarsBatka\bin\Debug\053CardWarsBatka.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\053CardWarsBatka\obj\Debug\053CardWarsBatka.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\053CardWarsBatka\obj\Debug\053CardWarsBatka.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\053CardWarsBatka\obj\Debug\053CardWarsBatka.pdb

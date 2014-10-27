@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Arrays\08FindSeqOfMaxSumInArr\bin\Debug\08FindSeqOfMaxSumInArr.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Arrays\08FindSeqOfMaxSumInArr\bin\Debug\08FindSeqOfMaxSumInArr.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Arrays\08FindSeqOfMaxSumInArr\bin\Debug\08FindSeqOfMaxSumInArr.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Arrays\08FindSeqOfMaxSumInArr\obj\Debug\08FindSeqOfMaxSumInArr.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Arrays\08FindSeqOfMaxSumInArr\obj\Debug\08FindSeqOfMaxSumInArr.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Arrays\08FindSeqOfMaxSumInArr\obj\Debug\08FindSeqOfMaxSumInArr.pdb

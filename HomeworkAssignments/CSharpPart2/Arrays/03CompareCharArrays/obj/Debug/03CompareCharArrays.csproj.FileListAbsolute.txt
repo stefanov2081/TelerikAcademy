@@ -1,0 +1,5 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Arrays\03CompareCharArrays\bin\Debug\03CompareCharArrays.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Arrays\03CompareCharArrays\bin\Debug\03CompareCharArrays.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Arrays\03CompareCharArrays\bin\Debug\03CompareCharArrays.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Arrays\03CompareCharArrays\obj\Debug\03CompareCharArrays.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Arrays\03CompareCharArrays\obj\Debug\03CompareCharArrays.pdb

@@ -1,0 +1,5 @@
+c:\Users\mandjah\Documents\Visual Studio 2012\Projects\IntroToProgramming\03HelloStefanov\bin\Debug\03HelloStefanov.exe.config
+c:\Users\mandjah\Documents\Visual Studio 2012\Projects\IntroToProgramming\03HelloStefanov\bin\Debug\03HelloStefanov.exe
+c:\Users\mandjah\Documents\Visual Studio 2012\Projects\IntroToProgramming\03HelloStefanov\bin\Debug\03HelloStefanov.pdb
+c:\Users\mandjah\Documents\Visual Studio 2012\Projects\IntroToProgramming\03HelloStefanov\obj\Debug\03HelloStefanov.exe
+c:\Users\mandjah\Documents\Visual Studio 2012\Projects\IntroToProgramming\03HelloStefanov\obj\Debug\03HelloStefanov.pdb

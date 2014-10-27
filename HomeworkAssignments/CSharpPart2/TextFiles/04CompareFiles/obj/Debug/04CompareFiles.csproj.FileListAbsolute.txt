@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\TextFiles\04CompareFiles\bin\Debug\04CompareFiles.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\TextFiles\04CompareFiles\bin\Debug\04CompareFiles.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\TextFiles\04CompareFiles\bin\Debug\04CompareFiles.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\TextFiles\04CompareFiles\obj\Debug\04CompareFiles.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\TextFiles\04CompareFiles\obj\Debug\04CompareFiles.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\TextFiles\04CompareFiles\obj\Debug\04CompareFiles.pdb

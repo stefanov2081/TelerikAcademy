@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Loops\13FindTrailingZerosInN\bin\Debug\13FindTrailingZerosInN.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Loops\13FindTrailingZerosInN\bin\Debug\13FindTrailingZerosInN.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Loops\13FindTrailingZerosInN\bin\Debug\13FindTrailingZerosInN.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Loops\13FindTrailingZerosInN\obj\Debug\13FindTrailingZerosInN.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Loops\13FindTrailingZerosInN\obj\Debug\13FindTrailingZerosInN.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Loops\13FindTrailingZerosInN\obj\Debug\13FindTrailingZerosInN.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ConsoleIO\10SumNumFromSeq\bin\Debug\10SumNumFromSeq.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ConsoleIO\10SumNumFromSeq\bin\Debug\10SumNumFromSeq.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ConsoleIO\10SumNumFromSeq\bin\Debug\10SumNumFromSeq.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ConsoleIO\10SumNumFromSeq\obj\Debug\10SumNumFromSeq.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ConsoleIO\10SumNumFromSeq\obj\Debug\10SumNumFromSeq.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ConsoleIO\10SumNumFromSeq\obj\Debug\10SumNumFromSeq.csprojResolveAssemblyReference.cache

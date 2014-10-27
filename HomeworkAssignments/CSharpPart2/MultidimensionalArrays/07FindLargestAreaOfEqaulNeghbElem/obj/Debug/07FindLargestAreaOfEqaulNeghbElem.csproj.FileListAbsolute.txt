@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\07FindLargestAreaOfEqaulNeghbElem\bin\Debug\07FindLargestAreaOfEqaulNeghbElem.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\07FindLargestAreaOfEqaulNeghbElem\bin\Debug\07FindLargestAreaOfEqaulNeghbElem.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\07FindLargestAreaOfEqaulNeghbElem\bin\Debug\07FindLargestAreaOfEqaulNeghbElem.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\07FindLargestAreaOfEqaulNeghbElem\obj\Debug\07FindLargestAreaOfEqaulNeghbElem.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\07FindLargestAreaOfEqaulNeghbElem\obj\Debug\07FindLargestAreaOfEqaulNeghbElem.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\07FindLargestAreaOfEqaulNeghbElem\obj\Debug\07FindLargestAreaOfEqaulNeghbElem.pdb

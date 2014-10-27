@@ -1,0 +1,6 @@
+c:\users\mandjah\documents\visual studio 2012\Projects\TextFiles\03ReadFile\bin\Debug\03ReadFile.exe.config
+c:\users\mandjah\documents\visual studio 2012\Projects\TextFiles\03ReadFile\bin\Debug\03ReadFile.exe
+c:\users\mandjah\documents\visual studio 2012\Projects\TextFiles\03ReadFile\bin\Debug\03ReadFile.pdb
+c:\users\mandjah\documents\visual studio 2012\Projects\TextFiles\03ReadFile\obj\Debug\03ReadFile.exe
+c:\users\mandjah\documents\visual studio 2012\Projects\TextFiles\03ReadFile\obj\Debug\03ReadFile.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\TextFiles\03ReadFile\obj\Debug\03ReadFile.csprojResolveAssemblyReference.cache

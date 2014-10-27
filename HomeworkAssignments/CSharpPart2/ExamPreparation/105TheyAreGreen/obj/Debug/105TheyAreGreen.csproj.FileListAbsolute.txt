@@ -1,0 +1,5 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\105TheyAreGreen\bin\Debug\105TheyAreGreen.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\105TheyAreGreen\bin\Debug\105TheyAreGreen.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\105TheyAreGreen\bin\Debug\105TheyAreGreen.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\105TheyAreGreen\obj\Debug\105TheyAreGreen.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\105TheyAreGreen\obj\Debug\105TheyAreGreen.pdb

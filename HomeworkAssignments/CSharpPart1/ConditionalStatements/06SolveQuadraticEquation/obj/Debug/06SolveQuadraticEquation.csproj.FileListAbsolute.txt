@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ConditionalStatements\06SolveQuadraticEquation\bin\Debug\06SolveQuadraticEquation.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ConditionalStatements\06SolveQuadraticEquation\bin\Debug\06SolveQuadraticEquation.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ConditionalStatements\06SolveQuadraticEquation\bin\Debug\06SolveQuadraticEquation.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ConditionalStatements\06SolveQuadraticEquation\obj\Debug\06SolveQuadraticEquation.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ConditionalStatements\06SolveQuadraticEquation\obj\Debug\06SolveQuadraticEquation.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ConditionalStatements\06SolveQuadraticEquation\obj\Debug\06SolveQuadraticEquation.csprojResolveAssemblyReference.cache

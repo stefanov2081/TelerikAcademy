@@ -1,0 +1,6 @@
+c:\users\mandjah\documents\visual studio 2012\Projects\Loops\03MinAndMaxFromNNumbers\bin\Debug\03MinAndMaxFromNNumbers.exe.config
+c:\users\mandjah\documents\visual studio 2012\Projects\Loops\03MinAndMaxFromNNumbers\bin\Debug\03MinAndMaxFromNNumbers.exe
+c:\users\mandjah\documents\visual studio 2012\Projects\Loops\03MinAndMaxFromNNumbers\bin\Debug\03MinAndMaxFromNNumbers.pdb
+c:\users\mandjah\documents\visual studio 2012\Projects\Loops\03MinAndMaxFromNNumbers\obj\Debug\03MinAndMaxFromNNumbers.csprojResolveAssemblyReference.cache
+c:\users\mandjah\documents\visual studio 2012\Projects\Loops\03MinAndMaxFromNNumbers\obj\Debug\03MinAndMaxFromNNumbers.exe
+c:\users\mandjah\documents\visual studio 2012\Projects\Loops\03MinAndMaxFromNNumbers\obj\Debug\03MinAndMaxFromNNumbers.pdb

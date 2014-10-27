@@ -1,0 +1,5 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\StringsAndTextProcessing\09ReplaceInString\bin\Debug\09ReplaceInString.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\StringsAndTextProcessing\09ReplaceInString\bin\Debug\09ReplaceInString.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\StringsAndTextProcessing\09ReplaceInString\bin\Debug\09ReplaceInString.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\StringsAndTextProcessing\09ReplaceInString\obj\Debug\09ReplaceInString.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\StringsAndTextProcessing\09ReplaceInString\obj\Debug\09ReplaceInString.pdb

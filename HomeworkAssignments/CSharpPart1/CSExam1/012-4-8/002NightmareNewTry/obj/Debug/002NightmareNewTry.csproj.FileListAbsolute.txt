@@ -1,0 +1,6 @@
+c:\Users\mandjah\documents\visual studio 2012\Projects\012-4-8\002NightmareNewTry\bin\Debug\002NightmareNewTry.exe.config
+c:\Users\mandjah\documents\visual studio 2012\Projects\012-4-8\002NightmareNewTry\bin\Debug\002NightmareNewTry.exe
+c:\Users\mandjah\documents\visual studio 2012\Projects\012-4-8\002NightmareNewTry\bin\Debug\002NightmareNewTry.pdb
+c:\Users\mandjah\documents\visual studio 2012\Projects\012-4-8\002NightmareNewTry\obj\Debug\002NightmareNewTry.csprojResolveAssemblyReference.cache
+c:\Users\mandjah\documents\visual studio 2012\Projects\012-4-8\002NightmareNewTry\obj\Debug\002NightmareNewTry.exe
+c:\Users\mandjah\documents\visual studio 2012\Projects\012-4-8\002NightmareNewTry\obj\Debug\002NightmareNewTry.pdb

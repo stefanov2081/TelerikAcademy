@@ -1,0 +1,5 @@
+c:\Users\mandjah\Documents\Visual Studio 2012\Projects\IntroToProgramming\08Sqrt12345\bin\Debug\08Sqrt12345.exe.config
+c:\Users\mandjah\Documents\Visual Studio 2012\Projects\IntroToProgramming\08Sqrt12345\bin\Debug\08Sqrt12345.exe
+c:\Users\mandjah\Documents\Visual Studio 2012\Projects\IntroToProgramming\08Sqrt12345\bin\Debug\08Sqrt12345.pdb
+c:\Users\mandjah\Documents\Visual Studio 2012\Projects\IntroToProgramming\08Sqrt12345\obj\Debug\08Sqrt12345.exe
+c:\Users\mandjah\Documents\Visual Studio 2012\Projects\IntroToProgramming\08Sqrt12345\obj\Debug\08Sqrt12345.pdb

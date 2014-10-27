@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\06IsFemale\bin\Debug\06IsFemale.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\06IsFemale\bin\Debug\06IsFemale.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\06IsFemale\bin\Debug\06IsFemale.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\06IsFemale\obj\Debug\06IsFemale.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\06IsFemale\obj\Debug\06IsFemale.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\06IsFemale\obj\Debug\06BoolIsFemale.csprojResolveAssemblyReference.cache

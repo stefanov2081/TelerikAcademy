@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\TextFiles\07ReplaceInFile\bin\Debug\07ReplaceInFile.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\TextFiles\07ReplaceInFile\bin\Debug\07ReplaceInFile.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\TextFiles\07ReplaceInFile\bin\Debug\07ReplaceInFile.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\TextFiles\07ReplaceInFile\obj\Debug\07ReplaceInFile.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\TextFiles\07ReplaceInFile\obj\Debug\07ReplaceInFile.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\TextFiles\07ReplaceInFile\obj\Debug\07ReplaceInFile.pdb

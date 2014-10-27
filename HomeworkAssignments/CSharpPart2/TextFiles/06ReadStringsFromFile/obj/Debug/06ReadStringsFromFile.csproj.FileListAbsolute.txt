@@ -1,0 +1,9 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\TextFiles\06ReadStringsFromFile\bin\Debug\06ReadStringsFromFile.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\TextFiles\06ReadStringsFromFile\bin\Debug\06ReadStringsFromFile.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\TextFiles\06ReadStringsFromFile\bin\Debug\06ReadStringsFromFile.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\TextFiles\06ReadStringsFromFile\obj\Debug\06ReadStringsFromFile.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\TextFiles\06ReadStringsFromFile\obj\Debug\06ReadStringsFromFile.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\TextFiles\06ReadStringsFromFile\obj\Debug\06ReadStringsFromFile.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart2\TextFiles\06ReadStringsFromFile\bin\Debug\06ReadStringsFromFile.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart2\TextFiles\06ReadStringsFromFile\obj\Debug\06ReadStringsFromFile.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart2\TextFiles\06ReadStringsFromFile\obj\Debug\06ReadStringsFromFile.pdb

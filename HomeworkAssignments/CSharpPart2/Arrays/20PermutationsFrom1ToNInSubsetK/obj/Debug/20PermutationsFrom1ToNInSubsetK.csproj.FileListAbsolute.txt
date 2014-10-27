@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Arrays\20PermutationsFrom1ToNInSubsetK\bin\Debug\20PermutationsFrom1ToNInSubsetK.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Arrays\20PermutationsFrom1ToNInSubsetK\bin\Debug\20PermutationsFrom1ToNInSubsetK.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Arrays\20PermutationsFrom1ToNInSubsetK\bin\Debug\20PermutationsFrom1ToNInSubsetK.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Arrays\20PermutationsFrom1ToNInSubsetK\obj\Debug\20PermutationsFrom1ToNInSubsetK.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Arrays\20PermutationsFrom1ToNInSubsetK\obj\Debug\20PermutationsFrom1ToNInSubsetK.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Arrays\20PermutationsFrom1ToNInSubsetK\obj\Debug\20PermutationsFrom1ToNInSubsetK.pdb

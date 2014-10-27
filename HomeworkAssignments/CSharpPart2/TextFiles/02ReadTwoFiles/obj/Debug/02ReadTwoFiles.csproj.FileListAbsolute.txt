@@ -1,0 +1,5 @@
+c:\users\mandjah\documents\visual studio 2012\Projects\TextFiles\02ReadTwoFiles\bin\Debug\02ReadTwoFiles.exe.config
+c:\users\mandjah\documents\visual studio 2012\Projects\TextFiles\02ReadTwoFiles\bin\Debug\02ReadTwoFiles.exe
+c:\users\mandjah\documents\visual studio 2012\Projects\TextFiles\02ReadTwoFiles\bin\Debug\02ReadTwoFiles.pdb
+c:\users\mandjah\documents\visual studio 2012\Projects\TextFiles\02ReadTwoFiles\obj\Debug\02ReadTwoFiles.exe
+c:\users\mandjah\documents\visual studio 2012\Projects\TextFiles\02ReadTwoFiles\obj\Debug\02ReadTwoFiles.pdb

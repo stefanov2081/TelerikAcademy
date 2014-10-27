@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Methods\02FindMax\bin\Debug\02FindMax.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Methods\02FindMax\bin\Debug\02FindMax.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Methods\02FindMax\bin\Debug\02FindMax.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Methods\02FindMax\obj\Debug\02FindMax.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Methods\02FindMax\obj\Debug\02FindMax.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Methods\02FindMax\obj\Debug\02FindMax.csprojResolveAssemblyReference.cache

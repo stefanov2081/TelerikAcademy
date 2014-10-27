@@ -1,0 +1,6 @@
+c:\users\mandjah\documents\visual studio 2012\Projects\Loops\06Sum1+N!DivByX^N\bin\Debug\06Sum1+N!DivByX^N.exe.config
+c:\users\mandjah\documents\visual studio 2012\Projects\Loops\06Sum1+N!DivByX^N\bin\Debug\06Sum1+N!DivByX^N.exe
+c:\users\mandjah\documents\visual studio 2012\Projects\Loops\06Sum1+N!DivByX^N\bin\Debug\06Sum1+N!DivByX^N.pdb
+c:\users\mandjah\documents\visual studio 2012\Projects\Loops\06Sum1+N!DivByX^N\obj\Debug\06Sum1+N!DivByX^N.exe
+c:\users\mandjah\documents\visual studio 2012\Projects\Loops\06Sum1+N!DivByX^N\obj\Debug\06Sum1+N!DivByX^N.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Loops\06Sum1+N!DivByX^N\obj\Debug\06Sum1+N!DivByX^N.csprojResolveAssemblyReference.cache

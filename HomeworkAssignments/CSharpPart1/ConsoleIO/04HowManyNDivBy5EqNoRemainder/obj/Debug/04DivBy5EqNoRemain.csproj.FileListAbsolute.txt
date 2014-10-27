@@ -1,0 +1,5 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ConsoleIO\04HowManyNDivBy5EqNoRemainder\bin\Debug\04HowManyNDivBy5EqNoRemainder.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ConsoleIO\04HowManyNDivBy5EqNoRemainder\obj\Debug\04HowManyNDivBy5EqNoRemainder.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ConsoleIO\04HowManyNDivBy5EqNoRemainder\obj\Debug\04HowManyNDivBy5EqNoRemainder.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ConsoleIO\04HowManyNDivBy5EqNoRemainder\bin\Debug\04HowManyNDivBy5EqNoRemainder.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ConsoleIO\04HowManyNDivBy5EqNoRemainder\bin\Debug\04HowManyNDivBy5EqNoRemainder.pdb

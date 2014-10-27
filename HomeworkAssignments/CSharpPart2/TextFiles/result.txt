@@ -1,0 +1,6 @@
+Albert occurs 7 times.
+Einstein occurs 7 times.
+live occurs 2 times.
+over occurs 2 times.
+hour occurs 1 times.
+girl occurs 1 times.

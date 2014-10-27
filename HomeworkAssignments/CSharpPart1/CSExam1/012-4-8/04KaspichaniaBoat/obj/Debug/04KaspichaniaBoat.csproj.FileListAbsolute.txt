@@ -1,0 +1,5 @@
+c:\Users\mandjah\documents\visual studio 2012\Projects\012-4-8\04KaspichaniaBoat\bin\Debug\04KaspichaniaBoat.exe.config
+c:\Users\mandjah\documents\visual studio 2012\Projects\012-4-8\04KaspichaniaBoat\bin\Debug\04KaspichaniaBoat.exe
+c:\Users\mandjah\documents\visual studio 2012\Projects\012-4-8\04KaspichaniaBoat\bin\Debug\04KaspichaniaBoat.pdb
+c:\Users\mandjah\documents\visual studio 2012\Projects\012-4-8\04KaspichaniaBoat\obj\Debug\04KaspichaniaBoat.exe
+c:\Users\mandjah\documents\visual studio 2012\Projects\012-4-8\04KaspichaniaBoat\obj\Debug\04KaspichaniaBoat.pdb

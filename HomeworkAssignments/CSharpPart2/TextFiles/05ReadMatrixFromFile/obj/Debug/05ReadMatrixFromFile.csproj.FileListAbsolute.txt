@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\TextFiles\05ReadMatrixFromFile\bin\Debug\05ReadMatrixFromFile.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\TextFiles\05ReadMatrixFromFile\bin\Debug\05ReadMatrixFromFile.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\TextFiles\05ReadMatrixFromFile\bin\Debug\05ReadMatrixFromFile.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\TextFiles\05ReadMatrixFromFile\obj\Debug\05ReadMatrixFromFile.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\TextFiles\05ReadMatrixFromFile\obj\Debug\05ReadMatrixFromFile.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\TextFiles\05ReadMatrixFromFile\obj\Debug\05ReadMatrixFromFile.pdb

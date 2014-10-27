@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Arrays\11FindIndexOfNBinarySearch\bin\Debug\11FindIndexOfNBinarySearch.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Arrays\11FindIndexOfNBinarySearch\bin\Debug\11FindIndexOfNBinarySearch.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Arrays\11FindIndexOfNBinarySearch\bin\Debug\11FindIndexOfNBinarySearch.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Arrays\11FindIndexOfNBinarySearch\obj\Debug\11FindIndexOfNBinarySearch.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Arrays\11FindIndexOfNBinarySearch\obj\Debug\11FindIndexOfNBinarySearch.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Arrays\11FindIndexOfNBinarySearch\obj\Debug\11FindIndexOfNBinarySearch.pdb

@@ -1,0 +1,8 @@
+c:\users\mandjah\documents\visual studio 2012\Projects\StringsAndTextProcessing\02ReadAString\bin\Debug\02ReadAString.exe.config
+c:\users\mandjah\documents\visual studio 2012\Projects\StringsAndTextProcessing\02ReadAString\bin\Debug\02ReadAString.exe
+c:\users\mandjah\documents\visual studio 2012\Projects\StringsAndTextProcessing\02ReadAString\bin\Debug\02ReadAString.pdb
+c:\users\mandjah\documents\visual studio 2012\Projects\StringsAndTextProcessing\02ReadAString\obj\Debug\02ReadAString.exe
+c:\users\mandjah\documents\visual studio 2012\Projects\StringsAndTextProcessing\02ReadAString\obj\Debug\02ReadAString.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart2\StringsAndTextProcessing\02ReadAString\bin\Debug\02ReadAString.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart2\StringsAndTextProcessing\02ReadAString\obj\Debug\02ReadAString.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart2\StringsAndTextProcessing\02ReadAString\obj\Debug\02ReadAString.pdb

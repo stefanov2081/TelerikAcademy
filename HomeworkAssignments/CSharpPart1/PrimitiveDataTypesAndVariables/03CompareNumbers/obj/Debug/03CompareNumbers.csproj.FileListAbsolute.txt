@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\03CompareNumbers\bin\Debug\03CompareNumbers.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\03CompareNumbers\bin\Debug\03CompareNumbers.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\03CompareNumbers\bin\Debug\03CompareNumbers.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\03CompareNumbers\obj\Debug\03CompareNumbers.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\03CompareNumbers\obj\Debug\03CompareNumbers.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\03CompareNumbers\obj\Debug\03CompareNumbers.csprojResolveAssemblyReference.cache

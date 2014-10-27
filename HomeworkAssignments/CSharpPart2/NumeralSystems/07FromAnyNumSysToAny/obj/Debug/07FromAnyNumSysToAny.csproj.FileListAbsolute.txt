@@ -1,0 +1,12 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\NumeralSystems\07FromAnyNumSysToAny\bin\Debug\07FromAnyNumSysToAny.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\NumeralSystems\07FromAnyNumSysToAny\obj\Debug\07FromAnyNumSysToAny.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\NumeralSystems\07FromAnyNumSysToAny\bin\Debug\07FromAnyNumSysToAny.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\NumeralSystems\07FromAnyNumSysToAny\bin\Debug\07FromAnyNumSysToAny.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\NumeralSystems\07FromAnyNumSysToAny\obj\Debug\07FromAnyNumSysToAny.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\NumeralSystems\07FromAnyNumSysToAny\obj\Debug\07FromAnyNumSysToAny.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart2\NumeralSystems\07FromAnyNumSysToAny\bin\Debug\07FromAnyNumSysToAny.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart2\NumeralSystems\07FromAnyNumSysToAny\obj\Debug\07FromAnyNumSysToAny.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart2\NumeralSystems\07FromAnyNumSysToAny\obj\Debug\07FromAnyNumSysToAny.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart2\NumeralSystems\07FromAnyNumSysToAny\bin\Debug\07FromAnyNumSysToAny.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart2\NumeralSystems\07FromAnyNumSysToAny\bin\Debug\07FromAnyNumSysToAny.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSPart2\NumeralSystems\07FromAnyNumSysToAny\obj\Debug\07FromAnyNumSysToAny.csprojResolveAssemblyReference.cache

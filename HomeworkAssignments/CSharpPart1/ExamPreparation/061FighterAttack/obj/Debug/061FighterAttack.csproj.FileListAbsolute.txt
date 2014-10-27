@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\061FighterAttack\bin\Debug\061FighterAttack.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\061FighterAttack\bin\Debug\061FighterAttack.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\061FighterAttack\bin\Debug\061FighterAttack.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\061FighterAttack\obj\Debug\061FighterAttack.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\061FighterAttack\obj\Debug\061FighterAttack.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\061FighterAttack\obj\Debug\061FighterAttack.pdb

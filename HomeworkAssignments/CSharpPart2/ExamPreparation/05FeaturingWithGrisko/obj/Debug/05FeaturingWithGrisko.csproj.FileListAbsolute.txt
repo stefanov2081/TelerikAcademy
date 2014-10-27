@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\05FeaturingWithGrisko\bin\Debug\05FeaturingWithGrisko.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\05FeaturingWithGrisko\bin\Debug\05FeaturingWithGrisko.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\05FeaturingWithGrisko\bin\Debug\05FeaturingWithGrisko.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\05FeaturingWithGrisko\obj\Debug\05FeaturingWithGrisko.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\05FeaturingWithGrisko\obj\Debug\05FeaturingWithGrisko.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\05FeaturingWithGrisko\obj\Debug\05FeaturingWithGrisko.pdb

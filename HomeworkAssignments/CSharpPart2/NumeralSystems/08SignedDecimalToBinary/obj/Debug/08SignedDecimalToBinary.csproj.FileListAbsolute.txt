@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\NumeralSystems\08SignedDecimalToBinary\bin\Debug\08SignedDecimalToBinary.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\NumeralSystems\08SignedDecimalToBinary\bin\Debug\08SignedDecimalToBinary.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\NumeralSystems\08SignedDecimalToBinary\bin\Debug\08SignedDecimalToBinary.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\NumeralSystems\08SignedDecimalToBinary\obj\Debug\08SignedDecimalToBinary.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\NumeralSystems\08SignedDecimalToBinary\obj\Debug\08SignedDecimalToBinary.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\NumeralSystems\08SignedDecimalToBinary\obj\Debug\08SignedDecimalToBinary.csprojResolveAssemblyReference.cache

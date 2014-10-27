@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\TextFiles\09DeleteFomFile\bin\Debug\09DeleteFomFile.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\TextFiles\09DeleteFomFile\bin\Debug\09DeleteFomFile.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\TextFiles\09DeleteFomFile\bin\Debug\09DeleteFomFile.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\TextFiles\09DeleteFomFile\obj\Debug\09DeleteFomFile.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\TextFiles\09DeleteFomFile\obj\Debug\09DeleteFomFile.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\TextFiles\09DeleteFomFile\obj\Debug\09DeleteFomFile.pdb

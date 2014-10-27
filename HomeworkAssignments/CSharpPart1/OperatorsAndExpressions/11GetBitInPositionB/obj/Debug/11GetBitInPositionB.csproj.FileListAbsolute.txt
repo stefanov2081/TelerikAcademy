@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\11GetBitInPositionB\bin\Debug\11GetBitInPositionB.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\11GetBitInPositionB\bin\Debug\11GetBitInPositionB.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\11GetBitInPositionB\bin\Debug\11GetBitInPositionB.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\11GetBitInPositionB\obj\Debug\11GetBitInPositionB.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\11GetBitInPositionB\obj\Debug\11GetBitInPositionB.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\11GetBitInPositionB\obj\Debug\11GetBitInPositionB.csprojResolveAssemblyReference.cache

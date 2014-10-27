@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\StringsAndTextProcessing\08ExtracrSenteces\bin\Debug\08ExtracrSenteces.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\StringsAndTextProcessing\08ExtracrSenteces\bin\Debug\08ExtracrSenteces.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\StringsAndTextProcessing\08ExtracrSenteces\bin\Debug\08ExtracrSenteces.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\StringsAndTextProcessing\08ExtracrSenteces\obj\Debug\08ExtracrSenteces.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\StringsAndTextProcessing\08ExtracrSenteces\obj\Debug\08ExtracrSenteces.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\StringsAndTextProcessing\08ExtracrSenteces\obj\Debug\08ExtracrSenteces.pdb

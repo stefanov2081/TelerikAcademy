@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\064DancingBits\bin\Debug\064DancingBits.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\064DancingBits\obj\Debug\064DancingBits.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\064DancingBits\bin\Debug\064DancingBits.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\064DancingBits\bin\Debug\064DancingBits.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\064DancingBits\obj\Debug\064DancingBits.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\064DancingBits\obj\Debug\064DancingBits.pdb

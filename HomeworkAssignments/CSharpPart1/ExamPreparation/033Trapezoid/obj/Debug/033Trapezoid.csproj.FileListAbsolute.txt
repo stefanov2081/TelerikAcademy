@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\033Trapezoid\bin\Debug\033Trapezoid.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\033Trapezoid\bin\Debug\033Trapezoid.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\033Trapezoid\bin\Debug\033Trapezoid.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\033Trapezoid\obj\Debug\033Trapezoid.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\033Trapezoid\obj\Debug\033Trapezoid.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\033Trapezoid\obj\Debug\033Trapezoid.pdb

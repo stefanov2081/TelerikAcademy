@@ -1,0 +1,6 @@
+c:\Users\mandjah\documents\visual studio 2012\Projects\012-4-8\05GameOfPage\bin\Debug\05GameOfPage.exe.config
+c:\Users\mandjah\documents\visual studio 2012\Projects\012-4-8\05GameOfPage\bin\Debug\05GameOfPage.exe
+c:\Users\mandjah\documents\visual studio 2012\Projects\012-4-8\05GameOfPage\bin\Debug\05GameOfPage.pdb
+c:\Users\mandjah\documents\visual studio 2012\Projects\012-4-8\05GameOfPage\obj\Debug\05GameOfPage.exe
+c:\Users\mandjah\documents\visual studio 2012\Projects\012-4-8\05GameOfPage\obj\Debug\05GameOfPage.pdb
+c:\Users\mandjah\documents\visual studio 2012\Projects\012-4-8\05GameOfPage\obj\Debug\05GameOfPage.csprojResolveAssemblyReference.cache

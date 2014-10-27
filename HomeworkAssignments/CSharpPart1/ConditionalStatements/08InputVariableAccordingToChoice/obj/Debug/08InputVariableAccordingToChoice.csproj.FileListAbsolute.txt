@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ConditionalStatements\08InputVariableAccordingToChoice\bin\Debug\08InputVariableAccordingToChoice.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ConditionalStatements\08InputVariableAccordingToChoice\bin\Debug\08InputVariableAccordingToChoice.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ConditionalStatements\08InputVariableAccordingToChoice\bin\Debug\08InputVariableAccordingToChoice.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ConditionalStatements\08InputVariableAccordingToChoice\obj\Debug\08InputVariableAccordingToChoice.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ConditionalStatements\08InputVariableAccordingToChoice\obj\Debug\08InputVariableAccordingToChoice.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ConditionalStatements\08InputVariableAccordingToChoice\obj\Debug\08InputVariableAccordingToChoice.pdb

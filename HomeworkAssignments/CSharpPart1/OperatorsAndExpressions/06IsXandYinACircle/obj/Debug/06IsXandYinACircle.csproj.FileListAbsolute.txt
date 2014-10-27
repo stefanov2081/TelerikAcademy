@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\06IsXandYinACircle\bin\Debug\06IsXandYinACircle.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\06IsXandYinACircle\bin\Debug\06IsXandYinACircle.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\06IsXandYinACircle\bin\Debug\06IsXandYinACircle.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\06IsXandYinACircle\obj\Debug\06IsXandYinACircle.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\06IsXandYinACircle\obj\Debug\06IsXandYinACircle.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\06IsXandYinACircle\obj\Debug\06IsXandYinACircle.pdb

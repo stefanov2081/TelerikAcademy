@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ConsoleIO\06SolveQuadraticEq\bin\Debug\06SolveQuadraticEq.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ConsoleIO\06SolveQuadraticEq\obj\Debug\06SolveQuadraticEq.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ConsoleIO\06SolveQuadraticEq\obj\Debug\06SolveQuadraticEq.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ConsoleIO\06SolveQuadraticEq\bin\Debug\06SolveQuadraticEq.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ConsoleIO\06SolveQuadraticEq\bin\Debug\06SolveQuadraticEq.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ConsoleIO\06SolveQuadraticEq\obj\Debug\06SolveQuadraticEquation.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Methods\01PrintName\bin\Debug\01PrintName.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Methods\01PrintName\obj\Debug\01PrintName.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Methods\01PrintName\bin\Debug\01PrintName.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Methods\01PrintName\bin\Debug\01PrintName.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Methods\01PrintName\obj\Debug\01PrintName.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\Methods\01PrintName\obj\Debug\01PrintName.pdb

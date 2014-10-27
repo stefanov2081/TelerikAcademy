@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\TextFiles\12RemoveFromFile\bin\Debug\12RemoveFromFile.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\TextFiles\12RemoveFromFile\bin\Debug\12RemoveFromFile.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\TextFiles\12RemoveFromFile\bin\Debug\12RemoveFromFile.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\TextFiles\12RemoveFromFile\obj\Debug\12RemoveFromFile.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\TextFiles\12RemoveFromFile\obj\Debug\12RemoveFromFile.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\TextFiles\12RemoveFromFile\obj\Debug\12RemoveFromFile.pdb

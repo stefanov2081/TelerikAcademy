@@ -1,0 +1,6 @@
+c:\users\mandjah\documents\visual studio 2012\Projects\OOPTest\TestOOP\bin\Debug\TestOOP.exe.config
+c:\users\mandjah\documents\visual studio 2012\Projects\OOPTest\TestOOP\bin\Debug\TestOOP.exe
+c:\users\mandjah\documents\visual studio 2012\Projects\OOPTest\TestOOP\bin\Debug\TestOOP.pdb
+c:\users\mandjah\documents\visual studio 2012\Projects\OOPTest\TestOOP\obj\Debug\TestOOP.csprojResolveAssemblyReference.cache
+c:\users\mandjah\documents\visual studio 2012\Projects\OOPTest\TestOOP\obj\Debug\TestOOP.exe
+c:\users\mandjah\documents\visual studio 2012\Projects\OOPTest\TestOOP\obj\Debug\TestOOP.pdb

@@ -1,0 +1,5 @@
+c:\users\mandjah\documents\visual studio 2012\Projects\ExamCS2\05DogeTest\bin\Debug\05DogeTest.exe.config
+c:\users\mandjah\documents\visual studio 2012\Projects\ExamCS2\05DogeTest\bin\Debug\05DogeTest.exe
+c:\users\mandjah\documents\visual studio 2012\Projects\ExamCS2\05DogeTest\bin\Debug\05DogeTest.pdb
+c:\users\mandjah\documents\visual studio 2012\Projects\ExamCS2\05DogeTest\obj\Debug\05DogeTest.exe
+c:\users\mandjah\documents\visual studio 2012\Projects\ExamCS2\05DogeTest\obj\Debug\05DogeTest.pdb

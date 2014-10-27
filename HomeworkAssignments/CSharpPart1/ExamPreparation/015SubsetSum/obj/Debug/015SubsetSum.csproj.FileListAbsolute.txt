@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\015SubsetSum\bin\Debug\015SubsetSum.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\015SubsetSum\bin\Debug\015SubsetSum.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\015SubsetSum\bin\Debug\015SubsetSum.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\015SubsetSum\obj\Debug\015SubsetSum.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\015SubsetSum\obj\Debug\015SubsetSum.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\ExamPreparation\015SubsetSum\obj\Debug\015SubsetSum.pdb

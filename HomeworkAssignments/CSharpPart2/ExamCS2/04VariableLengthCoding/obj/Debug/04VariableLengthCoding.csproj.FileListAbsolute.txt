@@ -1,0 +1,6 @@
+c:\users\mandjah\documents\visual studio 2012\Projects\ExamCS2\04VariableLengthCoding\bin\Debug\04VariableLengthCoding.exe.config
+c:\users\mandjah\documents\visual studio 2012\Projects\ExamCS2\04VariableLengthCoding\bin\Debug\04VariableLengthCoding.exe
+c:\users\mandjah\documents\visual studio 2012\Projects\ExamCS2\04VariableLengthCoding\bin\Debug\04VariableLengthCoding.pdb
+c:\users\mandjah\documents\visual studio 2012\Projects\ExamCS2\04VariableLengthCoding\obj\Debug\04VariableLengthCoding.csprojResolveAssemblyReference.cache
+c:\users\mandjah\documents\visual studio 2012\Projects\ExamCS2\04VariableLengthCoding\obj\Debug\04VariableLengthCoding.exe
+c:\users\mandjah\documents\visual studio 2012\Projects\ExamCS2\04VariableLengthCoding\obj\Debug\04VariableLengthCoding.pdb
