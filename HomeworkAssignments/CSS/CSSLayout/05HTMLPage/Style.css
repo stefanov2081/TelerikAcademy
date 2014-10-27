@@ -1,0 +1,52 @@
+﻿a:first-of-type {
+    margin-left: 5em;    
+}
+
+a {
+    color: #67ace0;
+    font-family: Verdana;
+    font-size: 1.5em;
+}
+
+img {
+    width: 6em;
+    height: 4em;
+}
+
+fieldset {
+    display: inline-block;
+}
+
+div fieldset {
+    width: 12em;
+}
+
+fieldset div {
+    display: inline-block;
+}
+
+.products-main-container {
+    width: 28.5em;
+    position: relative;
+    float: left;
+
+    display: inline-block;
+
+    border: 1px solid #000;
+
+    align-content: center;
+}
+
+.secondary-container {
+    position: relative;
+    float: left;
+    margin-top: 5em;
+
+    display: inline;
+
+    text-align: center;
+}
+
+.left {
+    text-align: center;
+}

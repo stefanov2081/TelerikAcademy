@@ -1,0 +1,4 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\KPK\Exam\HQC-Exam-2014-Evening\Computers-problem\ClientSideComputers\bin\Debug\ClientSideComputers.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\KPK\Exam\HQC-Exam-2014-Evening\Computers-problem\ClientSideComputers\bin\Debug\ClientSideComputers.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\KPK\Exam\HQC-Exam-2014-Evening\Computers-problem\ClientSideComputers\obj\Debug\ClientSideComputers.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\KPK\Exam\HQC-Exam-2014-Evening\Computers-problem\ClientSideComputers\obj\Debug\ClientSideComputers.pdb

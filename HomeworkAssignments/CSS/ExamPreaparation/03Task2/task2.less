@@ -1,0 +1,50 @@
+﻿html, body, div, ul, li, a {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-size: 16px;
+    font-family: Helvetica, Arial, 'DejaVu Sans', 'Liberation Sans', Freesans, sans-serif;
+
+    #wrapper {
+        width: 960px;
+
+        .select-list {
+			margin-left: 25px;
+			margin-top: 25px;
+            & > ul {
+                list-style-type: none;
+				display: inline-block;
+				width: 150px;
+				height: 200px;
+				overflow-y:scroll;
+				background: -webkit-linear-gradient(top, rgb(129, 104, 255), rgb(255, 255, 255));
+				border-radius: 5px;
+
+                li {
+                    border-bottom: 1px solid #000;
+					padding: 5px 15px;
+
+					&:first-letter{
+						text-decoration: underline;
+					}
+
+                    &:last-of-type {
+                        border: none;
+                    }
+
+                    &.selected {
+                        background-color: rgb(108, 78, 255);
+                    }
+                }
+            }
+
+            & > a {
+				display: inline-block;
+				position: relative;
+				top: -80px;
+            }
+        }
+    }
+}

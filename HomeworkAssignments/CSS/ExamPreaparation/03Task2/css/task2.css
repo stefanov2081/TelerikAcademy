@@ -1,0 +1,47 @@
+html,
+body,
+div,
+ul,
+li,
+a {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-size: 16px;
+  font-family: Helvetica, Arial, 'DejaVu Sans', 'Liberation Sans', Freesans, sans-serif;
+}
+body #wrapper {
+  width: 960px;
+}
+body #wrapper .select-list {
+  margin-left: 25px;
+  margin-top: 25px;
+}
+body #wrapper .select-list > ul {
+  list-style-type: none;
+  display: inline-block;
+  width: 150px;
+  height: 200px;
+  overflow-y: scroll;
+  background: -webkit-linear-gradient(top, #8168ff, #ffffff);
+  border-radius: 5px;
+}
+body #wrapper .select-list > ul li {
+  border-bottom: 1px solid #000;
+  padding: 5px 15px;
+}
+body #wrapper .select-list > ul li:first-letter {
+  text-decoration: underline;
+}
+body #wrapper .select-list > ul li:last-of-type {
+  border: none;
+}
+body #wrapper .select-list > ul li.selected {
+  background-color: #6c4eff;
+}
+body #wrapper .select-list > a {
+  display: inline-block;
+  position: relative;
+  top: -80px;
+}

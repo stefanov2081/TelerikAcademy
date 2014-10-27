@@ -1,0 +1,5 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSS\CSSLayout\04WebSite\bin\04WebSite.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSS\CSSLayout\04WebSite\bin\04WebSite.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSS\CSSLayout\04WebSite\obj\Debug\04WebSite.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSS\CSSLayout\04WebSite\obj\Debug\04WebSite.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSS\CSSLayout\04WebSite\obj\Debug\04WebSite.pdb

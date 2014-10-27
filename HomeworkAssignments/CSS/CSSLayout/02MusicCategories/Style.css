@@ -1,0 +1,102 @@
+﻿section {
+    position: absolute;
+    width: 40%;
+    padding-left: 1%;
+    font-family: 'Arial Unicode MS';
+    background-color: rgb(238,238,238);
+    border-radius: 6px;
+}
+
+article {
+    margin-bottom: 10%;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+}
+
+h1 {
+    position: relative;
+    font-weight: 100;
+}
+
+section article {
+    position: relative;
+    width: 87%;
+    height: 120px;
+    padding: 5%;
+    background-color: #fff;
+    border: 1px solid rgb(184, 184, 184);
+}
+
+span {
+    font-weight: 900;
+}
+
+.add-image {
+    bottom: 17%;
+    right: 5%;
+}
+
+.listen-image {
+    bottom: 17%;
+    right: 20%;
+}
+
+.add-image, .listen-image {
+    position: absolute;
+    width: 5em;
+    height: 2em;
+    display: inline;
+}
+
+.add, .listen {
+    position: absolute;
+    width: 3em;
+    height: 1.5em;
+    display: inline;
+    color: #fff;
+    background-color: #f00;
+    cursor: pointer;
+}
+
+.add {
+    bottom: 18%;
+    right: 6%;
+}
+
+.listen {
+    bottom: 18%;
+    right: 21%;
+}
+
+div.image {
+    position: relative;
+    float: left;
+    width: 40%;
+    height: 100%;
+    margin-right: 5%;
+    margin-bottom: 0;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.article1 {
+    background-image: url("http://wallpaperscraft.com/image/people_hands_concert_music_crowd_80452_300x225.jpg?orig=1");
+}
+
+.article2 {
+    background-image: url("http://www.mrwallpaper.com/wallpapers/Girl-Playing-Guitar-1024x768.jpg");
+}
+
+.article3 {
+    background-image: url("http://www.snowbombing.com/blog/wp-content/uploads/2009/11/09_10_22_SBarctic-disco-crowd.jpg");
+}
+
+div.content {
+    position: relative;
+    display: inline;
+    cursor: default;
+}

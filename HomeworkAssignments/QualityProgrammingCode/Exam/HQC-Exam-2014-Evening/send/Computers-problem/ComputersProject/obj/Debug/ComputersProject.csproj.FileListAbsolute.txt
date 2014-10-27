@@ -1,0 +1,7 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\KPK\Exam\HQC-Exam-2014-Evening\Computers-problem\ComputersProject\bin\Debug\Computers.UI.Console.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\KPK\Exam\HQC-Exam-2014-Evening\Computers-problem\ComputersProject\bin\Debug\Computers.UI.Console.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\KPK\Exam\HQC-Exam-2014-Evening\Computers-problem\ComputersProject\bin\Debug\Computers.UI.Console.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\KPK\Exam\HQC-Exam-2014-Evening\Computers-problem\ComputersProject\bin\Debug\System.Collections.Generic.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\KPK\Exam\HQC-Exam-2014-Evening\Computers-problem\ComputersProject\obj\Debug\ComputersProject.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\KPK\Exam\HQC-Exam-2014-Evening\Computers-problem\ComputersProject\obj\Debug\Computers.UI.Console.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\KPK\Exam\HQC-Exam-2014-Evening\Computers-problem\ComputersProject\obj\Debug\Computers.UI.Console.pdb

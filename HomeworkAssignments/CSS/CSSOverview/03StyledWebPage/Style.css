@@ -1,0 +1,44 @@
+﻿.current {
+    background-color: rgb(211, 211, 211);
+}
+
+body {
+    background-color: rgb(169, 169, 169);
+    font-size-adjust: 0.55;
+}
+
+h1 {
+    color: rgb(250, 250, 210);
+}
+
+body > header > h1 {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+li > a {
+    color: rgb(250, 250, 210);
+}
+
+li:nth-child(2n+4) > a {
+    text-decoration: underline;
+}
+
+p > a {
+    color: #000;
+}
+
+body > footer {
+    text-align: center;
+}

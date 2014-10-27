@@ -1,0 +1,4 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\HTML\SemanticWeb\02SemanticHTML\bin\02SemanticHTML.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\HTML\SemanticWeb\02SemanticHTML\bin\02SemanticHTML.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\HTML\SemanticWeb\02SemanticHTML\obj\Debug\02SemanticHTML.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\HTML\SemanticWeb\02SemanticHTML\obj\Debug\02SemanticHTML.pdb

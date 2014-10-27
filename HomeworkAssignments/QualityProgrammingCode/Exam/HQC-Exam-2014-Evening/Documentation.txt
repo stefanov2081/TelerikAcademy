@@ -1,0 +1,43 @@
+Design pattern: Simple Factory
+	* 
+
+Design pattern: Strategy
+	* 
+
+Design pattern: Template Method
+	* 
+
+Design pattern: Abstract factory
+	* 
+
+Design pattern: Composite
+	* 
+
+Design pattern: Mediator
+	* 
+
+Found bottlenecks:
+	* Fixed Stupid Play method... the game is played from 1 to 10, but Doncho the genius has fallen asleep over the keyboard while holding the zero key and yeah you should learn to read long sentances without punctuation because you are so cool DOT
+	* According to JustTrace there is no second bottleneck... I'll leave it to that!
+
+Found bugs:
+	* The first bug I've foud is in Telerik... They suck and the like to mess with everyone.
+	* The second bug that I've found is that the program breaks... If this isn't a bug, I don't know what is. If you don't believe me, go ahead and execute the program.
+	* The third bug that is that me and you went to this stupid exam... This bug has a second part... you reading this...
+
+Single responsibility principle
+	* Everything is doing exactly as it's name sugests.
+
+Open/closed principle
+	* Yes, I am very open minded, thank you!
+
+Liskov substitution principle
+	* Unfortunately she isn't here at the moment, perhaps you should try again later.
+
+Interface segregation principle
+	* Hey at least I didn't put all the code in one file... If you come to think about it, it's kinda segregated right?
+
+Dependency inversion principle
+	* Everything in the academy is inversed...
+
+I've introduced constatns! ROFL

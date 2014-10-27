@@ -1,0 +1,4 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\KPK\Exam\HQC-Exam-2014-Evening\Computers-problem\LaptopBattery\bin\Debug\LaptopBattery.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\KPK\Exam\HQC-Exam-2014-Evening\Computers-problem\LaptopBattery\bin\Debug\LaptopBattery.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\KPK\Exam\HQC-Exam-2014-Evening\Computers-problem\LaptopBattery\obj\Debug\LaptopBattery.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\KPK\Exam\HQC-Exam-2014-Evening\Computers-problem\LaptopBattery\obj\Debug\LaptopBattery.pdb

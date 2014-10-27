@@ -1,0 +1,4 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSS\CSSPresentation\02WebPagePrewrittenHTML\bin\02WebPagePrewrittenHTML.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSS\CSSPresentation\02WebPagePrewrittenHTML\bin\02WebPagePrewrittenHTML.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSS\CSSPresentation\02WebPagePrewrittenHTML\obj\Debug\02WebPagePrewrittenHTML.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSS\CSSPresentation\02WebPagePrewrittenHTML\obj\Debug\02WebPagePrewrittenHTML.pdb

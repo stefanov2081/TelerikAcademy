@@ -1,0 +1,74 @@
+﻿.coloured {
+    background-color: #EBEBEB;
+}
+
+.bt {
+    border: 0px;
+    padding: 0px;
+    cursor: pointer;
+    background-color: transparent;
+    color: #3b2f2f;
+    text-decoration: none;
+}
+
+    .bt:focus {
+        border: 1px solid #f00;
+        border-radius: 3px;
+        padding: 0px;
+        cursor: pointer;
+        height: 22px;
+        background-color: transparent;
+        color: #3b2f2f;
+    }
+
+.sameWidthInputs {
+    width: 50%;
+}
+
+#footerRight {
+    border-left: 0;
+    height: 30px;
+    text-align: right;
+    padding-right: 10px;
+}
+
+#footerLeft {
+    border-right: 0;
+    height: 30px;
+    text-align: left;
+    padding-right: 10px;
+}
+
+a {
+    vertical-align: 20%;
+}
+
+label {
+    vertical-align: 20%;
+}
+
+table {
+    padding: 0px;
+    border-collapse: collapse;
+}
+
+td, th {
+    padding: 0;
+    padding-left: 5px;
+    border: solid 1px #808080;
+    vertical-align: middle;
+    text-align: left;
+    font-weight: normal;
+}
+
+thead, tfoot {
+    background-color: #ccd1d5;
+}
+
+th, tfoot {
+    height: 30px;
+}
+
+select {
+    vertical-align: 20%;
+}

@@ -1,0 +1,160 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Calculator</title>
+    <link href="Style.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="main-container">
+        <header>
+            <div class="head-container">
+                <span id="label-span">Calculator
+                </span>
+                <div id="close">
+                    <span id="close-icon">x
+                    </span>
+                </div>
+                <div id="maximize">
+                    <div id="maximize-icon"></div>
+                </div>
+                <div id="minimize">
+                    <span id="minimize-icon">-
+                    </span>
+                </div>
+            </div>
+        </header>
+        <div class="inner-container">
+            <div class="drop-down-menu">
+                <div id="view">
+                    View
+                </div>
+                <div id="edit">
+                    Edit
+                </div>
+                <div id="help">
+                    Help
+                </div>
+            </div>
+            <div class="result-container">
+                <div class="result"><span class="result-text">8854455</span></div>
+            </div>
+            <div class="binary-represantion-container">
+                <div class="binary-represantion">
+                    <div id="firs-filne-binary-container">
+                        <div id="first-line-binary" class="binary-text binary-text-box-size binary-text-inner">0000</div>
+                        <div class="binary-text binary-text-box-size binary-text-inner">0000</div>
+                        <div class="binary-text binary-text-box-size binary-text-inner">0000</div>
+                        <div class="binary-text binary-text-box-size binary-text-inner">0000</div>
+                        <div class="binary-text binary-text-box-size binary-text-inner">0000</div>
+                        <div class="binary-text binary-text-box-size binary-text-inner">0000</div>
+                        <div class="binary-text binary-text-box-size binary-text-inner">0000</div>
+                        <div class="binary-text binary-text-box-size">0000</div>
+                    </div>
+                    <div id="second-line-binary-container">
+                        <div id="second-line-binary" class="binary-text binary-text-box-size binary-text-inner-larger-margin colour-grey">63</div>
+                        <div class="binary-text binary-text-box-size binary-text-inner-larger-margin-last colour-grey">47</div>
+                        <div class="binary-text binary-text-box-size colour-grey">32</div>
+                    </div>
+                    <div id="third-line-binary-container">
+                        <div id="third-line-binary" class="binary-text binary-text-box-size binary-text-inner">0000</div>
+                        <div class="binary-text binary-text-box-size binary-text-inner">1000</div>
+                        <div class="binary-text binary-text-box-size binary-text-inner">1000</div>
+                        <div class="binary-text binary-text-box-size binary-text-inner">0101</div>
+                        <div class="binary-text binary-text-box-size binary-text-inner">0100</div>
+                        <div class="binary-text binary-text-box-size binary-text-inner">0100</div>
+                        <div class="binary-text binary-text-box-size binary-text-inner">0101</div>
+                        <div class="binary-text binary-text-box-size">0101</div>
+                    </div>
+                    <div id="fourth-line-binary-container">
+                        <div id="fourth-line-binary" class="binary-text binary-text-box-size binary-text-inner-larger-margin colour-grey">31</div>
+                        <div class="binary-text binary-text-box-size binary-text-inner-larger-margin-last colour-grey">15</div>
+                        <div class="binary-text binary-text-box-size colour-grey">&nbsp;0</div>
+                    </div>
+                </div>
+            </div>
+            <div class="radio-container">
+                <div class="radio-group1-container">
+                    <form>
+                        <input type="radio" name="radio-group1" value="Hex" />Hex<br />
+                        <input type="radio" name="radio-group1" value="Dec" checked="checked" />Dec<br />
+                        <input type="radio" name="radio-group1" value="Oct" />Oct<br />
+                        <input type="radio" name="radio-group1" value="Bin" />Bin<br />
+                    </form>
+                </div>
+                <div class="radio-group2-container">
+                    <form>
+                        <input type="radio" name="radio-group1" value="Hex" />Qword<br />
+                        <input type="radio" name="radio-group1" value="Dec" checked="checked" />Dword<br />
+                        <input type="radio" name="radio-group1" value="Oct" />Word<br />
+                        <input type="radio" name="radio-group1" value="Bin" />Byte<br />
+                    </form>
+                </div>
+            </div>
+            <div class="button-container">
+                <table>
+                    <tbody>
+                        <tr>
+                            <td class="inactive"></td>
+                            <td class="active">Mod</td>
+                            <td class="inactive">A</td>
+                            <td class="inactive special">MC</td>
+                            <td class="inactive special">MR</td>
+                            <td class="inactive special">MS</td>
+                            <td class="inactive special">M+</td>
+                            <td class="inactive special">M-</td>
+                        </tr>
+                        <tr>
+                            <td class="active">(</td>
+                            <td class="active">)</td>
+                            <td class="inactive">B</td>
+                            <td class="active">&#8592;</td>
+                            <td class="active">CE</td>
+                            <td class="active">C</td>
+                            <td class="active">&#177;</td>
+                            <td class="inactive">&#8730;</td>
+                        </tr>
+                        <tr>
+                            <td class="active">RoL</td>
+                            <td class="active">Ror</td>
+                            <td class="inactive">C</td>
+                            <td class="active digit">7</td>
+                            <td class="active digit">8</td>
+                            <td class="active digit">9</td>
+                            <td class="active">/</td>
+                            <td class="inactive">%</td>
+                        </tr>
+                        <tr>
+                            <td class="active">Or</td>
+                            <td class="active">Xor</td>
+                            <td class="inactive">D</td>
+                            <td class="active digit">4</td>
+                            <td class="active digit">5</td>
+                            <td class="active digit">6</td>
+                            <td class="active">*</td>
+                            <td class="inactive">1/x</td>
+                        </tr>
+                        <tr>
+                            <td class="active">Lsh</td>
+                            <td class="active">Rsh</td>
+                            <td class="inactive">E</td>
+                            <td class="active digit">1</td>
+                            <td class="active digit">2</td>
+                            <td class="active digit">3</td>
+                            <td class="active">-</td>
+                            <td class="active" rowspan="2" id="equal-sign">=</td>
+                        </tr>
+                        <tr>
+                            <td class="active">Not</td>
+                            <td class="active">And</td>
+                            <td class="inactive">F</td>
+                            <td class="active digit" colspan="2">0</td>
+                            <td class="inactive digit">.</td>
+                            <td class="active">+</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

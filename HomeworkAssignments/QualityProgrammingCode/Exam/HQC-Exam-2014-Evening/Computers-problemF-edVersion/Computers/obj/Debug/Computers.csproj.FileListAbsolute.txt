@@ -1,0 +1,4 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\KPK\Exam\HQC-Exam-2014-Evening\Computers-problem\Computers\bin\Debug\Computers.UI.Console.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\KPK\Exam\HQC-Exam-2014-Evening\Computers-problem\Computers\obj\Debug\Computers.UI.Console.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\KPK\Exam\HQC-Exam-2014-Evening\Computers-problem\Computers\obj\Debug\Computers.UI.Console.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\KPK\Exam\HQC-Exam-2014-Evening\Computers-problem\Computers\obj\Debug\Computers.csprojResolveAssemblyReference.cache

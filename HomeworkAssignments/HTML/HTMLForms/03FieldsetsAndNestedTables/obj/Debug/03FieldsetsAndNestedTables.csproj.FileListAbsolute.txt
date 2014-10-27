@@ -1,0 +1,5 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\HTML\HTMLForms\03FieldsetsAndNestedTables\bin\03FieldsetsAndNestedTables.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\HTML\HTMLForms\03FieldsetsAndNestedTables\bin\03FieldsetsAndNestedTables.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\HTML\HTMLForms\03FieldsetsAndNestedTables\obj\Debug\03FieldsetsAndNestedTables.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\HTML\HTMLForms\03FieldsetsAndNestedTables\obj\Debug\03FieldsetsAndNestedTables.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\HTML\HTMLForms\03FieldsetsAndNestedTables\obj\Debug\03FieldsetsAndNestedTables.csprojResolveAssemblyReference.cache

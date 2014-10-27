@@ -1,0 +1,27 @@
+﻿ul li ul {
+    display: none;
+    color: rgb(199, 209, 222);
+}
+
+ul li:hover > span {
+    text-decoration: underline;
+}
+
+ul li:hover > ul {
+    display: block;
+    width:100%;
+}
+
+ul {
+    list-style-type: none;
+    cursor: default;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+}
+
+.main-menu-item {
+    width: 5.7%;
+}

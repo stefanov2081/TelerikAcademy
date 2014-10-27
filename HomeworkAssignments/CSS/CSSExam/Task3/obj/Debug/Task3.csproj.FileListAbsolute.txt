@@ -1,0 +1,4 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\SideProjects\CSSExam\Task3\bin\Task3.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\SideProjects\CSSExam\Task3\bin\Task3.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\SideProjects\CSSExam\Task3\obj\Debug\Task3.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\SideProjects\CSSExam\Task3\obj\Debug\Task3.pdb

@@ -1,0 +1,5 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\KPK\Exam\HQC-Exam-2014-Evening\Computers-problem\IMotherboard\bin\Debug\IMotherboard.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\KPK\Exam\HQC-Exam-2014-Evening\Computers-problem\IMotherboard\bin\Debug\IMotherboard.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\KPK\Exam\HQC-Exam-2014-Evening\Computers-problem\IMotherboard\obj\Debug\IMotherboard.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\KPK\Exam\HQC-Exam-2014-Evening\Computers-problem\IMotherboard\obj\Debug\IMotherboard.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\KPK\Exam\HQC-Exam-2014-Evening\Computers-problem\IMotherboard\obj\Debug\IMotherboard.pdb

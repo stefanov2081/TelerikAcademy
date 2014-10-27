@@ -1,0 +1,9 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptUIAndDOM\CodeTuning\02CompareMathOperators\bin\Debug\02CompareMathOperators.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptUIAndDOM\CodeTuning\02CompareMathOperators\bin\Debug\02CompareMathOperators.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptUIAndDOM\CodeTuning\02CompareMathOperators\bin\Debug\02CompareMathOperators.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptUIAndDOM\CodeTuning\02CompareMathOperators\obj\Debug\02CompareMathOperators.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptUIAndDOM\CodeTuning\02CompareMathOperators\obj\Debug\02CompareMathOperators.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptUIAndDOM\CodeTuning\02CompareMathOperators\obj\Debug\02CompareMathOperators.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\KPK\Code-Tuning-and-Optimization-Homework\CodeTuning\02CompareMathOperators\bin\Debug\02CompareMathOperators.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\KPK\Code-Tuning-and-Optimization-Homework\CodeTuning\02CompareMathOperators\obj\Debug\02CompareMathOperators.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\KPK\Code-Tuning-and-Optimization-Homework\CodeTuning\02CompareMathOperators\obj\Debug\02CompareMathOperators.pdb

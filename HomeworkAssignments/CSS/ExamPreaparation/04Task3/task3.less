@@ -1,0 +1,103 @@
+﻿html, body, div, hgroup, h1, h2, h3, p, a {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    #wrapper {
+        width: 960px;
+        font-family: Constantina, Georgia, 'Nimbus Roman No9 L', serif;
+        font-size: 16px;
+
+        div:first-child {
+            margin-left: 30px;
+        }
+
+        div:last-child {
+                border-right: 2px solid rgb(211, 215, 218);
+            }
+
+        & > div {
+            margin-top: 30px;
+            width: 150px;
+            height: 260px;
+            display: inline;
+            float: left;
+            border: 2px solid rgb(211, 215, 218);
+            border-right: none;
+
+            
+
+            &:nth-of-type(1) hgroup {
+                background: url(../imgs/install.png);
+                background-repeat: no-repeat;
+            }
+
+            &:nth-of-type(2) hgroup {
+                background: url(../imgs/tuneUp.png);
+                background-repeat: no-repeat;
+            }
+
+            &:nth-of-type(3) hgroup {
+                background: url(../imgs/manage.png);
+                background-repeat: no-repeat;
+            }
+
+            &:nth-of-type(4) hgroup {
+                background: url(../imgs/openSource.png);
+                background-repeat: no-repeat;
+                line-height: 3em;
+            }
+
+            &:nth-of-type(5) hgroup {
+                background: url(../imgs/twitter.png);
+                background-repeat: no-repeat;
+                line-height: 3em;
+            }
+
+            &:nth-of-type(6) hgroup {
+                background: url(../imgs/about.png);
+                background-repeat: no-repeat;
+                line-height: 3em;
+            }
+
+            h3, h2 {
+                text-align: center;
+                font-size: 1em;
+            }
+
+            h2 {
+                margin-bottom: 10px;
+            }
+
+            &:nth-child(2n) {
+                background: -webkit-linear-gradient(top,  rgb(255, 255, 255), rgb(241, 242, 243));
+                height: 280px;
+            }
+
+            a {
+                color: rgb(201, 45, 47);
+                text-decoration: none;
+                span {
+                    text-transform: uppercase;
+                    font-size: 1.1em;
+                }
+            }
+
+            p{
+                text-align: left;
+                padding-left: 5px;
+                padding-right: 20px;
+            }
+
+            div {
+                border: none;
+            }
+
+            .yellowBox {
+                background-color: rgb(255, 255, 221);
+                border: 1px solid rgb(255, 255, 0);
+            }
+        }
+    }
+}

@@ -1,0 +1,104 @@
+﻿html, body, div, ul, li, a, span {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 'DejaVu Sans Condensed', sans-serif;
+    font-size: 16px;
+    width: 100%;
+
+    #wrapper {
+        width: 960px;
+
+        .msg-bar {
+            position: relative;
+            display: inline-block;
+            margin: 215px 60px;
+
+            & > li:hover {
+                background: rgb(0, 221, 179);
+                border-top: none;
+                box-shadow: rgb(170, 255, 239) 0 -5px 1px 0;
+
+                .msg-bar-content {
+                    display: block;
+
+                    li {
+                        display: block;
+                    }
+                }
+            }
+
+            li {
+                display: inline-block;
+                background: -webkit-linear-gradient(top, rgb(170, 255, 239), rgb(19, 255, 210));
+                border: 1px solid #000;
+                padding: 5px 15px;
+
+                a {
+                    color: rgb(0, 148, 255);
+                    text-decoration: none;
+                }
+
+                &:hover {
+                }
+
+                .msg-bar-content {
+                    position: absolute;
+                    display: none;
+                    top: -165px;
+                    left: 0;
+
+
+                    ul {
+                        width: 464px;
+
+
+                        li {
+                            padding: 10px 15px;
+                            background: rgb(170, 255, 239);
+                            border-right: 1px solid #000;
+                            border-left: 1px solid #000;
+                            border-top: none;
+                            border-bottom: 1px solid #000;
+                            text-align: right;
+
+                            &:first-child {
+                                border: 1px solid #000;
+                                border-top-left-radius: 15px;
+                                border-top-right-radius: 15px;
+                            }
+
+                            &:last-child {
+                                border-bottom: none;
+                            }
+
+                            span {
+                                margin-right: 15px;
+                                color: rgb(0, 148, 255);
+
+                                &.user {
+                                    padding: 5px;
+                                    border: 1px solid #000;
+                                    border-radius: 15px;
+                                    float: left;
+                                }
+                            }
+
+                            &.me-item {
+                                background-image: url(../imgs/me.png);
+                                background-repeat: no-repeat;
+                            }
+
+                            &.other-item {
+                                background-image: url(../imgs/male.png);
+                                background-repeat: no-repeat;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

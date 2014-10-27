@@ -1,0 +1,5 @@
+c:\users\mandjah\documents\visual studio 2012\Projects\CSS\LESS\02WebGallery\bin\02WebGallery.dll
+c:\users\mandjah\documents\visual studio 2012\Projects\CSS\LESS\02WebGallery\bin\02WebGallery.pdb
+c:\users\mandjah\documents\visual studio 2012\Projects\CSS\LESS\02WebGallery\obj\Debug\02WebGallery.dll
+c:\users\mandjah\documents\visual studio 2012\Projects\CSS\LESS\02WebGallery\obj\Debug\02WebGallery.pdb
+c:\users\mandjah\documents\visual studio 2012\Projects\CSS\LESS\02WebGallery\obj\Debug\02WebGallery.csprojResolveAssemblyReference.cache

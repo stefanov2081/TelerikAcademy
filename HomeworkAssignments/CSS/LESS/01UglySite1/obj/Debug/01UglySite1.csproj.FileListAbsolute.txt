@@ -1,0 +1,5 @@
+c:\users\mandjah\documents\visual studio 2012\Projects\CSS\LESS\01UglySite1\bin\01UglySite1.dll
+c:\users\mandjah\documents\visual studio 2012\Projects\CSS\LESS\01UglySite1\bin\01UglySite1.pdb
+c:\users\mandjah\documents\visual studio 2012\Projects\CSS\LESS\01UglySite1\obj\Debug\01UglySite1.csprojResolveAssemblyReference.cache
+c:\users\mandjah\documents\visual studio 2012\Projects\CSS\LESS\01UglySite1\obj\Debug\01UglySite1.dll
+c:\users\mandjah\documents\visual studio 2012\Projects\CSS\LESS\01UglySite1\obj\Debug\01UglySite1.pdb

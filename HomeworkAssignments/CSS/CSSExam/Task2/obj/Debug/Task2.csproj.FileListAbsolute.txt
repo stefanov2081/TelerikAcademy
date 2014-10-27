@@ -1,0 +1,5 @@
+c:\users\mandjah\documents\visual studio 2012\Projects\SideProjects\CSSExam\Task2\bin\Task2.dll
+c:\users\mandjah\documents\visual studio 2012\Projects\SideProjects\CSSExam\Task2\bin\Task2.pdb
+c:\users\mandjah\documents\visual studio 2012\Projects\SideProjects\CSSExam\Task2\obj\Debug\Task2.csprojResolveAssemblyReference.cache
+c:\users\mandjah\documents\visual studio 2012\Projects\SideProjects\CSSExam\Task2\obj\Debug\Task2.dll
+c:\users\mandjah\documents\visual studio 2012\Projects\SideProjects\CSSExam\Task2\obj\Debug\Task2.pdb

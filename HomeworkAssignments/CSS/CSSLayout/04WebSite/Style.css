@@ -1,0 +1,151 @@
+﻿body {
+    font-family: Verdana;
+    font-size: 0.8em;
+}
+
+nav {
+    width: 16em;
+    position: relative;
+    float: left;
+}
+
+    nav p {
+        font-weight: 800;
+    }
+
+    nav ul li {
+        position: relative;
+        left: -2.5em;
+        list-style-type: none;
+        line-height: 1.2em;
+    }
+
+        nav ul li:first-child {
+            color: rgb(144, 11, 9);
+            font-weight: 900;
+        }
+
+section {
+    width: 51em;
+    height: 53em;
+    position: relative;
+    float: left;
+    margin-top: 0.15em;
+    background-color: #fff;
+    border: 1px solid rgb(167, 167, 167);
+    box-shadow: rgb(198, 198, 198) 0 0 1px 1px;
+}
+
+button {
+    width: 7em;
+    background-color: #fff;
+    border: 2px solid #000;
+}
+
+section article:first-of-type {
+    height: 13em;
+    font-weight: 900;
+}
+
+section article h2, aside div h2 {
+    font-size: 1.25em;
+    color: #fff;
+    background-color: rgb(128, 128, 128);
+}
+
+aside {
+    position: relative;
+    float: left;
+}
+
+    aside div {
+        padding: 0.2em;
+        padding-bottom: 0.5em;
+        align-content: center;
+        text-align: center;
+    }
+
+        aside div h2 {
+            width: 13.7em;
+            margin-top: -0.17em;
+            margin-left: -0.17em;
+            font-size: 1.2em;
+        }
+
+        aside div input {
+            border: 1px solid rgb(147, 172, 196);
+            box-shadow: rgb(147, 172, 196) 0 0 1px 1px;
+        }
+
+        aside div div {
+            width: 12em;
+            height: 3em;
+            padding-top: 1em;
+
+            display: inline-block;
+
+            background: -webkit-linear-gradient(left, red, blue);
+            background: -o-linear-gradient(right, red, blue);
+            background: -moz-linear-gradient(right, red, blue);
+            background: linear-gradient(to right, rgb(159, 217, 249), rgb(195, 232, 251)10%, rgb(195, 232, 251)90%, rgb(159, 217, 249));
+            border: 1px solid rgb(255, 244, 254);
+            border-radius: 2px;
+            box-shadow: rgb(133, 176, 207) 0 0 1px 1px;
+        }
+
+            aside div div span {
+                vertical-align: middle;
+                color: rgb(20, 195, 255);
+                font-size: 1.5em;
+                -webkit-touch-callout: none;
+                -webkit-user-select: none;
+                -khtml-user-select: none;
+                -moz-user-select: none;
+                -ms-user-select: none;
+                cursor: default;
+            }
+
+a {
+    display: block;
+
+    color: rgb(144, 11, 9);
+}
+
+img {
+    width: 1.5em;
+    height: 1.5em;
+}
+
+.main-container {
+    position: absolute;
+    background-color: rgb(241, 241, 241);
+    border: 1px solid #333;
+}
+
+.aside {
+    width: 16em;
+    background-color: #fff;
+    border: 1px solid rgb(167, 167, 167);
+    box-shadow: rgb(198, 198, 198) 0 0 1px 1px;
+    margin: 0.15em;
+}
+
+.image {
+    position: relative;
+    float: left;
+    width: 130px;
+    height: 130px;
+    margin-right: 5%;
+    margin-bottom: 0;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.article1 {
+    background-image: url("http://houlker.net/wp-content/uploads/2013/08/css3_logo.gif");
+}
+
+.content {
+    margin-bottom: 1.5em;
+}

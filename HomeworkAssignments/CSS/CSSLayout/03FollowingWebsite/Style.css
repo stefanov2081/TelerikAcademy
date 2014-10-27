@@ -1,0 +1,68 @@
+﻿.main-container {
+    width: 46%;
+    background-color: #4d4d4d;
+    border: 1px solid #ffd800;
+    border-radius: 6px;
+}
+
+.header-container {
+    height: 2em;
+    padding: 2%;
+    background-color: #393939;
+}
+
+.image-monitor {
+    width: 24px;
+    height: 24px;
+    float: left;
+    background-image: url("https://cdn1.iconfinder.com/data/icons/Siena/256/monitor%20yellow.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.button {
+    position: absolute;
+    top: 3.5%;
+    width: 3.5em;
+    height: 1.5em;
+
+    text-align: center;
+    color: #fff;
+}
+
+.margin1 {
+    margin-right: 2%;
+}
+
+.gradient-border {
+    width: 99%;
+    height: 5px;
+    position: relative;
+    left: 0.5%;
+
+    background: -webkit-linear-gradient(left, red, blue, green);
+    background: -o-linear-gradient(right, red, blue, green);
+    background: -moz-linear-gradient(right, red, blue, green);
+    background: linear-gradient(to right, #4d4d4d, #242424, #4d4d4d);
+    box-shadow: #242424 0 -5px 5px 1pt;
+}
+
+label {
+    font-size: 1.3em;
+    color: #fff;
+}
+
+section {
+    width: 90%;
+    margin: 2%;
+
+    color: #9c9c9c;
+}
+
+section h1 {
+    color: #ffc300;
+}
+
+    section span {
+        color: #fff;
+    }

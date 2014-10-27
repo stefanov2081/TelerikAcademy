@@ -1,0 +1,4 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\HTML\HTMLTables\03Calculator\03Calculator\bin\03Calculator.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\HTML\HTMLTables\03Calculator\03Calculator\bin\03Calculator.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\HTML\HTMLTables\03Calculator\03Calculator\obj\Debug\03Calculator.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\HTML\HTMLTables\03Calculator\03Calculator\obj\Debug\03Calculator.pdb

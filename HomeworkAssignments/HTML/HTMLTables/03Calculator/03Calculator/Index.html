@@ -1,0 +1,57 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Calculator</title>
+</head>
+<body>
+    <form name="calculator">
+        <table border="1" style="background-color: azure">
+            <tbody>
+                <tr>
+                    <td>
+                        <input type="textfield" name="result" value="" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="button" value="1" style="width: 22%" onclick="document.calculator.result.value += '1'" />
+                        <input type="button" value="2" style="width: 22%" onclick="document.calculator.result.value += '2'" />
+                        <input type="button" value="3" style="width: 22%" onclick="document.calculator.result.value += '3'" />
+                        <input type="button" value="+" style="width: 22%" onclick="document.calculator.result.value += '+'" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="button" value="4" style="width: 22%" onclick="document.calculator.result.value += '4'" />
+                        <input type="button" value="5" style="width: 22%" onclick="document.calculator.result.value += '5'" />
+                        <input type="button" value="6" style="width: 22%" onclick="document.calculator.result.value += '6'" />
+                        <input type="button" value="-" style="width: 22%" onclick="document.calculator.result.value += '-'" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="button" value="7" style="width: 22%" onclick="document.calculator.result.value += '7'" />
+                        <input type="button" value="8" style="width: 22%" onclick="document.calculator.result.value += '8'" />
+                        <input type="button" value="9" style="width: 22%" onclick="document.calculator.result.value += '9'" />
+                        <input type="button" value="*" style="width: 22%" onclick="document.calculator.result.value += '*'" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="button" value="0" style="width: 22%" onclick="document.calculator.result.value += '0'" />
+                        <input type="button" value="000" style="width: 22%" onclick="document.calculator.result.value += '000'" />
+                        <input type="button" value="." style="width: 22%" onclick="document.calculator.result.value += '.'" />
+                        <input type="button" value="/" style="width: 22%" onclick="document.calculator.result.value += '/'" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="reset" value="C" style="width: 48%" />
+                        <input type="button" value="=" style="width: 48%" onclick="document.calculator.result.value = eval(document.calculator.result.value)" />
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </form>
+</body>
+</html>

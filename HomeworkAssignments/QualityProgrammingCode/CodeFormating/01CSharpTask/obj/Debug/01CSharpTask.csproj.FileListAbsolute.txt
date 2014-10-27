@@ -1,0 +1,8 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\KPK\CodeFormating\01CSharpTask\bin\Debug\01CSharpTask.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\KPK\CodeFormating\01CSharpTask\bin\Debug\01CSharpTask.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\KPK\CodeFormating\01CSharpTask\bin\Debug\01CSharpTask.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\KPK\CodeFormating\01CSharpTask\bin\Debug\PowerCollections.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\KPK\CodeFormating\01CSharpTask\bin\Debug\PowerCollections.xml
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\KPK\CodeFormating\01CSharpTask\obj\Debug\01CSharpTask.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\KPK\CodeFormating\01CSharpTask\obj\Debug\01CSharpTask.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\KPK\CodeFormating\01CSharpTask\obj\Debug\01CSharpTask.pdb

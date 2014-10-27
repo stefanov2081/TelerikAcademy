@@ -1,0 +1,38 @@
+﻿#greenDot {
+    display: inline;
+    background-color: #5FBF5F;
+    border-radius: 50em;
+}
+
+.textColourWhite {
+    color: white;
+}
+
+.textColourGrey {
+    color: #9A9A90;
+}
+
+.textColourLightYellow {
+    color: #FFFF99;
+}
+
+.textColourRed {
+    color: red;
+}
+
+.textColourSandyBrown {
+    color: sandybrown;
+}
+
+body {
+    background-color: #61615B;
+}
+
+table, td, th {
+    padding: 0.3em;
+}
+
+th {
+    text-align: left;
+}
+

@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02CompareMathOperators", "02CompareMathOperators\02CompareMathOperators.csproj", "{E2823053-52CC-4A22-81B7-B66E947C2618}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03ComparePerformanceForMathFunctions", "03ComparePerformanceForMathFunctions\03ComparePerformanceForMathFunctions.csproj", "{41EF4D91-AC59-4266-A318-1AEC44161078}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04ComparePerformanceOfSortingAlgorithms", "04ComparePerformanceOfSortingAlgorithms\04ComparePerformanceOfSortingAlgorithms.csproj", "{7C9B7A23-64B8-4087-973F-F4735A5FD2DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolarSystem", "..\SolarSystem\SolarSystem.csproj", "{2F30E9AF-8256-40AF-B356-EA14E55CE9D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2823053-52CC-4A22-81B7-B66E947C2618}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2823053-52CC-4A22-81B7-B66E947C2618}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2823053-52CC-4A22-81B7-B66E947C2618}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2823053-52CC-4A22-81B7-B66E947C2618}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41EF4D91-AC59-4266-A318-1AEC44161078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41EF4D91-AC59-4266-A318-1AEC44161078}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41EF4D91-AC59-4266-A318-1AEC44161078}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41EF4D91-AC59-4266-A318-1AEC44161078}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C9B7A23-64B8-4087-973F-F4735A5FD2DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C9B7A23-64B8-4087-973F-F4735A5FD2DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C9B7A23-64B8-4087-973F-F4735A5FD2DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C9B7A23-64B8-4087-973F-F4735A5FD2DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F30E9AF-8256-40AF-B356-EA14E55CE9D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F30E9AF-8256-40AF-B356-EA14E55CE9D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F30E9AF-8256-40AF-B356-EA14E55CE9D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F30E9AF-8256-40AF-B356-EA14E55CE9D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

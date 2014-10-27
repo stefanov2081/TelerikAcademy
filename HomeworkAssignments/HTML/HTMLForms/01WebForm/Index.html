@@ -1,0 +1,139 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Web Form</title>
+</head>
+<body>
+    <form action="Index.html" method="post">
+        <table border="1" cellspacing="0" cellpadding="4" width="540px" height="500px">
+            <tfoot>
+                <tr>
+                    <td colspan="4" align="center" style="background-color:lightblue">
+                        <input type="submit" name="submit" id="submit" value="Submit" />
+                        <input type="reset" name="reset" id="reset" value="Clear This Form" />
+                    </td>
+                </tr>
+            </tfoot>
+            <tr>
+                <td align="right">
+                    <label for="lastName"><b>Last Name</b></label>
+                </td>
+                <td colspan="3">
+                    <input type="text" name="lastName" id="lastName" style="width: 96%" />
+                </td>
+            </tr>
+            <tr>
+                <td align="right">
+                    <label for="firstName"><b>First Name</b></label>
+                </td>
+                <td colspan="3">
+                    <input type="text" name="firstName" id="firstName" style="width: 96%" />
+                </td>
+            </tr>
+            <tr>
+                <td align="right">
+                    <label for="address"><b>Address</b></label>
+                </td>
+                <td colspan="3">
+                    <textarea name="address" id="address" style="width: 96%"></textarea>
+                </td>
+            </tr>
+            <tr>
+                <td align="right">
+                    <label for="city"><b>City</b></label>
+                </td>
+                <td>
+                    <input type="text" name="city" id="city" style="width: 96%" />
+                </td>
+                <td align="right" style="width: 30px">
+                    <label for="state"><b>State</b></label>
+                </td>
+                <td style="width: 30px">
+                    <input type="text" name="state" id="state" style="width: 80%" />
+                </td>
+            </tr>
+            <tr>
+                <td align="right">
+                    <label for="zip"><b>Zip/Postal Code</b></label>
+                </td>
+                <td colspan="3">
+                    <input type="text" name="zip" id="zip" style="width: 22%" />
+                </td>
+            </tr>
+            <tr>
+                <td align="right">
+                    <label for="countriesList"><b>Country</b></label>
+                </td>
+                <td colspan="3">
+                    <select name="countriesList" id="countriesList">
+                        <option value="Afghanistan" selected="selected">Afghanistan</option>
+                        <option value="Albania">Albania</option>
+                        <option value="Algeria">Algeria</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td align="right">
+                    <label for="telNum"><b>Phone(Country code, area code, number)</b></label>
+                </td>
+                <td colspan="3">
+                    (+ <input type="text" name="telNum" id="telNum" style="width:22%" /> )
+                    <input type="text" name="telNumText2" id="telNumText2" style="width:15%" />
+                    - <input type="text" name="telNumText3" id="telNumText3" style="width:40%" />
+                </td>
+            </tr>
+            <tr>
+                <td align="right">
+                    <label for="email"><b>E-mail</b></label>
+                </td>
+                <td colspan="3">
+                    <input type="text" name="email" id="email" style="width: 96%" />
+                </td>
+            </tr>
+            <tr>
+                <td align="right">
+                    <label for="month"><b>Birth date</b></label>
+                </td>
+                <td colspan="3">
+                    <label for="month">Month</label>
+                    <input type="text" name="month" id="month" style="width:10%" />
+                    <label for="day">Day</label>
+                    <input type="text" name="day" id="day" style="width:10%" />
+                    <label for="year">Year (4 digit)</label>
+                    <input type="text" name="year" id="year" style="width:20%" />
+                </td>
+            </tr>
+            <tr>
+                <td align="right">
+                    <label for="gender"><b>Gender</b></label>
+                </td>
+                <td colspan="3">
+                    <select name="gender" id="gender">
+                        <option value="female" selected="selected">Female</option>
+                        <option value="male">Male</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td align="right">
+                    <b>Starting Date</b>
+                </td>
+                <td colspan="3">
+                    <label for="startDateSpring">Spring 2006</label>
+                    <input type="radio" name="startDate" id="startDateSpring" />
+                    <label for="startDateSummer">Summer 2006</label>
+                    <input type="radio" name="startDate" id="startDateSummer" />
+                </td>
+            </tr>
+            <tr>
+                <td align="right">
+                    <label for="comments"><b>Comments/Questions</b></label>
+                </td>
+                <td colspan="3">
+                    <textarea name="comments" id="comments" style="width:96%" rows="4"></textarea>
+                </td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>

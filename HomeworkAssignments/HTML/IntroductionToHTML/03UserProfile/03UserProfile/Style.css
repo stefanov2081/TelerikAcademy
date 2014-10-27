@@ -1,0 +1,25 @@
+﻿body {
+    background-color:lightblue;
+}
+
+a.navbar {
+    text-decoration: none;
+    color: white;
+    background-color: green;
+    /*padding: 0.2em 0.6em;*/
+    border-right: 1px solid white;
+}
+
+    a:hover {
+        background-color: #ff3300;
+    }
+
+.divider {
+    width: 400px;
+    height: auto;
+    display: inline-block;
+}
+
+p.indented {
+    text-indent: 50px;
+}

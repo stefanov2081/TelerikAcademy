@@ -1,0 +1,152 @@
+﻿@border-radius: 12px;
+@border-thickness: 1px;
+@white: #fff;
+@purple: rgb(179, 94, 243);
+@deep-purple: rgb(96, 51, 130);
+@black: #000;
+
+body {
+    background: -webkit-linear-gradient(red, blue);
+    background: -o-linear-gradient(red, blue);
+    background: -moz-linear-gradient(red, blue);
+    background: linear-gradient(rgb(213, 147, 255), rgb(144, 28, 239)15%, rgb(146, 21, 242)30%);
+
+    header {
+        div {
+            #logo-container, #reg-form-container {
+                display: inline-block;
+            }
+
+            #reg-form-container {
+                margin-left: 40em;
+
+                form {
+                    div {
+                        input {
+                            margin-top: 0.8em;
+                            background-color: @purple;
+                            border: @border-thickness solid @deep-purple;
+                            border-radius: @border-radius;
+                        }
+
+                        label {
+                            color: @white;
+                        }
+                    }
+
+                    button {
+                        background-color: @purple;
+                        border-radius: 6px;
+                        border-width: @border-thickness;
+                        color: @white;
+                    }
+                }
+            }
+        }
+    }
+
+    nav {
+        ul {
+            width: 55em;
+            padding: 0.6em;
+            list-style: none;
+            position: relative;
+            display: inline-table;
+            border: @border-thickness solid @black;
+            border-radius: @border-radius;
+
+            li {
+                float: left;
+                margin: 0.4em;
+
+                a {
+                    display: block;
+                    text-decoration: none;
+                    color: @white;
+                }
+            }
+
+                li:hover > ul {
+                    display: block;
+                }
+
+            ul {
+                width: 10em;
+                display: none;
+                position: absolute;
+                background-color: rgb(144, 28, 239);
+
+                li {
+                    float: none;
+                    position: relative;
+                }
+            }
+        }
+
+            ul:after {
+                content: "";
+                clear: both;
+                display: block;
+            }
+    }
+
+    section {
+        display: inline-block;
+
+        article {
+            width: 50em;
+            margin: 0.6em;
+            margin-right: 0;
+            padding: 1em;
+            border: @border-thickness solid @black;
+            color: @white;
+            border-radius: @border-radius;
+
+            footer {
+                p {
+                    text-align: right;
+                }
+
+                a {
+                    color: rgb(208, 163, 248);
+                    text-decoration: none;
+                }
+            }
+        }
+    }
+
+    aside > ul > li {
+        width: 20em;
+        margin: 0.6em;
+        margin-left: 0;
+        padding: 0.6em;
+        border: @border-thickness solid @black;
+        border-radius: 6px;
+        color: @white;
+    }
+
+    aside {
+        position: relative;
+        float: right;
+
+        ul {
+            list-style-type: none;
+
+            ul {
+                list-style-image: url('../images/li-dot.png');
+            }
+
+            a {
+                color: rgb(168, 170, 180);
+                text-decoration: none;
+            }
+        }
+    }
+
+    footer {
+        p {
+            color: @white;
+            text-align: center;
+        }
+    }
+}

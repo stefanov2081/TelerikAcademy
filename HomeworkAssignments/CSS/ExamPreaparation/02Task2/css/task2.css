@@ -1,0 +1,73 @@
+html,
+body,
+div,
+ul,
+li,
+a,
+span,
+img {
+  margin: 0;
+  padding: 0;
+}
+body {
+  padding: 20px;
+  width: 100%;
+}
+body img {
+  width: 15px;
+  height: 15px;
+}
+body #wrapper {
+  padding: 25px;
+  width: 960px;
+  font-size: 16px;
+  font-family: monospace, 'Nimbus Mono L', 'Courier New', Courier;
+}
+body #wrapper .notification-list {
+  position: relative;
+  display: inline;
+  list-style-type: none;
+}
+body #wrapper .notification-list li {
+  padding: 5px 25px;
+  display: inline-block;
+  border: 1px solid #000000;
+  border-right: none;
+  background: -webkit-linear-gradient(top, #ababab, #dddddd);
+}
+body #wrapper .notification-list li:first-child {
+  border-top-left-radius: 15px;
+}
+body #wrapper .notification-list li:last-child {
+  border-right: 1px solid #000000;
+  border-top-right-radius: 15px;
+}
+body #wrapper .notification-list li a {
+  text-decoration: none;
+}
+body #wrapper .notification-list li:hover {
+  border-bottom: none;
+}
+body #wrapper .notification-list li:hover .content ul {
+  display: block;
+}
+body #wrapper .notification-list li:hover .content ul li {
+  width: inherit;
+}
+body #wrapper .notification-list .content ul {
+  width: auto;
+  position: absolute;
+  top: 23px;
+  left: 0;
+  display: none;
+  list-style-type: none;
+  border: 1px solid #000000;
+  background: #dddddd;
+}
+body #wrapper .notification-list .content ul li {
+  border: none;
+  background: #dddddd;
+}
+body #wrapper .notification-list .content ul li a:hover {
+  text-decoration: underline;
+}

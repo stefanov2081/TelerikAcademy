@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\KPK\UnitTesting\SchoolProject\bin\Debug\SchoolProject.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\KPK\UnitTesting\SchoolProject\bin\Debug\SchoolProject.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\KPK\UnitTesting\SchoolProject\bin\Debug\SchoolProject.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\KPK\UnitTesting\SchoolProject\obj\Debug\SchoolProject.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\KPK\UnitTesting\SchoolProject\obj\Debug\SchoolProject.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\KPK\UnitTesting\SchoolProject\obj\Debug\SchoolProject.pdb

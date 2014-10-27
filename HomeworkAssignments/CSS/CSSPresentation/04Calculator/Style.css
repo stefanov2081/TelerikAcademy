@@ -1,0 +1,390 @@
+﻿/** Note: I know that I've messed up the CSS, but it was too late to refactor it... I've learned my lesson... 
+    Classes should be applied to common elements...*/
+
+#close {
+    width: 43px;
+    height: 15px;
+    background: -webkit-radial-gradient(rgb(228, 134, 122), rgb(170, 72, 62) 40px); /* For Safari 5.1 to 6.0 */
+    background: -o-radial-gradient(rgb(228, 134, 122), rgb(170, 72, 62) 40px); /* For Opera 11.1 to 12.0 */
+    background: -moz-radial-gradient(rgb(228, 134, 122), rgb(170, 72, 62) 40px); /* For Firefox 3.6 to 15 */
+    background: radial-gradient(rgb(228, 134, 122), rgb(170, 72, 62) 40px); /* Standard syntax */
+    border: 1px solid #fff;
+    border-left: 1px solid rgb(226, 198, 197);
+    border-bottom: 1px solid rgb(223, 184, 178);
+    border-right: 1px solid rgb(228, 193, 192);
+    border-bottom-right-radius: 3px;
+    box-shadow: rgb(83, 43, 35) 0px 0px 1px;
+    box-shadow: 0px 0px 1px 1pt rgb(240, 247, 254), 0px 0px 1px 1px rgb(83, 43, 35);
+    display: inline-block;
+    float: right;
+    margin-right: 0.4%;
+    text-align: center;
+    line-height: 0.75em;
+    font-size: 1.1em;
+}
+
+    #close:hover {
+        background: -webkit-radial-gradient(rgb(239, 110, 87), rgb(166, 32, 13) 40px); /* For Safari 5.1 to 6.0 */
+        background: -o-radial-gradient(rgb(239, 110, 87), rgb(166, 32, 13) 40px); /* For Opera 11.1 to 12.0 */
+        background: -moz-radial-gradient(rgb(239, 110, 87), rgb(166, 32, 13) 40px); /* For Firefox 3.6 to 15 */
+        background: radial-gradient(rgb(239, 110, 87), rgb(166, 32, 13) 40px); /* Standard syntax */
+        border-bottom-color: rgb(230, 148, 47);
+        box-shadow: 0px 0px 7pt 3pt rgb(239, 110, 87);
+    }
+
+#maximize {
+    width: 23px;
+    height: 15px;
+    background: -webkit-linear-gradient(rgb(227, 237, 247), rgb(170, 189, 207), rgb(186, 204, 227)); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(rgb(227, 237, 247), rgb(170, 189, 207), rgb(186, 204, 227)); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(rgb(227, 237, 247), rgb(170, 189, 207), rgb(227, 237, 247)); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(rgb(227, 237, 247), rgb(170, 189, 207), rgb(186, 204, 227)); /* Standard syntax */
+    border: 1px solid #fff;
+    border-left: 1px solid rgb(230, 237, 243);
+    border-bottom: 1px solid rgb(222, 233, 245);
+    border-right: 1px solid rgb(222, 230, 239);
+    box-shadow: rgb(83, 43, 35) 0px 0px 1px;
+    box-shadow: 0px 0px 1px 1pt rgb(240, 247, 254), 0px 0px 1px 1px rgb(83, 43, 35);
+    display: inline-block;
+    float: right;
+    margin-right: 2px;
+}
+
+#minimize {
+    width: 28px;
+    height: 15px;
+    background: -webkit-linear-gradient(rgb(227, 237, 247), rgb(170, 189, 207), rgb(185, 203, 227)); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(rgb(227, 237, 247), rgb(170, 189, 207), rgb(185, 203, 227)); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(rgb(227, 237, 247), rgb(170, 189, 207), rgb(185, 203, 227)); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(rgb(227, 237, 247), rgb(170, 189, 207), rgb(185, 203, 227)); /* Standard syntax */
+    border: 1px solid #fff;
+    border-left: 1px solid rgb(223, 232, 240);
+    border-bottom: 1px solid rgb(221, 232, 245);
+    border-right: 1px solid rgb(221, 230, 239);
+    border-bottom-left-radius: 3px;
+    box-shadow: rgb(83, 43, 35) 0px 0px 1px;
+    box-shadow: 0px 0px 1px 1pt rgb(240, 247, 254), 0px 0px 1px 1px rgb(83, 43, 35);
+    display: inline-block;
+    float: right;
+    text-align: center;
+    margin-right: 2px;
+    font-size: 2em;
+    line-height: 0.47em;
+}
+
+    #minimize:hover {
+        background: -webkit-linear-gradient(rgb(227, 237, 247), rgb(170, 189, 207), rgb(185, 203, 227)); /* For Safari 5.1 to 6.0 */
+        background: -o-linear-gradient(rgb(227, 237, 247), rgb(170, 189, 207), rgb(185, 203, 227)); /* For Opera 11.1 to 12.0 */
+        background: -moz-linear-gradient(rgb(227, 237, 247), rgb(170, 189, 207), rgb(185, 203, 227)); /* For Firefox 3.6 to 15 */
+        background: linear-gradient(rgb(183, 219, 243), rgb(52, 134, 191), rgb(63, 170, 214)); /* Standard syntax */
+        border-bottom-color: rgb(35, 250, 250);
+        box-shadow: 0px 0px 6pt 2pt rgb(63, 170, 214);
+    }
+
+#close-icon, #minimize-icon {
+    display: inline-block;
+    vertical-align: 200%;
+    font-family: Consolas;
+    font-weight: 900;
+    text-shadow: -1px 0 1px #000, 0 1px 1px #000, 1px 0 1px #000, 0 -1px 1px #000;
+    color: #fff;
+}
+
+#maximize-icon {
+    width: 6px;
+    height: 4px;
+    border: 2px solid rgb(225, 233, 240);
+    box-shadow: 0px 0px 1px 1px rgb(176, 183, 190);
+    margin-left: 30%;
+    margin-top: 18%;
+}
+
+#view, #edit, #help {
+    display: inline-block;
+    margin-bottom: 100%;
+    float: left;
+    margin-left: 1%;
+    margin-right: 2%;
+    margin-top: -0.2%;
+    vertical-align: top;
+    font-size: 0.7em;
+    font-weight: 500;
+    font-family: Verdana;
+    border: 1px solid rgba(255, 255, 255, 0);
+}
+
+    #view:first-letter, #edit:first-letter, #help:first-letter {
+        text-decoration: underline;
+    }
+
+    #view:hover, #edit:hover, #help:hover {
+        border: 1px solid rgb(246, 249, 252);
+        border-radius: 2px;
+        box-shadow: 0px 0px 0px 1px rgb(135, 151, 170);
+    }
+
+#label-span {
+    font-size: 0.9em;
+    font-weight: 300;
+    padding-left: 5%;
+}
+
+#first-line-binary, #second-line-binary, #third-line-binary, #fourth-line-binary {
+    margin-left: -26.5%;
+}
+
+#firs-filne-binary-container, #second-line-binary-container, #third-line-binary-container, #fourth-line-binary-container {
+    height: 22%;
+    
+}
+
+.main-container {
+    width: 418px;
+    height: 384px;
+    background-color: rgba(190, 221, 251, 0.6);
+    border-top: 1px solid rgb(246, 250, 255);
+    border-right: 1px solid rgb(247, 251, 255);
+    border-bottom: 1px solid rgb(242, 248, 255);
+    border-left: 1px solid rgb(241, 248, 254);
+    border-radius: 8px;
+    box-shadow: 0px 0px 10pt 3pt rgb(37, 44, 51), 0px 0px 0px 1px #000;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    /* user-select: none; */ /* Invalid */
+    cursor: default;
+    
+}
+
+.head-container {
+    width: 410px;
+    height: 29px;
+    margin-left: 4px;
+    margin-right: 4px;
+    background-image: url(http://upload.wikimedia.org/wikipedia/en/5/58/Calculator_Windows_7_Icon.png);
+    background-repeat: no-repeat;
+    background-size: 5%;
+}
+
+.inner-container {
+    width: 97%;
+    height: 90%;
+    background-color: #0f0;
+    background: -webkit-linear-gradient(rgb(237, 244, 252) 5%, rgb(217, 228, 241) 95%); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(rgb(237, 244, 252) 5%, rgb(217, 228, 241) 95%); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(rgb(237, 244, 252) 5%, rgb(217, 228, 241) 95%); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(rgb(237, 244, 252) 10%, rgb(217, 228, 241) 25%); /* Standard syntax */
+    /*background: linear-gradient(red 20%, green 180%);*/
+    border: 1px solid rgb(93, 108, 122);
+    border-radius: 1px;
+    box-shadow: 0px 0px 0px 1px rgb(236, 245, 254);
+    margin-left: 1.3%;
+    position: relative;
+}
+
+.drop-down-menu {
+    width: 99.5%;
+    height: 15px;
+    background: -webkit-linear-gradient(rgb(254, 254, 255), rgb(225, 230, 246), rgb(225, 230, 246)); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(rgb(254, 254, 255), rgb(225, 230, 246), rgb(225, 230, 246)); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(rgb(254, 254, 255), rgb(225, 230, 246), rgb(225, 230, 246)); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(rgb(254, 254, 255), rgb(225, 230, 246), rgb(225, 230, 246)); /* Standard syntax */
+    border-top: 1px solid rgb(254, 254, 255);
+    border-left: 1px solid rgb(234, 237, 247);
+    border-right: 1px solid rgb(235, 238, 247);
+    border-bottom: 1px solid rgb(182, 188, 204);
+}
+
+.result-container {
+    border: 1px solid rgb(142, 156, 173);
+    border-radius: 2px;
+    width: 95%;
+    height: 13.8%;
+    margin-left: 2%;
+    margin-top: 3%;
+}
+
+.result {
+    background: -webkit-linear-gradient(rgb(229, 238, 251), rgb(255, 255, 255)); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(rgb(229, 238, 251), rgb(255, 255, 255)); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(rgb(229, 238, 251), rgb(255, 255, 255)); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(rgb(229, 238, 251), rgb(255, 255, 255)); /* Standard syntax */
+    border: 1px solid #fff;
+    border-radius: 2px;
+    height: 96%;
+}
+
+.result-text {
+    float: right;
+    margin-right: 1%;
+    line-height: 220%;
+    font-size: 1.5em;
+    font-family: Consolas;
+}
+
+.binary-represantion-container {
+    border: 1px solid rgb(142, 156, 173);
+    border-radius: 2px;
+    width: 95%;
+    height: 16.5%;
+    margin-left: 2%;
+    margin-top: 1.1%;
+}
+
+.binary-represantion {
+    border: 1px solid #fff;
+    border-radius: 2px;
+    height: 96%;
+}
+
+.binary-text {
+    font-size: 0.8em;
+    font-family: Consolas;
+    text-align: left;
+    line-height: 0.1em;
+}
+
+.binary-text-box-size {
+    display: inline;
+}
+
+.binary-text-inner {
+    margin-right: 4.5%;
+}
+
+.binary-text-inner-larger-margin {
+    margin-right: 46.8%;
+}
+
+.binary-text-inner-larger-margin-last {
+    margin-right: 37.5%;
+}
+
+.colour-grey {
+    color: rgb(161, 125, 102);
+}
+
+.radio-container {
+    width: 18%;
+    height: 54.5%;
+    margin-left: 2%;
+    margin-top: 1.1%;
+    position: relative;
+}
+
+.radio-group1-container {
+    border: 1px solid rgb(142, 156, 173);
+    border-radius: 2px;
+    width: 100%;
+    height: 46%;
+    padding: 0;
+    position: relative;
+    margin-bottom: 11%;
+}
+
+.radio-group2-container {
+    border: 1px solid rgb(142, 156, 173);
+    border-radius: 2px;
+    width: 100%;
+    height: 48%;
+    padding: 0;
+    position: relative;
+}
+
+form {
+    position: absolute;
+    top: 0;
+    left: 0;
+    color: rgb(30, 57, 91);
+    font-size: 0.8em;
+    font-family: Consolas;
+    text-align: left;
+    line-height: 1.4em;
+}
+
+.button-container {
+    border: 1px solid rgba(142, 156, 173, 0);
+    border-radius: 2px;
+    width: 79.2%;
+    height: 58.8%;
+    display: inline-block;
+    position: absolute;
+    bottom: -0.3%;
+    right: 0%;
+}
+
+table {
+    border-spacing: 0.255em;
+    border-collapse: separate;
+}
+
+td {
+    width: 31px;
+    height: 24px;
+    font-size: 0.84em;
+    color: rgb(30, 57, 91);
+    font-family: Calibri;
+    text-align: center;
+    border: 1px solid rgb(142, 156, 173);
+    border-radius: 2px;
+}
+
+.inactive {
+    border: 1px solid rgb(142, 156, 173);
+    border-radius: 2px;
+}
+
+.active {
+    border: 1px solid rgb(246, 249, 252);
+    border-radius: 2px;
+    box-shadow: 0px 0px 0px 1px rgb(135, 151, 170);
+    background: -webkit-linear-gradient(rgb(241, 246, 250) 40%, rgb(215, 223, 232), rgb(217, 227, 236)); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(rgb(241, 246, 250) 40%, rgb(215, 223, 232), rgb(217, 227, 236)); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(rgb(241, 246, 250) 40%, rgb(215, 223, 232), rgb(217, 227, 236)); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(rgb(241, 246, 250) 40%, rgb(215, 223, 232), rgb(217, 227, 236)); /* Standard syntax */
+}
+
+    .active.digit {
+        background: -webkit-linear-gradient(rgb(247, 251, 255) 40%, rgb(231, 237, 245), rgb(235, 242, 248)); /* For Safari 5.1 to 6.0 */
+        background: -o-linear-gradient(rgb(247, 251, 255) 40%, rgb(231, 237, 245), rgb(235, 242, 248)); /* For Opera 11.1 to 12.0 */
+        background: -moz-linear-gradient(rgb(247, 251, 255) 40%, rgb(231, 237, 245), rgb(235, 242, 248)); /* For Firefox 3.6 to 15 */
+        background: linear-gradient(rgb(247, 251, 255) 40%, rgb(231, 237, 245), rgb(235, 242, 248)); /* Standard syntax */
+        font-size: 1.2em;
+        font-weight: 100;
+    }
+
+.inactive.special:hover {
+    border-top-color: rgb(255, 251, 246);
+    border-right-color: rgb(255, 249, 241);
+    border-bottom-color: rgb(255, 250, 240);
+    border-left-color: rgb(255, 246, 237);
+    box-shadow: 0px 0px 0px 1px rgb(255, 219, 0);
+    background: -webkit-linear-gradient(rgb(255, 206, 103) 80%, rgb(255, 218, 115), rgb(255, 255, 216)); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(rgb(255, 206, 103) 80%, rgb(255, 218, 115), rgb(255, 255, 216)); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(rgb(255, 206, 103) 80%, rgb(255, 218, 115), rgb(255, 255, 216)); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(rgb(255, 206, 103) 80%, rgb(255, 218, 115), rgb(255, 255, 216)); /* Standard syntax */
+}
+
+.active:hover {
+    border-top-color: rgb(255, 251, 246);
+    border-right-color: rgb(255, 249, 241);
+    border-bottom-color: rgb(255, 250, 240);
+    border-left-color: rgb(255, 246, 237);
+    box-shadow: 0px 0px 0px 1px rgb(255, 219, 0);
+    background: -webkit-linear-gradient(rgb(241, 246, 250) 40%, rgb(215, 223, 232), rgb(217, 227, 236)); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(rgb(241, 246, 250) 40%, rgb(215, 223, 232), rgb(217, 227, 236)); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(rgb(241, 246, 250) 40%, rgb(215, 223, 232), rgb(217, 227, 236)); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(rgb(255, 244, 233) 40%, rgb(255, 208, 108), rgb(255, 244, 163)); /* Standard syntax */
+}
+
+.inactive.special {
+    border: 1px solid rgb(246, 249, 252);
+    border-radius: 2px;
+    box-shadow: 0px 0px 0px 1px rgb(135, 151, 170);
+}
+
+#equal-sign {
+    font-size: 1.6em;
+}

@@ -1,0 +1,5 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSS\CSSLayout\02MusicCategories\bin\02MusicCategories.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSS\CSSLayout\02MusicCategories\bin\02MusicCategories.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSS\CSSLayout\02MusicCategories\obj\Debug\02MusicCategories.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSS\CSSLayout\02MusicCategories\obj\Debug\02MusicCategories.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSS\CSSLayout\02MusicCategories\obj\Debug\02MusicCategories.pdb

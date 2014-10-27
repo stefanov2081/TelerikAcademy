@@ -1,0 +1,5 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptUIAndDOM\CodeTuning\03ComparePerformanceForMathFunctions\bin\Debug\03ComparePerformanceForMathFunctions.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptUIAndDOM\CodeTuning\03ComparePerformanceForMathFunctions\bin\Debug\03ComparePerformanceForMathFunctions.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptUIAndDOM\CodeTuning\03ComparePerformanceForMathFunctions\bin\Debug\03ComparePerformanceForMathFunctions.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptUIAndDOM\CodeTuning\03ComparePerformanceForMathFunctions\obj\Debug\03ComparePerformanceForMathFunctions.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptUIAndDOM\CodeTuning\03ComparePerformanceForMathFunctions\obj\Debug\03ComparePerformanceForMathFunctions.pdb

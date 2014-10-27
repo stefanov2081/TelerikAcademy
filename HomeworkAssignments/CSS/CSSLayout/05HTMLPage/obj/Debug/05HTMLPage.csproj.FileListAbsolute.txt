@@ -1,0 +1,5 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSS\CSSLayout\05HTMLPage\bin\05HTMLPage.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSS\CSSLayout\05HTMLPage\bin\05HTMLPage.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSS\CSSLayout\05HTMLPage\obj\Debug\05HTMLPage.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSS\CSSLayout\05HTMLPage\obj\Debug\05HTMLPage.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSS\CSSLayout\05HTMLPage\obj\Debug\05HTMLPage.pdb

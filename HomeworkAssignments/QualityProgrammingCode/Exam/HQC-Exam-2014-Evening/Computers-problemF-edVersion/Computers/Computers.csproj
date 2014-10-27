@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{920382DC-166F-4C55-8AF7-70D668191107}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Computers.UI.Console</RootNamespace>
+    <AssemblyName>Computers.UI.Console</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Collections.Generic">
+      <HintPath>Properties\System.Collections.Generic.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ClientSideComputers\ClientSideComputers.csproj">
+      <Project>{87001d5a-4a56-4b71-8153-67c82a8b880e}</Project>
+      <Name>ClientSideComputers</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Cpu\Cpu.csproj">
+      <Project>{37a19803-3d08-45b2-a6fe-bf8d2568c10f}</Project>
+      <Name>Cpu</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HardDrive\HardDrive.csproj">
+      <Project>{160f9e21-db85-4bc0-98f7-adebcfcbf866}</Project>
+      <Name>HardDrive</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\IMotherboard\IMotherboard.csproj">
+      <Project>{9908aa3e-4a27-413e-9ff7-87483dc5c4f3}</Project>
+      <Name>IMotherboard</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LaptopBattery\LaptopBattery.csproj">
+      <Project>{9a276c72-83f9-45d0-b1ff-9e4cab1d8e10}</Project>
+      <Name>LaptopBattery</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Laptop\Laptop.csproj">
+      <Project>{2c72e074-b42a-4a55-86d5-dc6a3db0e4ec}</Project>
+      <Name>Laptop</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PC\PC.csproj">
+      <Project>{2f4f5cb2-4c1d-466d-bfb9-7db41bbd85a7}</Project>
+      <Name>PC</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Ram\Ram.csproj">
+      <Project>{4c8f8e30-f39c-4ad1-8527-8141c5456e64}</Project>
+      <Name>Ram</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,7 @@
+C:\Users\mandjah\Desktop\asd\NEW\TelerikAcademy-master\11. Test-Driven Development\01. PokerUnitTests\bin\Debug\PokerUnitTests.dll
+C:\Users\mandjah\Desktop\asd\NEW\TelerikAcademy-master\11. Test-Driven Development\01. PokerUnitTests\bin\Debug\PokerUnitTests.pdb
+C:\Users\mandjah\Desktop\asd\NEW\TelerikAcademy-master\11. Test-Driven Development\01. PokerUnitTests\bin\Debug\Poker.dll
+C:\Users\mandjah\Desktop\asd\NEW\TelerikAcademy-master\11. Test-Driven Development\01. PokerUnitTests\bin\Debug\Poker.pdb
+C:\Users\mandjah\Desktop\asd\NEW\TelerikAcademy-master\11. Test-Driven Development\01. PokerUnitTests\obj\Debug\01. PokerUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Desktop\asd\NEW\TelerikAcademy-master\11. Test-Driven Development\01. PokerUnitTests\obj\Debug\PokerUnitTests.dll
+C:\Users\mandjah\Desktop\asd\NEW\TelerikAcademy-master\11. Test-Driven Development\01. PokerUnitTests\obj\Debug\PokerUnitTests.pdb

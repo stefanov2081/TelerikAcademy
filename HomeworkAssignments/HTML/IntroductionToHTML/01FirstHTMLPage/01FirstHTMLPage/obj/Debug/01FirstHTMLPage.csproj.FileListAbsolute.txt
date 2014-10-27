@@ -1,0 +1,5 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\HTML\IntroductionToHTML\01FirstHTMLPage\01FirstHTMLPage\bin\01FirstHTMLPage.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\HTML\IntroductionToHTML\01FirstHTMLPage\01FirstHTMLPage\bin\01FirstHTMLPage.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\HTML\IntroductionToHTML\01FirstHTMLPage\01FirstHTMLPage\obj\Debug\01FirstHTMLPage.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\HTML\IntroductionToHTML\01FirstHTMLPage\01FirstHTMLPage\obj\Debug\01FirstHTMLPage.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\HTML\IntroductionToHTML\01FirstHTMLPage\01FirstHTMLPage\obj\Debug\01FirstHTMLPage.pdb

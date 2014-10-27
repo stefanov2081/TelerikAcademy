@@ -1,0 +1,6 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\KPK\NamingIdentifiers\01ParseBoolAsString\bin\Debug\01ParseBoolAsString.exe.config
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\KPK\NamingIdentifiers\01ParseBoolAsString\bin\Debug\01ParseBoolAsString.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\KPK\NamingIdentifiers\01ParseBoolAsString\bin\Debug\01ParseBoolAsString.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\KPK\NamingIdentifiers\01ParseBoolAsString\obj\Debug\01ParseBoolAsString.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\KPK\NamingIdentifiers\01ParseBoolAsString\obj\Debug\01ParseBoolAsString.exe
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\KPK\NamingIdentifiers\01ParseBoolAsString\obj\Debug\01ParseBoolAsString.pdb

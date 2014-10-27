@@ -1,0 +1,83 @@
+html body div ul li {
+  margin: 0;
+  padding: 0;
+}
+body {
+  width: 960px;
+  font-family: Cambria, 'Times New Roman', 'Nimbus Roman No9 L', 'Freeserif', Times, serif;
+  font-size: 16px;
+}
+body div {
+  width: 65%;
+}
+body div > div {
+  border: 1px solid #000;
+  border-radius: 15px;
+  background: -webkit-linear-gradient(top, #eeeeee, #aaaaaa);
+  padding-left: 10px;
+  padding-right: 10px;
+}
+body div > div h1 {
+  text-align: center;
+  color: #555564;
+}
+body div > div ul {
+  list-style-type: none;
+  padding: 0;
+}
+body div > div ul li {
+  display: inline-block;
+  border: 1px solid #000;
+  border-radius: 15px;
+  padding: 10px;
+  width: 60%;
+  margin: 5px;
+  line-height: 1em;
+}
+body div > div ul li p {
+  margin: 0;
+  color: #555564;
+}
+body div > div ul li span:first-child {
+  font-weight: bold;
+}
+body div > div ul li span:last-child {
+  font-family: Consolas;
+  color: #555564;
+}
+body div > div ul .me-item {
+  background: -webkit-linear-gradient(top, #29edff, #c0faff);
+  float: right;
+}
+body div > div ul .me-item span:last-child {
+  float: right;
+}
+body div > div ul .toshko-item {
+  background: -webkit-linear-gradient(top, #dfffd2, #6fff3b);
+  float: left;
+}
+body div > div ul .toshko-item span {
+  text-align: right;
+}
+body div > div ul .toshko-item span:last-child {
+  float: left;
+}
+body div > div input {
+  width: 75%;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 5px;
+  background-color: #eeeeee;
+}
+body div > div button {
+  padding: 10px 20px;
+  background: -webkit-linear-gradient(top, #ededed, #adadad);
+  border: none;
+  border-radius: 5px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+body div > div button:hover {
+  background-color: #eeeeee;
+}

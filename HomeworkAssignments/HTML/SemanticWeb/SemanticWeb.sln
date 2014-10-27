@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01Refactor", "01Refactor\01Refactor.csproj", "{0F0E03FF-3ED0-415E-B081-1BE88435C9CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02SemanticHTML", "02SemanticHTML\02SemanticHTML.csproj", "{E1740695-9BC8-4666-90FA-9E3298D6E0D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03SemanticHTML2", "03SemanticHTML2\03SemanticHTML2.csproj", "{21C85FB5-6D28-4AFB-917F-BAC7D530A1D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F0E03FF-3ED0-415E-B081-1BE88435C9CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F0E03FF-3ED0-415E-B081-1BE88435C9CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F0E03FF-3ED0-415E-B081-1BE88435C9CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F0E03FF-3ED0-415E-B081-1BE88435C9CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1740695-9BC8-4666-90FA-9E3298D6E0D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1740695-9BC8-4666-90FA-9E3298D6E0D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1740695-9BC8-4666-90FA-9E3298D6E0D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1740695-9BC8-4666-90FA-9E3298D6E0D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21C85FB5-6D28-4AFB-917F-BAC7D530A1D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21C85FB5-6D28-4AFB-917F-BAC7D530A1D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21C85FB5-6D28-4AFB-917F-BAC7D530A1D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21C85FB5-6D28-4AFB-917F-BAC7D530A1D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

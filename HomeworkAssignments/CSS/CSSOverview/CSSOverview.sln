@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01TableGreyBackground", "01TableGreyBackground\01TableGreyBackground.csproj", "{43046EA0-D362-4262-BD68-F578C6158035}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02Green-whiteTable", "02Green-whiteTable\02Green-whiteTable.csproj", "{49001696-3444-499F-84E5-5E560DA2D024}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03StyledWebPage", "03StyledWebPage\03StyledWebPage.csproj", "{F5DD5F8E-E350-41C7-99ED-AFED20F9F6E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43046EA0-D362-4262-BD68-F578C6158035}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43046EA0-D362-4262-BD68-F578C6158035}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43046EA0-D362-4262-BD68-F578C6158035}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43046EA0-D362-4262-BD68-F578C6158035}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49001696-3444-499F-84E5-5E560DA2D024}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49001696-3444-499F-84E5-5E560DA2D024}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49001696-3444-499F-84E5-5E560DA2D024}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49001696-3444-499F-84E5-5E560DA2D024}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5DD5F8E-E350-41C7-99ED-AFED20F9F6E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5DD5F8E-E350-41C7-99ED-AFED20F9F6E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5DD5F8E-E350-41C7-99ED-AFED20F9F6E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5DD5F8E-E350-41C7-99ED-AFED20F9F6E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

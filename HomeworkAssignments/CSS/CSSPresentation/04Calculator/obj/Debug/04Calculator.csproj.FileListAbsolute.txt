@@ -1,0 +1,5 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSS\CSSPresentation\04Calculator\bin\04Calculator.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSS\CSSPresentation\04Calculator\bin\04Calculator.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSS\CSSPresentation\04Calculator\obj\Debug\04Calculator.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSS\CSSPresentation\04Calculator\obj\Debug\04Calculator.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\CSS\CSSPresentation\04Calculator\obj\Debug\04Calculator.pdb
