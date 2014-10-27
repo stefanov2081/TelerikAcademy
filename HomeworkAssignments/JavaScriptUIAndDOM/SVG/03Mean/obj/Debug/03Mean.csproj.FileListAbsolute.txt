@@ -1,0 +1,4 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptUIAndDOM\SVG\03Mean\bin\03Mean.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptUIAndDOM\SVG\03Mean\bin\03Mean.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptUIAndDOM\SVG\03Mean\obj\Debug\03Mean.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptUIAndDOM\SVG\03Mean\obj\Debug\03Mean.pdb

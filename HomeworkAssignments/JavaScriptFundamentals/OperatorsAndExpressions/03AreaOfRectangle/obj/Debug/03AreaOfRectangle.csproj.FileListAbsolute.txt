@@ -1,0 +1,5 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\OperatorsAndExpressions\03AreaOfRectangle\bin\03AreaOfRectangle.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\OperatorsAndExpressions\03AreaOfRectangle\bin\03AreaOfRectangle.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\OperatorsAndExpressions\03AreaOfRectangle\obj\Debug\03AreaOfRectangle.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\OperatorsAndExpressions\03AreaOfRectangle\obj\Debug\03AreaOfRectangle.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\OperatorsAndExpressions\03AreaOfRectangle\obj\Debug\03AreaOfRectangle.pdb

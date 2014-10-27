@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01HTTPRequests", "01HTTPRequests\01HTTPRequests.csproj", "{A2B27E47-E68C-42E9-AF15-3C315310F6CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03RESTApi", "03RESTApi\03RESTApi.csproj", "{CCD9F324-9B6A-4CEE-BC7D-96F58697D930}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2B27E47-E68C-42E9-AF15-3C315310F6CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2B27E47-E68C-42E9-AF15-3C315310F6CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2B27E47-E68C-42E9-AF15-3C315310F6CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2B27E47-E68C-42E9-AF15-3C315310F6CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCD9F324-9B6A-4CEE-BC7D-96F58697D930}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCD9F324-9B6A-4CEE-BC7D-96F58697D930}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCD9F324-9B6A-4CEE-BC7D-96F58697D930}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCD9F324-9B6A-4CEE-BC7D-96F58697D930}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

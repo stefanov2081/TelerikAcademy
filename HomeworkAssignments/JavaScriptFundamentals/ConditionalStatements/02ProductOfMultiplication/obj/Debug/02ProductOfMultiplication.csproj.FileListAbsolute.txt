@@ -1,0 +1,4 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\ConditionalStatements\02ProductOfMultiplication\bin\02ProductOfMultiplication.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\ConditionalStatements\02ProductOfMultiplication\bin\02ProductOfMultiplication.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\ConditionalStatements\02ProductOfMultiplication\obj\Debug\02ProductOfMultiplication.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\ConditionalStatements\02ProductOfMultiplication\obj\Debug\02ProductOfMultiplication.pdb

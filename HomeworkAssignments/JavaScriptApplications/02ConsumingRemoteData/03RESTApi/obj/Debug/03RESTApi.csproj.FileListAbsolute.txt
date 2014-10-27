@@ -1,0 +1,5 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptApplications\02ConsumingRemoteData\03RESTApi\bin\03RESTApi.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptApplications\02ConsumingRemoteData\03RESTApi\bin\03RESTApi.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptApplications\02ConsumingRemoteData\03RESTApi\obj\Debug\03RESTApi.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptApplications\02ConsumingRemoteData\03RESTApi\obj\Debug\03RESTApi.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptApplications\02ConsumingRemoteData\03RESTApi\obj\Debug\03RESTApi.pdb

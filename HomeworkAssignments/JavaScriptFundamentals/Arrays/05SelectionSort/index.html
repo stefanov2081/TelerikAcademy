@@ -1,0 +1,19 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Selection Sort</title>
+    <link href="Less/css/Style.css" rel="stylesheet" />
+</head>
+<body>
+    <div>
+        <h1>Enter array of numbers seprated by comma (,) to sort them using the selection sort algorithm</h1>
+        <form>
+            <label for="input">Enter array:</label>
+            <input id="input" name="input" type="text" placeholder="Example: 1, 2, 3"/>
+        </form>
+        <button onclick="readInput(); splitInput(); validateInput();">Submit</button>
+        <p id="result"></p>
+    </div>
+    <script src="JavaScript/selectionSort.js"></script>
+</body>
+</html>

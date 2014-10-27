@@ -1,0 +1,4 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptUIAndDOM\SVG\02WinStart\bin\02WinStart.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptUIAndDOM\SVG\02WinStart\bin\02WinStart.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptUIAndDOM\SVG\02WinStart\obj\Debug\02WinStart.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptUIAndDOM\SVG\02WinStart\obj\Debug\02WinStart.pdb

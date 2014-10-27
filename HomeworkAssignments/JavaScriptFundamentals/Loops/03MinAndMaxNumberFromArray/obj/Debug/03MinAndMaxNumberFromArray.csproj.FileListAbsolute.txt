@@ -1,0 +1,5 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\Loops\03MinAndMaxNumberFromArray\bin\03MinAndMaxNumberFromArray.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\Loops\03MinAndMaxNumberFromArray\bin\03MinAndMaxNumberFromArray.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\Loops\03MinAndMaxNumberFromArray\obj\Debug\03MinAndMaxNumberFromArray.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\Loops\03MinAndMaxNumberFromArray\obj\Debug\03MinAndMaxNumberFromArray.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\Loops\03MinAndMaxNumberFromArray\obj\Debug\03MinAndMaxNumberFromArray.pdb

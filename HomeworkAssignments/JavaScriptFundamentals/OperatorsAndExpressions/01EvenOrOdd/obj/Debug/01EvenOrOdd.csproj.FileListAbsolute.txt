@@ -1,0 +1,5 @@
+c:\users\mandjah\documents\visual studio 2012\Projects\JavaScriptFundamentals\OperatorsAndExpressions\01EvenOrOdd\bin\01EvenOrOdd.dll
+c:\users\mandjah\documents\visual studio 2012\Projects\JavaScriptFundamentals\OperatorsAndExpressions\01EvenOrOdd\bin\01EvenOrOdd.pdb
+c:\users\mandjah\documents\visual studio 2012\Projects\JavaScriptFundamentals\OperatorsAndExpressions\01EvenOrOdd\obj\Debug\01EvenOrOdd.csprojResolveAssemblyReference.cache
+c:\users\mandjah\documents\visual studio 2012\Projects\JavaScriptFundamentals\OperatorsAndExpressions\01EvenOrOdd\obj\Debug\01EvenOrOdd.dll
+c:\users\mandjah\documents\visual studio 2012\Projects\JavaScriptFundamentals\OperatorsAndExpressions\01EvenOrOdd\obj\Debug\01EvenOrOdd.pdb

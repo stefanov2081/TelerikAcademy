@@ -1,0 +1,5 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\UsingObjects\02RemoveGivenElement\bin\02RemoveGivenElement.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\UsingObjects\02RemoveGivenElement\bin\02RemoveGivenElement.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\UsingObjects\02RemoveGivenElement\obj\Debug\02RemoveGivenElement.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\UsingObjects\02RemoveGivenElement\obj\Debug\02RemoveGivenElement.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\UsingObjects\02RemoveGivenElement\obj\Debug\02RemoveGivenElement.pdb

@@ -1,0 +1,5 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\Arrays\05SelectionSort\bin\05SelectionSort.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\Arrays\05SelectionSort\bin\05SelectionSort.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\Arrays\05SelectionSort\obj\Debug\05SelectionSort.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\Arrays\05SelectionSort\obj\Debug\05SelectionSort.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\Arrays\05SelectionSort\obj\Debug\05SelectionSort.pdb

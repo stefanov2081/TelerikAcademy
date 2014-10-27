@@ -1,0 +1,4 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\UsingObjects\04CheckObjectForGivenProperty\bin\04CheckObjectForGivenProperty.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\UsingObjects\04CheckObjectForGivenProperty\bin\04CheckObjectForGivenProperty.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\UsingObjects\04CheckObjectForGivenProperty\obj\Debug\04CheckObjectForGivenProperty.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\UsingObjects\04CheckObjectForGivenProperty\obj\Debug\04CheckObjectForGivenProperty.pdb

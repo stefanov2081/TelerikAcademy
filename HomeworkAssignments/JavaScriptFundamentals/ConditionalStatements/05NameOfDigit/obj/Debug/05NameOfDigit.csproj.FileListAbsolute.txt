@@ -1,0 +1,5 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\ConditionalStatements\05NameOfDigit\bin\05NameOfDigit.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\ConditionalStatements\05NameOfDigit\bin\05NameOfDigit.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\ConditionalStatements\05NameOfDigit\obj\Debug\05NameOfDigit.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\ConditionalStatements\05NameOfDigit\obj\Debug\05NameOfDigit.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\ConditionalStatements\05NameOfDigit\obj\Debug\05NameOfDigit.pdb

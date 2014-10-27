@@ -1,0 +1,5 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptUIAndDOM\jQueryOverview\04ChangeBackgroundColour\bin\04ChangeBackgroundColour.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptUIAndDOM\jQueryOverview\04ChangeBackgroundColour\bin\04ChangeBackgroundColour.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptUIAndDOM\jQueryOverview\04ChangeBackgroundColour\obj\Debug\04ChangeBackgroundColour.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptUIAndDOM\jQueryOverview\04ChangeBackgroundColour\obj\Debug\04ChangeBackgroundColour.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptUIAndDOM\jQueryOverview\04ChangeBackgroundColour\obj\Debug\04ChangeBackgroundColour.pdb

@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Replace Placeholders With Properties
+    </title>
+    <link href="Less/css/Style.css" rel="stylesheet" />
+    <script src="JavaScript/replacePlaceholdersWithProperties.js"></script>
+</head>
+<body">
+    <div id="main-container">
+        <h1>This script replaces all placeholders in a div with id="list-item" with list of properties. Click Submit at the end of the page to continue.
+        </h1>
+        <p id ="info"></p>
+        <!--<form>
+            <label for="input">string input = </label>
+            <input id="input" name="input" type="text" placeholder="Example: string"/>
+            <label for="property">Enter property to search for</label>
+            <input id="property" name="property" type="text" placeholder="WhyAreYouSoLazy" />
+        </form>-->
+        <div data-type="template" id="list-item">
+            <strong>-{name}-</strong> <span>-{age}-</span>
+        </div>
+        <p id ="more-info"></p>
+        <button onclick="main();">Submit</button>
+        <p id="result"></p>
+        
+    </div>
+</body>
+</html>

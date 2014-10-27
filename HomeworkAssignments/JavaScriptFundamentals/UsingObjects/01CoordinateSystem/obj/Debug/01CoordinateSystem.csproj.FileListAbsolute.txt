@@ -1,0 +1,5 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\UsingObjects\01CoordinateSystem\bin\01CoordinateSystem.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\UsingObjects\01CoordinateSystem\bin\01CoordinateSystem.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\UsingObjects\01CoordinateSystem\obj\Debug\01CoordinateSystem.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\UsingObjects\01CoordinateSystem\obj\Debug\01CoordinateSystem.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\UsingObjects\01CoordinateSystem\obj\Debug\01CoordinateSystem.pdb

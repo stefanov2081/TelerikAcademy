@@ -1,0 +1,5 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\Functions\03CountOccurrencesInText\bin\03CountOccurrencesInText.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\Functions\03CountOccurrencesInText\bin\03CountOccurrencesInText.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\Functions\03CountOccurrencesInText\obj\Debug\03CountOccurrencesInText.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\Functions\03CountOccurrencesInText\obj\Debug\03CountOccurrencesInText.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\Functions\03CountOccurrencesInText\obj\Debug\03CountOccurrencesInText.pdb

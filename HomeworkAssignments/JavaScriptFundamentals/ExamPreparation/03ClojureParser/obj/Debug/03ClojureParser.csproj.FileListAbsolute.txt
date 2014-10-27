@@ -1,0 +1,5 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\ExamPreparation\03ClojureParser\bin\03ClojureParser.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\ExamPreparation\03ClojureParser\bin\03ClojureParser.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\ExamPreparation\03ClojureParser\obj\Debug\03ClojureParser.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\ExamPreparation\03ClojureParser\obj\Debug\03ClojureParser.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\ExamPreparation\03ClojureParser\obj\Debug\03ClojureParser.pdb

@@ -1,0 +1,4 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\Loops\02PrintAllNumsFrom1ToNNotDivisibleBy3And7\bin\02PrintAllNumsFrom1ToNNotDivisibleBy3And7.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\Loops\02PrintAllNumsFrom1ToNNotDivisibleBy3And7\bin\02PrintAllNumsFrom1ToNNotDivisibleBy3And7.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\Loops\02PrintAllNumsFrom1ToNNotDivisibleBy3And7\obj\Debug\02PrintAllNumsFrom1ToNNotDivisibleBy3And7.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\Loops\02PrintAllNumsFrom1ToNNotDivisibleBy3And7\obj\Debug\02PrintAllNumsFrom1ToNNotDivisibleBy3And7.pdb

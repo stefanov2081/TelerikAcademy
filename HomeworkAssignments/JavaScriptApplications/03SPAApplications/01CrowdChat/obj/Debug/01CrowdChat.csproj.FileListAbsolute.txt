@@ -1,0 +1,5 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptApplications\03SPAApplications\01CrowdChat\bin\01CrowdChat.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptApplications\03SPAApplications\01CrowdChat\bin\01CrowdChat.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptApplications\03SPAApplications\01CrowdChat\obj\Debug\01CrowdChat.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptApplications\03SPAApplications\01CrowdChat\obj\Debug\01CrowdChat.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptApplications\03SPAApplications\01CrowdChat\obj\Debug\01CrowdChat.pdb

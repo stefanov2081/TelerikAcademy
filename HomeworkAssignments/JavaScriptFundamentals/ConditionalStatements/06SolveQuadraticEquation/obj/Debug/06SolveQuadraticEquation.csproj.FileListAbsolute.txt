@@ -1,0 +1,5 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\ConditionalStatements\06SolveQuadraticEquation\bin\06SolveQuadraticEquation.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\ConditionalStatements\06SolveQuadraticEquation\bin\06SolveQuadraticEquation.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\ConditionalStatements\06SolveQuadraticEquation\obj\Debug\06SolveQuadraticEquation.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\ConditionalStatements\06SolveQuadraticEquation\obj\Debug\06SolveQuadraticEquation.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\ConditionalStatements\06SolveQuadraticEquation\obj\Debug\06SolveQuadraticEquation.pdb

@@ -1,0 +1,5 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\Strings\11FormatAStringWithPlaceholders\bin\11FormatAStringWithPlaceholders.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\Strings\11FormatAStringWithPlaceholders\bin\11FormatAStringWithPlaceholders.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\Strings\11FormatAStringWithPlaceholders\obj\Debug\11FormatAStringWithPlaceholders.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\Strings\11FormatAStringWithPlaceholders\obj\Debug\11FormatAStringWithPlaceholders.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\Strings\11FormatAStringWithPlaceholders\obj\Debug\11FormatAStringWithPlaceholders.pdb

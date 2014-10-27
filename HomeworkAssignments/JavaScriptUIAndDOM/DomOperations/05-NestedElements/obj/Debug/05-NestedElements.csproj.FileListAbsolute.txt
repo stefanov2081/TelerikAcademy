@@ -1,0 +1,11 @@
+D:\ПРОГРАМИСТ\DOM and UI\DomOperations\05-NestedElements\bin\05-NestedElements.dll.config
+D:\ПРОГРАМИСТ\DOM and UI\DomOperations\05-NestedElements\bin\05-NestedElements.dll
+D:\ПРОГРАМИСТ\DOM and UI\DomOperations\05-NestedElements\bin\05-NestedElements.pdb
+D:\ПРОГРАМИСТ\DOM and UI\DomOperations\05-NestedElements\obj\Debug\05-NestedElements.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\DOM and UI\DomOperations\05-NestedElements\obj\Debug\05-NestedElements.dll
+D:\ПРОГРАМИСТ\DOM and UI\DomOperations\05-NestedElements\obj\Debug\05-NestedElements.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptUIAndDOM\DomOperations\DomOperations\05-NestedElements\bin\05-NestedElements.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptUIAndDOM\DomOperations\DomOperations\05-NestedElements\bin\05-NestedElements.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptUIAndDOM\DomOperations\DomOperations\05-NestedElements\obj\Debug\05-NestedElements.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptUIAndDOM\DomOperations\DomOperations\05-NestedElements\obj\Debug\05-NestedElements.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptUIAndDOM\DomOperations\DomOperations\05-NestedElements\obj\Debug\05-NestedElements.pdb

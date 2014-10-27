@@ -1,0 +1,4 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptUIAndDOM\Handlebars\02Select\bin\02Select.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptUIAndDOM\Handlebars\02Select\bin\02Select.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptUIAndDOM\Handlebars\02Select\obj\Debug\02Select.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptUIAndDOM\Handlebars\02Select\obj\Debug\02Select.pdb

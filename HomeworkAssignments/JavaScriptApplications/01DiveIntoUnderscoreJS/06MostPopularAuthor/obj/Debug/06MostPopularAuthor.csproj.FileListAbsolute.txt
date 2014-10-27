@@ -1,0 +1,4 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptApplications\01DiveIntoUnderscoreJS\06MostPopularAuthor\bin\06MostPopularAuthor.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptApplications\01DiveIntoUnderscoreJS\06MostPopularAuthor\bin\06MostPopularAuthor.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptApplications\01DiveIntoUnderscoreJS\06MostPopularAuthor\obj\Debug\06MostPopularAuthor.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptApplications\01DiveIntoUnderscoreJS\06MostPopularAuthor\obj\Debug\06MostPopularAuthor.pdb

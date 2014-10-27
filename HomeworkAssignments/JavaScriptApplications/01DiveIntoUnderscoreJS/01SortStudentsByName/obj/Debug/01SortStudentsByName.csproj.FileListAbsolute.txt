@@ -1,0 +1,5 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptApplications\01DiveIntoUnderscoreJS\01SortStudentsByName\bin\01SortStudentsByName.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptApplications\01DiveIntoUnderscoreJS\01SortStudentsByName\bin\01SortStudentsByName.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptApplications\01DiveIntoUnderscoreJS\01SortStudentsByName\obj\Debug\01SortStudentsByName.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptApplications\01DiveIntoUnderscoreJS\01SortStudentsByName\obj\Debug\01SortStudentsByName.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptApplications\01DiveIntoUnderscoreJS\01SortStudentsByName\obj\Debug\01SortStudentsByName.pdb

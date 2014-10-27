@@ -1,0 +1,5 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\Functions\01LastDigitOfInteger\bin\01LastDigitOfInteger.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\Functions\01LastDigitOfInteger\bin\01LastDigitOfInteger.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\Functions\01LastDigitOfInteger\obj\Debug\01LastDigitOfInteger.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\Functions\01LastDigitOfInteger\obj\Debug\01LastDigitOfInteger.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\Functions\01LastDigitOfInteger\obj\Debug\01LastDigitOfInteger.pdb

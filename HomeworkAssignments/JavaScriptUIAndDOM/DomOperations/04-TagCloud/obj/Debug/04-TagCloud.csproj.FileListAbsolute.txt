@@ -1,0 +1,11 @@
+D:\ПРОГРАМИСТ\DOM and UI\DomOperations\04-TagCloud\bin\04-TagCloud.dll.config
+D:\ПРОГРАМИСТ\DOM and UI\DomOperations\04-TagCloud\bin\04-TagCloud.dll
+D:\ПРОГРАМИСТ\DOM and UI\DomOperations\04-TagCloud\bin\04-TagCloud.pdb
+D:\ПРОГРАМИСТ\DOM and UI\DomOperations\04-TagCloud\obj\Debug\04-TagCloud.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\DOM and UI\DomOperations\04-TagCloud\obj\Debug\04-TagCloud.dll
+D:\ПРОГРАМИСТ\DOM and UI\DomOperations\04-TagCloud\obj\Debug\04-TagCloud.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptUIAndDOM\DomOperations\DomOperations\04-TagCloud\bin\04-TagCloud.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptUIAndDOM\DomOperations\DomOperations\04-TagCloud\bin\04-TagCloud.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptUIAndDOM\DomOperations\DomOperations\04-TagCloud\obj\Debug\04-TagCloud.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptUIAndDOM\DomOperations\DomOperations\04-TagCloud\obj\Debug\04-TagCloud.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptUIAndDOM\DomOperations\DomOperations\04-TagCloud\obj\Debug\04-TagCloud.pdb

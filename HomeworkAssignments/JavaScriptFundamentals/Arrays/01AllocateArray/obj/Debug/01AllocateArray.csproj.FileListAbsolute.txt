@@ -1,0 +1,4 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\Arrays\01AllocateArray\bin\01AllocateArray.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\Arrays\01AllocateArray\bin\01AllocateArray.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\Arrays\01AllocateArray\obj\Debug\01AllocateArray.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\Arrays\01AllocateArray\obj\Debug\01AllocateArray.pdb

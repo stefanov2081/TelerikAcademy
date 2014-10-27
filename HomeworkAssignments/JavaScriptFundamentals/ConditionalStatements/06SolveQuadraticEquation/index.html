@@ -1,0 +1,20 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Solve Quadratic Equation</title>
+</head>
+<body>
+    <p>Enter the coefficients for the Ax2 + Bx + C = 0 equation to see the solutions (if they are not imaginary). </p>
+    <form>
+        <label for="a">Value 1:</label>
+        <input id="a" name="a" type="text"/>
+        <label for="b">Value 2:</label>
+        <input id="b" name="b" type="text"/>
+        <label for="c">Value 3:</label>
+        <input id="c" name="c" type="text"/>
+    </form>
+    <button onclick="readInput(); validateInput();">Submit</button>
+    <p id="result"></p>
+    <script src="JavaScript/solveQuadraticEquation.js"></script>
+</body>
+</html>

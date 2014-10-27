@@ -1,0 +1,5 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\OperatorsAndExpressions\07IsNPrime\bin\07IsNPrime.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\OperatorsAndExpressions\07IsNPrime\bin\07IsNPrime.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\OperatorsAndExpressions\07IsNPrime\obj\Debug\07IsNPrime.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\OperatorsAndExpressions\07IsNPrime\obj\Debug\07IsNPrime.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\OperatorsAndExpressions\07IsNPrime\obj\Debug\07IsNPrime.pdb

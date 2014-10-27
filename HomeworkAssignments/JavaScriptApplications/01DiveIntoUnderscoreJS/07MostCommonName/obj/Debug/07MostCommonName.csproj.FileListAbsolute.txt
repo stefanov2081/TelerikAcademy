@@ -1,0 +1,5 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptApplications\01DiveIntoUnderscoreJS\07MostCommonName\bin\07MostCommonName.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptApplications\01DiveIntoUnderscoreJS\07MostCommonName\bin\07MostCommonName.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptApplications\01DiveIntoUnderscoreJS\07MostCommonName\obj\Debug\07MostCommonName.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptApplications\01DiveIntoUnderscoreJS\07MostCommonName\obj\Debug\07MostCommonName.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptApplications\01DiveIntoUnderscoreJS\07MostCommonName\obj\Debug\07MostCommonName.pdb

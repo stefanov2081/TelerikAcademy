@@ -1,0 +1,5 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\Strings\01ReverseAString\bin\01ReverseAString.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\Strings\01ReverseAString\bin\01ReverseAString.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\Strings\01ReverseAString\obj\Debug\01ReverseAString.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\Strings\01ReverseAString\obj\Debug\01ReverseAString.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\Strings\01ReverseAString\obj\Debug\01ReverseAString.pdb

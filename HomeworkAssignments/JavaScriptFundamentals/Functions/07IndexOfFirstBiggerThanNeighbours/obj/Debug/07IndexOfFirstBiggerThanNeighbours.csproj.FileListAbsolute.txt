@@ -1,0 +1,5 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\Functions\07IndexOfFirstBiggerThanNeighbours\bin\07IndexOfFirstBiggerThanNeighbours.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\Functions\07IndexOfFirstBiggerThanNeighbours\bin\07IndexOfFirstBiggerThanNeighbours.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\Functions\07IndexOfFirstBiggerThanNeighbours\obj\Debug\07IndexOfFirstBiggerThanNeighbours.csprojResolveAssemblyReference.cache
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\Functions\07IndexOfFirstBiggerThanNeighbours\obj\Debug\07IndexOfFirstBiggerThanNeighbours.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\Functions\07IndexOfFirstBiggerThanNeighbours\obj\Debug\07IndexOfFirstBiggerThanNeighbours.pdb

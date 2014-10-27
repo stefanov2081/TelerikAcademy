@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Count Occurrences</title>
+    <link href="Less/css/Style.css" rel="stylesheet" />
+</head>
+<body>
+    <div>
+        <h1>Enter Text and a key(word or a number) and choose case sensitive or insesitive search, to find how many times it appeares in the text</h1>
+        <form>
+            <label for="text">Enter text</label>
+            <textarea id="text" name="text" placeholder="Example: blah blah yada yada"></textarea>
+            <label for="key">Enter key</label>
+            <input id="key" name="key" type="text" placeholder="Example: blah"/>
+            <br />
+            <input id="case-sens" name="case" type="checkbox" value="off" onchange="triggerOn();"/><label for="case-sens">Case sensitive</label>
+        </form>
+        <button onclick="main();">Submit</button>
+        <p id="result"></p>
+    </div>
+    <script src="JavaScript/countOccurrences.js"></script>
+</body>
+</html>

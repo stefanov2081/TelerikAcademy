@@ -1,0 +1,5 @@
+c:\users\mandjah\documents\visual studio 2012\Projects\JavaScriptFundamentals\OperatorsAndExpressions\02DivisibleBy5And7\bin\02DivisibleBy5And7.dll
+c:\users\mandjah\documents\visual studio 2012\Projects\JavaScriptFundamentals\OperatorsAndExpressions\02DivisibleBy5And7\bin\02DivisibleBy5And7.pdb
+c:\users\mandjah\documents\visual studio 2012\Projects\JavaScriptFundamentals\OperatorsAndExpressions\02DivisibleBy5And7\obj\Debug\02DivisibleBy5And7.dll
+c:\users\mandjah\documents\visual studio 2012\Projects\JavaScriptFundamentals\OperatorsAndExpressions\02DivisibleBy5And7\obj\Debug\02DivisibleBy5And7.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\OperatorsAndExpressions\02DivisibleBy5And7\obj\Debug\02DivisibleBy5And7.csprojResolveAssemblyReference.cache

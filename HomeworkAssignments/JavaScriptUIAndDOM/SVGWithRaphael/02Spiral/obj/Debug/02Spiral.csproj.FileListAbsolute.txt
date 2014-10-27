@@ -1,0 +1,4 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptUIAndDOM\SVGWithRaphael\02Spiral\bin\02Spiral.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptUIAndDOM\SVGWithRaphael\02Spiral\bin\02Spiral.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptUIAndDOM\SVGWithRaphael\02Spiral\obj\Debug\02Spiral.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptUIAndDOM\SVGWithRaphael\02Spiral\obj\Debug\02Spiral.pdb

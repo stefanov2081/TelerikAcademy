@@ -1,0 +1,9 @@
+D:\ПРОГРАМИСТ\DOM and UI\DomOperations\03-ColorTextArea\bin\03-ColorTextArea.dll.config
+D:\ПРОГРАМИСТ\DOM and UI\DomOperations\03-ColorTextArea\bin\03-ColorTextArea.dll
+D:\ПРОГРАМИСТ\DOM and UI\DomOperations\03-ColorTextArea\bin\03-ColorTextArea.pdb
+D:\ПРОГРАМИСТ\DOM and UI\DomOperations\03-ColorTextArea\obj\Debug\03-ColorTextArea.dll
+D:\ПРОГРАМИСТ\DOM and UI\DomOperations\03-ColorTextArea\obj\Debug\03-ColorTextArea.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptUIAndDOM\DomOperations\DomOperations\03-ColorTextArea\bin\03-ColorTextArea.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptUIAndDOM\DomOperations\DomOperations\03-ColorTextArea\bin\03-ColorTextArea.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptUIAndDOM\DomOperations\DomOperations\03-ColorTextArea\obj\Debug\03-ColorTextArea.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptUIAndDOM\DomOperations\DomOperations\03-ColorTextArea\obj\Debug\03-ColorTextArea.pdb

@@ -1,0 +1,4 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptUIAndDOM\SVGWithRaphael\01Logos\bin\01Logos.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptUIAndDOM\SVGWithRaphael\01Logos\bin\01Logos.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptUIAndDOM\SVGWithRaphael\01Logos\obj\Debug\01Logos.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptUIAndDOM\SVGWithRaphael\01Logos\obj\Debug\01Logos.pdb

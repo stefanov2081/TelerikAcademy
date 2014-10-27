@@ -1,0 +1,5 @@
+c:\users\mandjah\documents\visual studio 2012\Projects\JavaScriptFundamentals\DataTypeAndVariables\01AllTasks\bin\01AllTasks.dll
+c:\users\mandjah\documents\visual studio 2012\Projects\JavaScriptFundamentals\DataTypeAndVariables\01AllTasks\bin\01AllTasks.pdb
+c:\users\mandjah\documents\visual studio 2012\Projects\JavaScriptFundamentals\DataTypeAndVariables\01AllTasks\obj\Debug\01AllTasks.csprojResolveAssemblyReference.cache
+c:\users\mandjah\documents\visual studio 2012\Projects\JavaScriptFundamentals\DataTypeAndVariables\01AllTasks\obj\Debug\01AllTasks.dll
+c:\users\mandjah\documents\visual studio 2012\Projects\JavaScriptFundamentals\DataTypeAndVariables\01AllTasks\obj\Debug\01AllTasks.pdb

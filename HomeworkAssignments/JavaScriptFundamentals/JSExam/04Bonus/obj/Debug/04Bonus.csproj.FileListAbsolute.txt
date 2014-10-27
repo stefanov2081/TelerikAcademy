@@ -1,0 +1,4 @@
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\JSExam\04Bonus\bin\04Bonus.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\JSExam\04Bonus\bin\04Bonus.pdb
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\JSExam\04Bonus\obj\Debug\04Bonus.dll
+C:\Users\mandjah\Documents\Visual Studio 2012\Projects\JavaScriptFundamentals\JSExam\04Bonus\obj\Debug\04Bonus.pdb

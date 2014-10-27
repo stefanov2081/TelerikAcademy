@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01SortStudentsByName", "01SortStudentsByName\01SortStudentsByName.csproj", "{C22EB3AA-F8F4-483A-B113-F200A206D93B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02FindStudentsByAge", "02FindStudentsByAge\02FindStudentsByAge.csproj", "{9AFB3732-004E-413D-B66F-F63AA783B5A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03StudentWithHighestMarks", "03StudentWithHighestMark\03StudentWithHighestMarks.csproj", "{118EF4FF-CA0B-4913-B41A-1331A0EA3606}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04GropBySpecieAndSortByNumberOfLegs", "04GropBySpecieAndSortByNumberOfLegs\04GropBySpecieAndSortByNumberOfLegs.csproj", "{D122F01E-B0B6-42A7-8462-E042F899AD0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05FindTotalNumberOfLegs", "05FindTotalNumberOfLegs\05FindTotalNumberOfLegs.csproj", "{EC1048F4-581E-424C-AA7C-00E6DE2958FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06MostPopularAuthor", "06MostPopularAuthor\06MostPopularAuthor.csproj", "{F1BF631D-1B70-4456-8711-355A52ADC1F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07MostCommonName", "07MostCommonName\07MostCommonName.csproj", "{C032B9AE-BBAC-4BED-AAD9-5C4CD82EF1DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C22EB3AA-F8F4-483A-B113-F200A206D93B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C22EB3AA-F8F4-483A-B113-F200A206D93B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C22EB3AA-F8F4-483A-B113-F200A206D93B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C22EB3AA-F8F4-483A-B113-F200A206D93B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AFB3732-004E-413D-B66F-F63AA783B5A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AFB3732-004E-413D-B66F-F63AA783B5A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AFB3732-004E-413D-B66F-F63AA783B5A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AFB3732-004E-413D-B66F-F63AA783B5A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{118EF4FF-CA0B-4913-B41A-1331A0EA3606}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{118EF4FF-CA0B-4913-B41A-1331A0EA3606}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{118EF4FF-CA0B-4913-B41A-1331A0EA3606}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{118EF4FF-CA0B-4913-B41A-1331A0EA3606}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D122F01E-B0B6-42A7-8462-E042F899AD0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D122F01E-B0B6-42A7-8462-E042F899AD0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D122F01E-B0B6-42A7-8462-E042F899AD0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D122F01E-B0B6-42A7-8462-E042F899AD0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC1048F4-581E-424C-AA7C-00E6DE2958FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC1048F4-581E-424C-AA7C-00E6DE2958FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC1048F4-581E-424C-AA7C-00E6DE2958FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC1048F4-581E-424C-AA7C-00E6DE2958FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1BF631D-1B70-4456-8711-355A52ADC1F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1BF631D-1B70-4456-8711-355A52ADC1F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1BF631D-1B70-4456-8711-355A52ADC1F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1BF631D-1B70-4456-8711-355A52ADC1F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C032B9AE-BBAC-4BED-AAD9-5C4CD82EF1DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C032B9AE-BBAC-4BED-AAD9-5C4CD82EF1DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C032B9AE-BBAC-4BED-AAD9-5C4CD82EF1DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C032B9AE-BBAC-4BED-AAD9-5C4CD82EF1DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
